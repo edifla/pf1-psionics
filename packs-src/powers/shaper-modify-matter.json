@@ -1,0 +1,97 @@
+{
+  "_id": "1325593d8e6da660",
+  "_key": "!items!1325593d8e6da660",
+  "name": "Modify Matter",
+  "type": "spell",
+  "img": "icons/magic/symbols/elements-air-earth-fire-water.webp",
+  "folder": "efbc030581b5f311",
+  "sort": 0,
+  "system": {
+    "description": {
+      "value": "<p><em>Transforms raw goods to finished items.</em></p><p>Full text: <a href=\"https://www.d20pfsrd.com/alternative-rule-systems/3rd-party-rules-systems/psionics-unleashed /psionic-powers/m/modify-matter\">Modify Matter on d20pfsrd.com</a></p><p><strong>Source:</strong> Psionics Unleashed</p>",
+      "instructions": ""
+    },
+    "tags": [],
+    "actions": [
+      {
+        "_id": "3dc7b8665bbc7aaf",
+        "name": "Manifest",
+        "actionType": "other",
+        "activation": {
+          "type": "special",
+          "cost": 1,
+          "unchained": {
+            "type": "action",
+            "cost": 2
+          }
+        },
+        "range": {
+          "units": "close"
+        },
+        "duration": {
+          "units": "inst",
+          "dismiss": false,
+          "concentration": false
+        },
+        "target": {
+          "value": "Up to 10 cu. ft./level"
+        }
+      }
+    ],
+    "learnedAt": {
+      "class": {
+        "psion": 4
+      },
+      "domain": {
+        "shaper": 4
+      },
+      "subDomain": {},
+      "elementalSchool": {},
+      "bloodline": {}
+    },
+    "level": 4,
+    "school": "metacreativity",
+    "subschool": [],
+    "descriptors": [],
+    "components": {
+      "value": "Inline !Important",
+      "verbal": false,
+      "somatic": false,
+      "thought": false,
+      "emotion": false,
+      "material": false,
+      "focus": false,
+      "divineFocus": 0
+    },
+    "materials": {
+      "value": "",
+      "focus": "",
+      "gpValue": 0
+    },
+    "spellbook": "psionic",
+    "preparation": {
+      "value": 1,
+      "max": 1
+    },
+    "atWill": false,
+    "sr": false,
+    "domain": false,
+    "slotCost": 1,
+    "spellPoints": {
+      "cost": "7"
+    }
+  },
+  "effects": [],
+  "flags": {
+    "pf1-psionics": {
+      "power": true,
+      "discipline": "metacreativity",
+      "specialization": "shaper",
+      "augment": false,
+      "display": "Inline !Important",
+      "powerPoints": 7,
+      "source": "Psionics Unleashed",
+      "url": "https://www.d20pfsrd.com/alternative-rule-systems/3rd-party-rules-systems/psionics-unleashed /psionic-powers/m/modify-matter"
+    }
+  }
+}

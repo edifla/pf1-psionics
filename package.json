@@ -1,0 +1,20 @@
+{
+  "name": "pf1-psionics",
+  "version": "0.2.0",
+  "private": true,
+  "description": "Psionics module for Foundry VTT (PF1 system).",
+  "scripts": {
+    "scrape:powers": "node tools/scrape-powers.mjs",
+    "scrape:classes": "node tools/scrape-classes.mjs",
+    "gen:buffs": "node tools/build-buffs.mjs",
+    "build:packs": "npm run build:powers && npm run build:classes && npm run build:features && npm run build:buffs",
+    "build:features": "npx @foundryvtt/foundryvtt-cli package pack psionic-class-features --id pf1-psionics --type Module --inputDirectory packs-src/class-features --outputDirectory packs",
+    "build:buffs": "npx @foundryvtt/foundryvtt-cli package pack psionic-buffs --id pf1-psionics --type Module --inputDirectory packs-src/buffs --outputDirectory packs",
+    "build:powers": "npx @foundryvtt/foundryvtt-cli package pack psionic-powers --id pf1-psionics --type Module --inputDirectory packs-src/powers --outputDirectory packs",
+    "build:classes": "npx @foundryvtt/foundryvtt-cli package pack psionic-classes --id pf1-psionics --type Module --inputDirectory packs-src/classes --outputDirectory packs"
+  },
+  "devDependencies": {
+    "@foundryvtt/foundryvtt-cli": "^1.0.2",
+    "node-html-parser": "^6.1.13"
+  }
+}

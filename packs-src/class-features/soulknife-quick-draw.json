@@ -1,0 +1,33 @@
+{
+  "_id": "d7e21635e25fff27",
+  "_key": "!items!d7e21635e25fff27",
+  "name": "Quick Draw",
+  "type": "feat",
+  "img": "icons/magic/light/beam-rays-blue.webp",
+  "sort": 5000,
+  "system": {
+    "description": {
+      "value": "<p>Soulknife class feature, gained at level 5.</p><p>Full text: <a href=\"https://www.d20pfsrd.com/alternative-rule-systems/3rd-party-rules-systems/psionics-unleashed/classes/soulknife/#TOC-Quick-Draw\">Quick Draw on d20pfsrd.com</a></p>",
+      "instructions": ""
+    },
+    "tags": [
+      "Psionic"
+    ],
+    "subType": "classFeat",
+    "abilityType": "na",
+    "associations": {
+      "classes": [
+        "Soulknife"
+      ]
+    }
+  },
+  "effects": [],
+  "flags": {
+    "pf1-psionics": {
+      "classFeature": true,
+      "class": "Soulknife",
+      "level": 5
+    }
+  },
+  "folder": "ea5720ee453a176a"
+}

@@ -1,0 +1,33 @@
+{
+  "_id": "23d2d8673cee3b88",
+  "_key": "!items!23d2d8673cee3b88",
+  "name": "Endless",
+  "type": "feat",
+  "img": "icons/magic/movement/trail-streak-zigzag-teal.webp",
+  "sort": 11000,
+  "system": {
+    "description": {
+      "value": "<p>Voyager class feature, gained at level 11.</p><p>Full text: <a href=\"https://www.d20pfsrd.com/alternative-rule-systems/3rd-party-rules-systems/psionics-unleashed/classes/voyager/#\">Endless on d20pfsrd.com</a></p>",
+      "instructions": ""
+    },
+    "tags": [
+      "Psionic"
+    ],
+    "subType": "classFeat",
+    "abilityType": "na",
+    "associations": {
+      "classes": [
+        "Voyager"
+      ]
+    }
+  },
+  "effects": [],
+  "flags": {
+    "pf1-psionics": {
+      "classFeature": true,
+      "class": "Voyager",
+      "level": 11
+    }
+  },
+  "folder": "d63546275e5a4d4c"
+}

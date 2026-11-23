@@ -1,0 +1,33 @@
+{
+  "_id": "222680aaa3149bf9",
+  "_key": "!items!222680aaa3149bf9",
+  "name": "Psychic Strike (Su)",
+  "type": "feat",
+  "img": "icons/magic/light/beam-rays-blue.webp",
+  "sort": 3000,
+  "system": {
+    "description": {
+      "value": "<p>Soulknife class feature, gained at level 3.</p><p>Full text: <a href=\"https://www.d20pfsrd.com/alternative-rule-systems/3rd-party-rules-systems/psionics-unleashed/classes/soulknife/#TOC-Psychic-Strike-Su-\">Psychic Strike (Su) on d20pfsrd.com</a></p>",
+      "instructions": ""
+    },
+    "tags": [
+      "Psionic"
+    ],
+    "subType": "classFeat",
+    "abilityType": "su",
+    "associations": {
+      "classes": [
+        "Soulknife"
+      ]
+    }
+  },
+  "effects": [],
+  "flags": {
+    "pf1-psionics": {
+      "classFeature": true,
+      "class": "Soulknife",
+      "level": 3
+    }
+  },
+  "folder": "ea5720ee453a176a"
+}

@@ -1,0 +1,33 @@
+{
+  "_id": "2d9298fce6276ef1",
+  "_key": "!items!2d9298fce6276ef1",
+  "name": "Bonus Feat",
+  "type": "feat",
+  "img": "icons/magic/unholy/energy-smoke-pink.webp",
+  "sort": 5000,
+  "system": {
+    "description": {
+      "value": "<p>Dread class feature, gained at level 5.</p><p>Full text: <a href=\"https://www.d20pfsrd.com/alternative-rule-systems/3rd-party-rules-systems/psionics-unleashed/classes/dread/#TOC-Bonus-Feat\">Bonus Feat on d20pfsrd.com</a></p>",
+      "instructions": ""
+    },
+    "tags": [
+      "Psionic"
+    ],
+    "subType": "classFeat",
+    "abilityType": "na",
+    "associations": {
+      "classes": [
+        "Dread"
+      ]
+    }
+  },
+  "effects": [],
+  "flags": {
+    "pf1-psionics": {
+      "classFeature": true,
+      "class": "Dread",
+      "level": 5
+    }
+  },
+  "folder": "8950a1a3f5344759"
+}

@@ -1,0 +1,33 @@
+{
+  "_id": "964fb8927c64d4d6",
+  "_key": "!items!964fb8927c64d4d6",
+  "name": "Blade Skill",
+  "type": "feat",
+  "img": "icons/magic/light/beam-rays-blue.webp",
+  "sort": 2000,
+  "system": {
+    "description": {
+      "value": "<p>Soulknife class feature, gained at level 2.</p><p>Full text: <a href=\"https://www.d20pfsrd.com/alternative-rule-systems/3rd-party-rules-systems/psionics-unleashed/classes/soulknife/#TOC-Blade-Skills\">Blade Skill on d20pfsrd.com</a></p>",
+      "instructions": ""
+    },
+    "tags": [
+      "Psionic"
+    ],
+    "subType": "classFeat",
+    "abilityType": "na",
+    "associations": {
+      "classes": [
+        "Soulknife"
+      ]
+    }
+  },
+  "effects": [],
+  "flags": {
+    "pf1-psionics": {
+      "classFeature": true,
+      "class": "Soulknife",
+      "level": 2
+    }
+  },
+  "folder": "ea5720ee453a176a"
+}

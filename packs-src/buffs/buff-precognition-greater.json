@@ -1,0 +1,51 @@
+{
+  "_id": "ddc285631a6a8043",
+  "_key": "!items!ddc285631a6a8043",
+  "name": "Precognition, Greater",
+  "type": "buff",
+  "img": "icons/magic/perception/eye-ringed-green.webp",
+  "folder": "0f66d49851bfb591",
+  "sort": 0,
+  "system": {
+    "description": {
+      "value": "<p>Greater precognitive edge: +4 insight bonus to one roll. Ends when used.</p><p>Power: @UUID[Compendium.pf1-psionics.psionic-powers.Item.789a57fbe2e49e4a]{Precognition, Greater} · <a href=\"https://www.d20pfsrd.com/alternative-rule-systems/3rd-party-rules-systems/psionics-unleashed /psionic-powers/p/precognition\">full text</a></p>",
+      "instructions": ""
+    },
+    "tags": [
+      "Psionic"
+    ],
+    "changes": [],
+    "contextNotes": [
+      {
+        "target": "attack",
+        "text": "Greater precognitive edge: +[[4]] insight to one roll (then end the buff)."
+      },
+      {
+        "target": "allSavingThrows",
+        "text": "Greater precognitive edge: +[[4]] insight to one roll (then end the buff)."
+      },
+      {
+        "target": "skills",
+        "text": "Greater precognitive edge: +[[4]] insight to one roll (then end the buff)."
+      }
+    ],
+    "subType": "spell",
+    "active": false,
+    "level": 6,
+    "duration": {
+      "value": "@item.level * 10",
+      "units": "minute",
+      "end": "turnStart"
+    },
+    "conditions": [],
+    "hideFromToken": false
+  },
+  "effects": [],
+  "flags": {
+    "pf1-psionics": {
+      "buff": true,
+      "power": "Precognition, Greater",
+      "kind": "buff"
+    }
+  }
+}

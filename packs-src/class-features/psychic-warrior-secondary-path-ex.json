@@ -1,0 +1,33 @@
+{
+  "_id": "cf46792265dcf964",
+  "_key": "!items!cf46792265dcf964",
+  "name": "Secondary Path (Ex)",
+  "type": "feat",
+  "img": "icons/magic/control/buff-flight-wings-runes-purple.webp",
+  "sort": 9000,
+  "system": {
+    "description": {
+      "value": "<p>Psychic Warrior class feature, gained at level 9.</p><p>Full text: <a href=\"https://www.d20pfsrd.com/alternative-rule-systems/3rd-party-rules-systems/psionics-unleashed/classes/psychic-warrior/#TOC-Secondary-Path-Ex-\">Secondary Path (Ex) on d20pfsrd.com</a></p>",
+      "instructions": ""
+    },
+    "tags": [
+      "Psionic"
+    ],
+    "subType": "classFeat",
+    "abilityType": "ex",
+    "associations": {
+      "classes": [
+        "Psychic Warrior"
+      ]
+    }
+  },
+  "effects": [],
+  "flags": {
+    "pf1-psionics": {
+      "classFeature": true,
+      "class": "Psychic Warrior",
+      "level": 9
+    }
+  },
+  "folder": "e46e253b5d80da78"
+}

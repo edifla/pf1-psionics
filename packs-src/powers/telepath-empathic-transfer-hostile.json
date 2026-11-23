@@ -1,0 +1,92 @@
+{
+  "_id": "b7e1958da217cd94",
+  "_key": "!items!b7e1958da217cd94",
+  "name": "Empathic Transfer, Hostile",
+  "type": "spell",
+  "img": "icons/magic/perception/eye-tendrils-web-purple.webp",
+  "folder": "64f78502e77a4cad",
+  "sort": 0,
+  "system": {
+    "description": {
+      "value": "<p><em>Your touch transfers your hurt to another.</em></p><p><strong>Augment:</strong> this power can be augmented (see full text).</p><p><strong>Note:</strong> range, duration and saving throw were not imported for this power; check the full text.</p><p>Full text: <a href=\"https://www.d20pfsrd.com/alternative-rule-systems/3rd-party-rules-systems/psionics-unleashed /psionic-powers/e/empathic-transfer\">Empathic Transfer, Hostile on d20pfsrd.com</a></p><p><strong>Source:</strong> Psionics Unleashed</p>",
+      "instructions": ""
+    },
+    "tags": [],
+    "actions": [
+      {
+        "_id": "3bacacdd14492209",
+        "name": "Manifest",
+        "actionType": "other",
+        "activation": {
+          "type": "special",
+          "cost": 1,
+          "unchained": {
+            "type": "action",
+            "cost": 2
+          }
+        },
+        "range": {
+          "units": ""
+        },
+        "duration": {
+          "units": ""
+        }
+      }
+    ],
+    "learnedAt": {
+      "class": {
+        "psion": 3
+      },
+      "domain": {
+        "telepath": 3
+      },
+      "subDomain": {},
+      "elementalSchool": {},
+      "bloodline": {}
+    },
+    "level": 3,
+    "school": "telepathy",
+    "subschool": [],
+    "descriptors": [],
+    "components": {
+      "value": "Inline !Important",
+      "verbal": false,
+      "somatic": false,
+      "thought": false,
+      "emotion": false,
+      "material": false,
+      "focus": false,
+      "divineFocus": 0
+    },
+    "materials": {
+      "value": "",
+      "focus": "",
+      "gpValue": 0
+    },
+    "spellbook": "psionic",
+    "preparation": {
+      "value": 1,
+      "max": 1
+    },
+    "atWill": false,
+    "sr": false,
+    "domain": false,
+    "slotCost": 1,
+    "spellPoints": {
+      "cost": "5"
+    }
+  },
+  "effects": [],
+  "flags": {
+    "pf1-psionics": {
+      "power": true,
+      "discipline": "telepathy",
+      "specialization": "telepath",
+      "augment": true,
+      "display": "Inline !Important",
+      "powerPoints": 5,
+      "source": "Psionics Unleashed",
+      "url": "https://www.d20pfsrd.com/alternative-rule-systems/3rd-party-rules-systems/psionics-unleashed /psionic-powers/e/empathic-transfer"
+    }
+  }
+}

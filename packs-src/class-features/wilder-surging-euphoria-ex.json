@@ -1,0 +1,33 @@
+{
+  "_id": "328666eeced2ceec",
+  "_key": "!items!328666eeced2ceec",
+  "name": "Surging Euphoria (Ex)",
+  "type": "feat",
+  "img": "icons/magic/fire/beam-jet-stream-blue.webp",
+  "sort": 4000,
+  "system": {
+    "description": {
+      "value": "<p>Wilder class feature, gained at level 4.</p><p>Full text: <a href=\"https://www.d20pfsrd.com/alternative-rule-systems/3rd-party-rules-systems/psionics-unleashed/classes/wilder/#TOC-Surging-Euphoria-Ex-\">Surging Euphoria (Ex) on d20pfsrd.com</a></p>",
+      "instructions": ""
+    },
+    "tags": [
+      "Psionic"
+    ],
+    "subType": "classFeat",
+    "abilityType": "ex",
+    "associations": {
+      "classes": [
+        "Wilder"
+      ]
+    }
+  },
+  "effects": [],
+  "flags": {
+    "pf1-psionics": {
+      "classFeature": true,
+      "class": "Wilder",
+      "level": 4
+    }
+  },
+  "folder": "a5ca442bb39c1991"
+}

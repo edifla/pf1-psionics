@@ -1,0 +1,100 @@
+{
+  "_id": "017526d1c4ceeb57",
+  "_key": "!items!017526d1c4ceeb57",
+  "name": "Ectoplasmic Form",
+  "type": "spell",
+  "img": "icons/magic/life/heart-area-circle-red-green.webp",
+  "folder": "2f99aa4b358c02dc",
+  "sort": 0,
+  "system": {
+    "description": {
+      "value": "<p><em>You gain benefits of being insubstantial and can fly slowly.</em></p><p>Full text: <a href=\"https://www.d20pfsrd.com/alternative-rule-systems/3rd-party-rules-systems/psionics-unleashed /psionic-powers/e/ectoplasmic-form\">Ectoplasmic Form on d20pfsrd.com</a></p><p><strong>Source:</strong> Psionics Unleashed</p>",
+      "instructions": ""
+    },
+    "tags": [],
+    "actions": [
+      {
+        "_id": "c0dee94640181299",
+        "name": "Manifest",
+        "actionType": "other",
+        "activation": {
+          "type": "standard",
+          "cost": 1,
+          "unchained": {
+            "type": "action",
+            "cost": 2
+          }
+        },
+        "range": {
+          "units": "personal"
+        },
+        "duration": {
+          "units": "spec",
+          "value": "1 min./level (D)",
+          "dismiss": true,
+          "concentration": false
+        },
+        "target": {
+          "value": "You"
+        }
+      }
+    ],
+    "learnedAt": {
+      "class": {
+        "dread": 3,
+        "psion": 3,
+        "psychicWarrior": 3
+      },
+      "domain": {
+        "egoist": 3
+      },
+      "subDomain": {},
+      "elementalSchool": {},
+      "bloodline": {}
+    },
+    "level": 3,
+    "school": "psychometabolism",
+    "subschool": [],
+    "descriptors": [],
+    "components": {
+      "value": "Inline !Important",
+      "verbal": false,
+      "somatic": false,
+      "thought": false,
+      "emotion": false,
+      "material": false,
+      "focus": false,
+      "divineFocus": 0
+    },
+    "materials": {
+      "value": "",
+      "focus": "",
+      "gpValue": 0
+    },
+    "spellbook": "psionic",
+    "preparation": {
+      "value": 1,
+      "max": 1
+    },
+    "atWill": false,
+    "sr": false,
+    "domain": false,
+    "slotCost": 1,
+    "spellPoints": {
+      "cost": "5"
+    }
+  },
+  "effects": [],
+  "flags": {
+    "pf1-psionics": {
+      "power": true,
+      "discipline": "psychometabolism",
+      "specialization": "egoist",
+      "augment": false,
+      "display": "Inline !Important",
+      "powerPoints": 5,
+      "source": "Psionics Unleashed",
+      "url": "https://www.d20pfsrd.com/alternative-rule-systems/3rd-party-rules-systems/psionics-unleashed /psionic-powers/e/ectoplasmic-form"
+    }
+  }
+}

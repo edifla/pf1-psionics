@@ -1,0 +1,99 @@
+{
+  "_id": "9587c6682e09da58",
+  "_key": "!items!9587c6682e09da58",
+  "name": "Localized Windstorm",
+  "type": "spell",
+  "img": "icons/magic/fire/beam-jet-stream-blue.webp",
+  "folder": "c06fa52e4eb97703",
+  "sort": 0,
+  "system": {
+    "description": {
+      "value": "<p><em>Increase or decrease winds in a small, controllable area.</em></p><p><strong>Augment:</strong> this power can be augmented (see full text).</p><p>Full text: <a href=\"https://www.d20pfsrd.com/alternative-rule-systems/3rd-party-rules-systems/psionics-unleashed /psionic-powers/l/localized-windstorm\">Localized Windstorm on d20pfsrd.com</a></p><p><strong>Source:</strong> Psionics Expanded: Advanced Psionics Guide</p>",
+      "instructions": ""
+    },
+    "tags": [],
+    "actions": [
+      {
+        "_id": "e8e0a913f1b3984d",
+        "name": "Manifest",
+        "actionType": "other",
+        "activation": {
+          "type": "standard",
+          "cost": 1,
+          "unchained": {
+            "type": "action",
+            "cost": 2
+          }
+        },
+        "range": {
+          "units": "close"
+        },
+        "duration": {
+          "units": "spec",
+          "value": "Concentration, up to 1 rnd./lvl.",
+          "dismiss": false,
+          "concentration": true
+        },
+        "effect": "Wall up to 10 ft./lvl. long and 5 ft./lvl. high (S)"
+      }
+    ],
+    "learnedAt": {
+      "class": {
+        "psion": 3,
+        "marksman": 2
+      },
+      "domain": {
+        "kineticist": 3
+      },
+      "subDomain": {},
+      "elementalSchool": {},
+      "bloodline": {}
+    },
+    "level": 3,
+    "school": "psychokinesis",
+    "subschool": [],
+    "descriptors": [
+      "air"
+    ],
+    "components": {
+      "value": "Inline !Important",
+      "verbal": false,
+      "somatic": false,
+      "thought": false,
+      "emotion": false,
+      "material": false,
+      "focus": false,
+      "divineFocus": 0
+    },
+    "materials": {
+      "value": "",
+      "focus": "",
+      "gpValue": 0
+    },
+    "spellbook": "psionic",
+    "preparation": {
+      "value": 1,
+      "max": 1
+    },
+    "atWill": false,
+    "sr": true,
+    "domain": false,
+    "slotCost": 1,
+    "spellPoints": {
+      "cost": "5"
+    }
+  },
+  "effects": [],
+  "flags": {
+    "pf1-psionics": {
+      "power": true,
+      "discipline": "psychokinesis",
+      "specialization": "kineticist",
+      "augment": true,
+      "display": "Inline !Important",
+      "powerPoints": 5,
+      "source": "Psionics Expanded: Advanced Psionics Guide",
+      "url": "https://www.d20pfsrd.com/alternative-rule-systems/3rd-party-rules-systems/psionics-unleashed /psionic-powers/l/localized-windstorm"
+    }
+  }
+}

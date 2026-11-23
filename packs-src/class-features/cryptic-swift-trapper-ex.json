@@ -1,0 +1,33 @@
+{
+  "_id": "e103cda7157ac466",
+  "_key": "!items!e103cda7157ac466",
+  "name": "Swift Trapper (Ex)",
+  "type": "feat",
+  "img": "icons/magic/symbols/circle-ouroboros.webp",
+  "sort": 6000,
+  "system": {
+    "description": {
+      "value": "<p>Cryptic class feature, gained at level 6.</p><p>Full text: <a href=\"https://www.d20pfsrd.com/alternative-rule-systems/3rd-party-rules-systems/psionics-unleashed/classes/cryptic/#TOC-Swift-Trapper-Ex-\">Swift Trapper (Ex) on d20pfsrd.com</a></p>",
+      "instructions": ""
+    },
+    "tags": [
+      "Psionic"
+    ],
+    "subType": "classFeat",
+    "abilityType": "ex",
+    "associations": {
+      "classes": [
+        "Cryptic"
+      ]
+    }
+  },
+  "effects": [],
+  "flags": {
+    "pf1-psionics": {
+      "classFeature": true,
+      "class": "Cryptic",
+      "level": 6
+    }
+  },
+  "folder": "53dd3a0f76729752"
+}

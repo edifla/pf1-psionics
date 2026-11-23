@@ -1,0 +1,51 @@
+{
+  "_id": "439c90d7a1eb56f8",
+  "_key": "!items!439c90d7a1eb56f8",
+  "name": "Flight",
+  "type": "buff",
+  "img": "icons/magic/movement/portal-vortex-orange.webp",
+  "folder": "0f66d49851bfb591",
+  "sort": 0,
+  "system": {
+    "description": {
+      "value": "<p>Fly speed 60 ft. (good maneuverability; 40 ft. in medium/heavy armor or load). Bonus on Fly checks equal to half the manifester level.</p><p>Power: @UUID[Compendium.pf1-psionics.psionic-powers.Item.f36c8baa23d99438]{Flight} · <a href=\"https://www.d20pfsrd.com/alternative-rule-systems/3rd-party-rules-systems/psionics-unleashed /psionic-powers/f/flight\">full text</a></p>",
+      "instructions": ""
+    },
+    "tags": [
+      "Psionic"
+    ],
+    "changes": [
+      {
+        "_id": "020f1346",
+        "formula": "60",
+        "target": "flySpeed",
+        "type": "untyped"
+      },
+      {
+        "_id": "e61dbba0",
+        "formula": "floor(@item.level / 2)",
+        "target": "skill.fly",
+        "type": "untyped"
+      }
+    ],
+    "contextNotes": [],
+    "subType": "spell",
+    "active": false,
+    "level": 4,
+    "duration": {
+      "value": "@item.level",
+      "units": "minute",
+      "end": "turnStart"
+    },
+    "conditions": [],
+    "hideFromToken": false
+  },
+  "effects": [],
+  "flags": {
+    "pf1-psionics": {
+      "buff": true,
+      "power": "Flight",
+      "kind": "buff"
+    }
+  }
+}

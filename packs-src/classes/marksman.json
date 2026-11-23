@@ -1,0 +1,198 @@
+{
+  "_id": "fcb090ec41a53151",
+  "_key": "!items!fcb090ec41a53151",
+  "name": "Marksman",
+  "type": "class",
+  "img": "icons/magic/perception/eye-slit-orange.webp",
+  "folder": null,
+  "sort": 0,
+  "system": {
+    "description": {
+      "value": "<p><strong>Marksman</strong> — psionic base class (Dreamscarred Press).</p><p><strong>Manifesting:</strong> key ability WIS, powers up to level 4. Adding this class to a character enables the Psionic powers book.</p><p><strong>Psionic skills not in PF1:</strong> Autohypnosis, Knowledge (Psionics).</p><table class=\"pf1-psionics-progression\"><thead><tr><th>Lvl</th><th>BAB</th><th>Fort</th><th>Ref</th><th>Will</th><th>Special</th><th>PP</th><th>Known</th><th>Max</th></tr></thead><tbody><tr><td>1</td><td>+1</td><td>+0</td><td>+2</td><td>+2</td><td>Combat style, point-blank shot, wind reader</td><td>1</td><td>0</td><td>1st</td></tr><tr><td>2</td><td>+2</td><td>+0</td><td>+3</td><td>+3</td><td>Evade arrows (+1), style technique, favored weapon (+1)</td><td>2</td><td>1</td><td>1st</td></tr><tr><td>3</td><td>+3</td><td>+1</td><td>+3</td><td>+3</td><td>Style skill (+1), style mantra</td><td>3</td><td>2</td><td>1st</td></tr><tr><td>4</td><td>+4</td><td>+1</td><td>+4</td><td>+4</td><td>Cover fire, style ability</td><td>5</td><td>2</td><td>1st</td></tr><tr><td>5</td><td>+5</td><td>+1</td><td>+4</td><td>+4</td><td>Bonus feat</td><td>7</td><td>3</td><td>2nd</td></tr><tr><td>6</td><td>+6/+1</td><td>+2</td><td>+5</td><td>+5</td><td>Evade arrows (+2), style skill (+2), favored weapon (+2)</td><td>9</td><td>4</td><td>2nd</td></tr><tr><td>7</td><td>+7/+2</td><td>+2</td><td>+5</td><td>+5</td><td>Disengage</td><td>11</td><td>5</td><td>2nd</td></tr><tr><td>8</td><td>+8/+3</td><td>+2</td><td>+6</td><td>+6</td><td>Bonus feat, style ability</td><td>14</td><td>5</td><td>2nd</td></tr><tr><td>9</td><td>+9/+4</td><td>+3</td><td>+6</td><td>+6</td><td>Style skill (+3)</td><td>17</td><td>6</td><td>3rd</td></tr><tr><td>10</td><td>+10/+5</td><td>+3</td><td>+7</td><td>+7</td><td>Evade arrows (+3), favored weapon (+3)</td><td>20</td><td>7</td><td>3rd</td></tr><tr><td>11</td><td>+11/+6/+1</td><td>+3</td><td>+7</td><td>+7</td><td>Bonus feat</td><td>24</td><td>8</td><td>3rd</td></tr><tr><td>12</td><td>+12/+7/+2</td><td>+4</td><td>+8</td><td>+8</td><td>Style ability, style skill (+4)</td><td>28</td><td>8</td><td>3rd</td></tr><tr><td>13</td><td>+13/+8/+3</td><td>+4</td><td>+8</td><td>+8</td><td>Defensive shot</td><td>32</td><td>9</td><td>4th</td></tr><tr><td>14</td><td>+14/+9/+4</td><td>+4</td><td>+9</td><td>+9</td><td>Bonus feat, evade arrows (+4), favored weapon (+4)</td><td>37</td><td>9</td><td>4th</td></tr><tr><td>15</td><td>+15/+10/+5</td><td>+5</td><td>+9</td><td>+9</td><td>Style skill (+5)</td><td>42</td><td>10</td><td>4th</td></tr><tr><td>16</td><td>+16/+11/+6/+1</td><td>+5</td><td>+10</td><td>+10</td><td>Style ability</td><td>47</td><td>10</td><td>4th</td></tr><tr><td>17</td><td>+17/+12/+7/+2</td><td>+5</td><td>+10</td><td>+10</td><td>Bonus feat</td><td>52</td><td>11</td><td>4th</td></tr><tr><td>18</td><td>+18/+13/+8/+3</td><td>+6</td><td>+11</td><td>+11</td><td>Evade arrows (+5), style skill (+6), favored weapon (+5)</td><td>58</td><td>11</td><td>4th</td></tr><tr><td>19</td><td>+19/+14/+9/+4</td><td>+6</td><td>+11</td><td>+11</td><td>Ranged specialist</td><td>64</td><td>12</td><td>4th</td></tr><tr><td>20</td><td>+20/+15/+10/+5</td><td>+6</td><td>+12</td><td>+12</td><td>Bonus feat, style ability</td><td>70</td><td>12</td><td>4th</td></tr></tbody></table><p>Class features: <a href=\"https://www.d20pfsrd.com/alternative-rule-systems/3rd-party-rules-systems/psionics-unleashed/classes/marksman/\">Marksman on d20pfsrd.com</a></p>",
+      "instructions": ""
+    },
+    "tags": [
+      "Psionic"
+    ],
+    "changes": [],
+    "contextNotes": [],
+    "links": {
+      "children": [],
+      "classAssociations": [
+        {
+          "level": 1,
+          "uuid": "Compendium.pf1-psionics.psionic-class-features.Item.657b98ceefb8315b"
+        },
+        {
+          "level": 1,
+          "uuid": "Compendium.pf1-psionics.psionic-class-features.Item.645beed3fda70bb4"
+        },
+        {
+          "level": 1,
+          "uuid": "Compendium.pf1-psionics.psionic-class-features.Item.7c578681cfcf4a92"
+        },
+        {
+          "level": 2,
+          "uuid": "Compendium.pf1-psionics.psionic-class-features.Item.13ccc1f13e418f72"
+        },
+        {
+          "level": 2,
+          "uuid": "Compendium.pf1-psionics.psionic-class-features.Item.cfba33c4d3ac00ae"
+        },
+        {
+          "level": 2,
+          "uuid": "Compendium.pf1-psionics.psionic-class-features.Item.a8d415c67fc5fe0c"
+        },
+        {
+          "level": 3,
+          "uuid": "Compendium.pf1-psionics.psionic-class-features.Item.418696d7eb25ce4d"
+        },
+        {
+          "level": 3,
+          "uuid": "Compendium.pf1-psionics.psionic-class-features.Item.22465d2d0fb3cd80"
+        },
+        {
+          "level": 4,
+          "uuid": "Compendium.pf1-psionics.psionic-class-features.Item.03dc20a0ca6871d0"
+        },
+        {
+          "level": 4,
+          "uuid": "Compendium.pf1-psionics.psionic-class-features.Item.1d3ada15f7ae6c4a"
+        },
+        {
+          "level": 5,
+          "uuid": "Compendium.pf1-psionics.psionic-class-features.Item.a7d3e60f1cfbf70a"
+        },
+        {
+          "level": 7,
+          "uuid": "Compendium.pf1-psionics.psionic-class-features.Item.0a3de7838edac919"
+        },
+        {
+          "level": 13,
+          "uuid": "Compendium.pf1-psionics.psionic-class-features.Item.7572b2dc65ed2122"
+        },
+        {
+          "level": 19,
+          "uuid": "Compendium.pf1-psionics.psionic-class-features.Item.02e0f1aae7ee21b6"
+        }
+      ],
+      "supplements": []
+    },
+    "tag": "marksman",
+    "armorProf": [],
+    "weaponProf": [],
+    "languages": [],
+    "subType": "base",
+    "level": 1,
+    "hd": 10,
+    "hp": 10,
+    "bab": "high",
+    "skillsPerLevel": 4,
+    "savingThrows": {
+      "fort": {
+        "value": "low"
+      },
+      "ref": {
+        "value": "high"
+      },
+      "will": {
+        "value": "high"
+      }
+    },
+    "wealth": "5d6 * 10",
+    "classSkills": {
+      "acr": true,
+      "clm": true,
+      "crf": true,
+      "esc": true,
+      "int": true,
+      "per": true,
+      "prf": true,
+      "pro": true,
+      "sen": true,
+      "ste": true,
+      "sur": true,
+      "umd": true
+    }
+  },
+  "effects": [],
+  "flags": {
+    "pf1-psionics": {
+      "psionic": true,
+      "keyAbility": "wis",
+      "maxPowerLevel": 4,
+      "casterType": "low",
+      "ppTable": [
+        1,
+        2,
+        3,
+        5,
+        7,
+        9,
+        11,
+        14,
+        17,
+        20,
+        24,
+        28,
+        32,
+        37,
+        42,
+        47,
+        52,
+        58,
+        64,
+        70
+      ],
+      "powersKnown": [
+        0,
+        1,
+        2,
+        2,
+        3,
+        4,
+        5,
+        5,
+        6,
+        7,
+        8,
+        8,
+        9,
+        9,
+        10,
+        10,
+        11,
+        11,
+        12,
+        12
+      ],
+      "maxPowerLevelTable": [
+        1,
+        1,
+        1,
+        1,
+        2,
+        2,
+        2,
+        2,
+        3,
+        3,
+        3,
+        3,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4
+      ],
+      "unmappedSkills": [
+        "Autohypnosis",
+        "Knowledge (Psionics)"
+      ],
+      "url": "https://www.d20pfsrd.com/alternative-rule-systems/3rd-party-rules-systems/psionics-unleashed/classes/marksman/"
+    }
+  }
+}

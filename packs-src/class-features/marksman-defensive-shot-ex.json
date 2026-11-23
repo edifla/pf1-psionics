@@ -1,0 +1,33 @@
+{
+  "_id": "7572b2dc65ed2122",
+  "_key": "!items!7572b2dc65ed2122",
+  "name": "Defensive Shot (Ex)",
+  "type": "feat",
+  "img": "icons/magic/perception/eye-slit-orange.webp",
+  "sort": 13000,
+  "system": {
+    "description": {
+      "value": "<p>Marksman class feature, gained at level 13.</p><p>Full text: <a href=\"https://www.d20pfsrd.com/alternative-rule-systems/3rd-party-rules-systems/psionics-unleashed/classes/marksman/#TOC-Defensive-Shot-Ex-\">Defensive Shot (Ex) on d20pfsrd.com</a></p>",
+      "instructions": ""
+    },
+    "tags": [
+      "Psionic"
+    ],
+    "subType": "classFeat",
+    "abilityType": "ex",
+    "associations": {
+      "classes": [
+        "Marksman"
+      ]
+    }
+  },
+  "effects": [],
+  "flags": {
+    "pf1-psionics": {
+      "classFeature": true,
+      "class": "Marksman",
+      "level": 13
+    }
+  },
+  "folder": "8b64e6d751692b49"
+}

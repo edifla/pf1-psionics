@@ -1,0 +1,102 @@
+{
+  "_id": "fa0ad2843eed6253",
+  "_key": "!items!fa0ad2843eed6253",
+  "name": "Delayed Response",
+  "type": "spell",
+  "img": "icons/magic/movement/portal-vortex-orange.webp",
+  "folder": "22ff58b8afb71d3d",
+  "sort": 0,
+  "system": {
+    "description": {
+      "value": "<p><em>Cause the target to act last.</em></p><p><strong>Augment:</strong> this power can be augmented (see full text).</p><p>Full text: <a href=\"https://www.d20pfsrd.com/alternative-rule-systems/3rd-party-rules-systems/psionics-unleashed /psionic-powers/d/delayed-response\">Delayed Response on d20pfsrd.com</a></p><p><strong>Source:</strong> Psionics Expanded: Advanced Psionics Guide</p>",
+      "instructions": ""
+    },
+    "tags": [],
+    "actions": [
+      {
+        "_id": "2a54d370f8f3f5fb",
+        "name": "Manifest",
+        "actionType": "spellsave",
+        "activation": {
+          "type": "immediate",
+          "cost": 1,
+          "unchained": {
+            "type": "action",
+            "cost": 2
+          }
+        },
+        "range": {
+          "units": "close"
+        },
+        "duration": {
+          "units": "inst",
+          "dismiss": false,
+          "concentration": false
+        },
+        "target": {
+          "value": "One creature"
+        },
+        "save": {
+          "type": "will",
+          "description": "Will negates"
+        }
+      }
+    ],
+    "learnedAt": {
+      "class": {
+        "psion": 3,
+        "tactician": 3
+      },
+      "domain": {
+        "nomad": 3
+      },
+      "subDomain": {},
+      "elementalSchool": {},
+      "bloodline": {}
+    },
+    "level": 3,
+    "school": "psychoportation",
+    "subschool": [],
+    "descriptors": [],
+    "components": {
+      "value": "Inline !Important",
+      "verbal": false,
+      "somatic": false,
+      "thought": false,
+      "emotion": false,
+      "material": false,
+      "focus": false,
+      "divineFocus": 0
+    },
+    "materials": {
+      "value": "",
+      "focus": "",
+      "gpValue": 0
+    },
+    "spellbook": "psionic",
+    "preparation": {
+      "value": 1,
+      "max": 1
+    },
+    "atWill": false,
+    "sr": true,
+    "domain": false,
+    "slotCost": 1,
+    "spellPoints": {
+      "cost": "5"
+    }
+  },
+  "effects": [],
+  "flags": {
+    "pf1-psionics": {
+      "power": true,
+      "discipline": "psychoportation",
+      "specialization": "nomad",
+      "augment": true,
+      "display": "Inline !Important",
+      "powerPoints": 5,
+      "source": "Psionics Expanded: Advanced Psionics Guide",
+      "url": "https://www.d20pfsrd.com/alternative-rule-systems/3rd-party-rules-systems/psionics-unleashed /psionic-powers/d/delayed-response"
+    }
+  }
+}

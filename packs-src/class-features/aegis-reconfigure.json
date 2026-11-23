@@ -1,0 +1,33 @@
+{
+  "_id": "72760b63d9450eb5",
+  "_key": "!items!72760b63d9450eb5",
+  "name": "Reconfigure",
+  "type": "feat",
+  "img": "icons/magic/defensive/shield-barrier-blue.webp",
+  "sort": 3000,
+  "system": {
+    "description": {
+      "value": "<p>Aegis class feature, gained at level 3.</p><p>Full text: <a href=\"https://www.d20pfsrd.com/alternative-rule-systems/3rd-party-rules-systems/psionics-unleashed/classes/aegis/#TOC-Reconfigure\">Reconfigure on d20pfsrd.com</a></p>",
+      "instructions": ""
+    },
+    "tags": [
+      "Psionic"
+    ],
+    "subType": "classFeat",
+    "abilityType": "na",
+    "associations": {
+      "classes": [
+        "Aegis"
+      ]
+    }
+  },
+  "effects": [],
+  "flags": {
+    "pf1-psionics": {
+      "classFeature": true,
+      "class": "Aegis",
+      "level": 3
+    }
+  },
+  "folder": "003e6518ab233bfd"
+}

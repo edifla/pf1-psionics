@@ -1,0 +1,43 @@
+{
+  "_id": "3701f38434efbcaf",
+  "_key": "!items!3701f38434efbcaf",
+  "name": "Resist Toxin",
+  "type": "buff",
+  "img": "icons/magic/life/heart-area-circle-red-green.webp",
+  "folder": "0f66d49851bfb591",
+  "sort": 0,
+  "system": {
+    "description": {
+      "value": "<p>Temporarily immune to poison; poisons already in your system are suspended until the power ends.</p><p>Power: @UUID[Compendium.pf1-psionics.psionic-powers.Item.967c1b8d6137b1eb]{Resist Toxin} · <a href=\"https://www.d20pfsrd.com/alternative-rule-systems/3rd-party-rules-systems/psionics-unleashed /psionic-powers/r/resist-toxin\">full text</a></p>",
+      "instructions": ""
+    },
+    "tags": [
+      "Psionic"
+    ],
+    "changes": [],
+    "contextNotes": [
+      {
+        "target": "allSavingThrows",
+        "text": "Resist Toxin: immune to poison."
+      }
+    ],
+    "subType": "spell",
+    "active": false,
+    "level": 2,
+    "duration": {
+      "value": "@item.level",
+      "units": "hour",
+      "end": "turnStart"
+    },
+    "conditions": [],
+    "hideFromToken": false
+  },
+  "effects": [],
+  "flags": {
+    "pf1-psionics": {
+      "buff": true,
+      "power": "Resist Toxin",
+      "kind": "buff"
+    }
+  }
+}

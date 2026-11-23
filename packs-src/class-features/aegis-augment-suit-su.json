@@ -1,0 +1,33 @@
+{
+  "_id": "d01f68bd2f643c6f",
+  "_key": "!items!d01f68bd2f643c6f",
+  "name": "Augment Suit (Su)",
+  "type": "feat",
+  "img": "icons/magic/defensive/shield-barrier-blue.webp",
+  "sort": 4000,
+  "system": {
+    "description": {
+      "value": "<p>Aegis class feature, gained at level 4.</p><p>Full text: <a href=\"https://www.d20pfsrd.com/alternative-rule-systems/3rd-party-rules-systems/psionics-unleashed/classes/aegis/#TOC-Augment-Suit-Su-\">Augment Suit (Su) on d20pfsrd.com</a></p>",
+      "instructions": ""
+    },
+    "tags": [
+      "Psionic"
+    ],
+    "subType": "classFeat",
+    "abilityType": "su",
+    "associations": {
+      "classes": [
+        "Aegis"
+      ]
+    }
+  },
+  "effects": [],
+  "flags": {
+    "pf1-psionics": {
+      "classFeature": true,
+      "class": "Aegis",
+      "level": 4
+    }
+  },
+  "folder": "003e6518ab233bfd"
+}

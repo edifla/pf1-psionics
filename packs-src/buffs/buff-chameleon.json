@@ -1,0 +1,45 @@
+{
+  "_id": "310dacc3df4007e7",
+  "_key": "!items!310dacc3df4007e7",
+  "name": "Chameleon",
+  "type": "buff",
+  "img": "icons/magic/life/heart-area-circle-red-green.webp",
+  "folder": "0f66d49851bfb591",
+  "sort": 0,
+  "system": {
+    "description": {
+      "value": "<p>+10 enhancement bonus on Stealth checks. Augment: +1 per 2 extra PP (edit the change formula).</p><p>Power: @UUID[Compendium.pf1-psionics.psionic-powers.Item.63a5de204ab568d6]{Chameleon} · <a href=\"https://www.d20pfsrd.com/alternative-rule-systems/3rd-party-rules-systems/psionics-unleashed /psionic-powers/c/chameleon\">full text</a></p>",
+      "instructions": ""
+    },
+    "tags": [
+      "Psionic"
+    ],
+    "changes": [
+      {
+        "_id": "3f129bcb",
+        "formula": "10",
+        "target": "skill.ste",
+        "type": "enh"
+      }
+    ],
+    "contextNotes": [],
+    "subType": "spell",
+    "active": false,
+    "level": 2,
+    "duration": {
+      "value": "@item.level * 10",
+      "units": "minute",
+      "end": "turnStart"
+    },
+    "conditions": [],
+    "hideFromToken": false
+  },
+  "effects": [],
+  "flags": {
+    "pf1-psionics": {
+      "buff": true,
+      "power": "Chameleon",
+      "kind": "buff"
+    }
+  }
+}

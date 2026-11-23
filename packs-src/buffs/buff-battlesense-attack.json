@@ -1,0 +1,45 @@
+{
+  "_id": "f3c5c63102e391f3",
+  "_key": "!items!f3c5c63102e391f3",
+  "name": "Battlesense (Attack)",
+  "type": "buff",
+  "img": "icons/magic/perception/eye-tendrils-web-purple.webp",
+  "folder": "0f66d49851bfb591",
+  "sort": 0,
+  "system": {
+    "description": {
+      "value": "<p>Collective members gain +1 circumstance bonus to attack rolls. All targets can Aid Another as an immediate action.</p><p>Power: @UUID[Compendium.pf1-psionics.psionic-powers.Item.1e705c879ef30ba6]{Battlesense} · <a href=\"https://www.d20pfsrd.com/alternative-rule-systems/3rd-party-rules-systems/psionics-unleashed /psionic-powers/b/battlesense\">full text</a></p>",
+      "instructions": ""
+    },
+    "tags": [
+      "Psionic"
+    ],
+    "changes": [
+      {
+        "_id": "097645a5",
+        "formula": "1",
+        "target": "attack",
+        "type": "circumstance"
+      }
+    ],
+    "contextNotes": [],
+    "subType": "spell",
+    "active": false,
+    "level": 3,
+    "duration": {
+      "value": "@item.level",
+      "units": "round",
+      "end": "turnStart"
+    },
+    "conditions": [],
+    "hideFromToken": false
+  },
+  "effects": [],
+  "flags": {
+    "pf1-psionics": {
+      "buff": true,
+      "power": "Battlesense",
+      "kind": "buff"
+    }
+  }
+}

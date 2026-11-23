@@ -1,0 +1,33 @@
+{
+  "_id": "47deed6ee41b19bb",
+  "_key": "!items!47deed6ee41b19bb",
+  "name": "Health Sense",
+  "type": "feat",
+  "img": "icons/magic/life/cross-beam-green.webp",
+  "sort": 2000,
+  "system": {
+    "description": {
+      "value": "<p>Vitalist class feature, gained at level 2.</p><p>Full text: <a href=\"https://www.d20pfsrd.com/alternative-rule-systems/3rd-party-rules-systems/psionics-unleashed/classes/vitalist/#TOC-Health-Sense\">Health Sense on d20pfsrd.com</a></p>",
+      "instructions": ""
+    },
+    "tags": [
+      "Psionic"
+    ],
+    "subType": "classFeat",
+    "abilityType": "na",
+    "associations": {
+      "classes": [
+        "Vitalist"
+      ]
+    }
+  },
+  "effects": [],
+  "flags": {
+    "pf1-psionics": {
+      "classFeature": true,
+      "class": "Vitalist",
+      "level": 2
+    }
+  },
+  "folder": "629ec26d2deca54d"
+}

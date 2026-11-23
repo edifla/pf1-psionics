@@ -1,0 +1,104 @@
+{
+  "_id": "efb3f4729e99bd14",
+  "_key": "!items!efb3f4729e99bd14",
+  "name": "Mind Switch",
+  "type": "spell",
+  "img": "icons/magic/perception/eye-tendrils-web-purple.webp",
+  "folder": "64f78502e77a4cad",
+  "sort": 0,
+  "system": {
+    "description": {
+      "value": "<p><em>You switch minds with another.</em></p><p><strong>Augment:</strong> this power can be augmented (see full text).</p><p>Full text: <a href=\"https://www.d20pfsrd.com/alternative-rule-systems/3rd-party-rules-systems/psionics-unleashed /psionic-powers/m/mind-switch\">Mind Switch on d20pfsrd.com</a></p><p><strong>Source:</strong> Psionics Unleashed</p>",
+      "instructions": ""
+    },
+    "tags": [],
+    "actions": [
+      {
+        "_id": "3d7ec1e06ec4dce0",
+        "name": "Manifest",
+        "actionType": "spellsave",
+        "activation": {
+          "type": "round",
+          "cost": 1,
+          "unchained": {
+            "type": "action",
+            "cost": 2
+          }
+        },
+        "range": {
+          "units": "close"
+        },
+        "duration": {
+          "units": "spec",
+          "value": "10 min./level",
+          "dismiss": false,
+          "concentration": false
+        },
+        "target": {
+          "value": "You and one other creature"
+        },
+        "save": {
+          "type": "will",
+          "description": "Will negates"
+        }
+      }
+    ],
+    "learnedAt": {
+      "class": {
+        "psion": 6
+      },
+      "domain": {
+        "telepath": 6
+      },
+      "subDomain": {},
+      "elementalSchool": {},
+      "bloodline": {}
+    },
+    "level": 6,
+    "school": "telepathy",
+    "subschool": [],
+    "descriptors": [
+      "mindAffecting"
+    ],
+    "components": {
+      "value": "Inline !Important",
+      "verbal": false,
+      "somatic": false,
+      "thought": false,
+      "emotion": false,
+      "material": false,
+      "focus": false,
+      "divineFocus": 0
+    },
+    "materials": {
+      "value": "",
+      "focus": "",
+      "gpValue": 0
+    },
+    "spellbook": "psionic",
+    "preparation": {
+      "value": 1,
+      "max": 1
+    },
+    "atWill": false,
+    "sr": true,
+    "domain": false,
+    "slotCost": 1,
+    "spellPoints": {
+      "cost": "11"
+    }
+  },
+  "effects": [],
+  "flags": {
+    "pf1-psionics": {
+      "power": true,
+      "discipline": "telepathy",
+      "specialization": "telepath",
+      "augment": true,
+      "display": "Inline !Important",
+      "powerPoints": 11,
+      "source": "Psionics Unleashed",
+      "url": "https://www.d20pfsrd.com/alternative-rule-systems/3rd-party-rules-systems/psionics-unleashed /psionic-powers/m/mind-switch"
+    }
+  }
+}

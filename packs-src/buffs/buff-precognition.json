@@ -1,0 +1,51 @@
+{
+  "_id": "bf8788ee2bcbf890",
+  "_key": "!items!bf8788ee2bcbf890",
+  "name": "Precognition",
+  "type": "buff",
+  "img": "icons/magic/perception/eye-ringed-green.webp",
+  "folder": "0f66d49851bfb591",
+  "sort": 0,
+  "system": {
+    "description": {
+      "value": "<p>Precognitive edge: +2 insight bonus to one attack roll, damage roll, saving throw or skill check, used before the roll. Ends when used.</p><p>Power: @UUID[Compendium.pf1-psionics.psionic-powers.Item.a980ef8f056c2f37]{Precognition} · <a href=\"https://www.d20pfsrd.com/alternative-rule-systems/3rd-party-rules-systems/psionics-unleashed /psionic-powers/p/precognition\">full text</a></p>",
+      "instructions": ""
+    },
+    "tags": [
+      "Psionic"
+    ],
+    "changes": [],
+    "contextNotes": [
+      {
+        "target": "attack",
+        "text": "Precognitive edge: +[[2]] insight to one roll (then end the buff)."
+      },
+      {
+        "target": "allSavingThrows",
+        "text": "Precognitive edge: +[[2]] insight to one roll (then end the buff)."
+      },
+      {
+        "target": "skills",
+        "text": "Precognitive edge: +[[2]] insight to one roll (then end the buff)."
+      }
+    ],
+    "subType": "spell",
+    "active": false,
+    "level": 1,
+    "duration": {
+      "value": "@item.level * 10",
+      "units": "minute",
+      "end": "turnStart"
+    },
+    "conditions": [],
+    "hideFromToken": false
+  },
+  "effects": [],
+  "flags": {
+    "pf1-psionics": {
+      "buff": true,
+      "power": "Precognition",
+      "kind": "buff"
+    }
+  }
+}

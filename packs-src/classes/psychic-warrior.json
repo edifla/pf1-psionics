@@ -1,0 +1,178 @@
+{
+  "_id": "6b1cf0a3a3765f4b",
+  "_key": "!items!6b1cf0a3a3765f4b",
+  "name": "Psychic Warrior",
+  "type": "class",
+  "img": "icons/magic/control/buff-flight-wings-runes-purple.webp",
+  "folder": null,
+  "sort": 0,
+  "system": {
+    "description": {
+      "value": "<p><strong>Psychic Warrior</strong> — psionic base class (Dreamscarred Press).</p><p><strong>Manifesting:</strong> key ability WIS, powers up to level 6. Adding this class to a character enables the Psionic powers book.</p><p><strong>Psionic skills not in PF1:</strong> Autohypnosis, Knowledge (Psionics).</p><table class=\"pf1-psionics-progression\"><thead><tr><th>Lvl</th><th>BAB</th><th>Fort</th><th>Ref</th><th>Will</th><th>Special</th><th>PP</th><th>Known</th><th>Max</th></tr></thead><tbody><tr><td>1st</td><td>+0</td><td>+2</td><td>+0</td><td>+0</td><td>Bonus feat, psionic proficiency, warrior's path</td><td>1</td><td>1</td><td>1st</td></tr><tr><td>2nd</td><td>+1</td><td>+3</td><td>+0</td><td>+0</td><td>Bonus feat</td><td>2</td><td>2</td><td>1st</td></tr><tr><td>3rd</td><td>+2</td><td>+3</td><td>+1</td><td>+1</td><td>Expanded path</td><td>4</td><td>3</td><td>1st</td></tr><tr><td>4th</td><td>+3</td><td>+4</td><td>+1</td><td>+1</td><td>Path skill</td><td>6</td><td>4</td><td>2nd</td></tr><tr><td>5th</td><td>+3</td><td>+4</td><td>+1</td><td>+1</td><td>Bonus feat</td><td>8</td><td>5</td><td>2nd</td></tr><tr><td>6th</td><td>+4</td><td>+5</td><td>+2</td><td>+2</td><td>Martial power</td><td>12</td><td>6</td><td>2nd</td></tr><tr><td>7th</td><td>+5</td><td>+5</td><td>+2</td><td>+2</td><td>Path skill</td><td>16</td><td>7</td><td>3rd</td></tr><tr><td>8th</td><td>+6/+1</td><td>+6</td><td>+2</td><td>+2</td><td>Bonus feat</td><td>20</td><td>8</td><td>3rd</td></tr><tr><td>9th</td><td>+6/+1</td><td>+6</td><td>+3</td><td>+3</td><td>Secondary path (powers)</td><td>24</td><td>9</td><td>3rd</td></tr><tr><td>10th</td><td>+7/+2</td><td>+7</td><td>+3</td><td>+3</td><td>Path skill</td><td>28</td><td>10</td><td>4th</td></tr><tr><td>11th</td><td>+8/+3</td><td>+7</td><td>+3</td><td>+3</td><td>Bonus feat, secondary path (trance, maneuver)</td><td>36</td><td>11</td><td>4th</td></tr><tr><td>12th</td><td>+9/+4</td><td>+8</td><td>+4</td><td>+4</td><td>Twisting path</td><td>44</td><td>12</td><td>4th</td></tr><tr><td>13th</td><td>+9/+4</td><td>+8</td><td>+4</td><td>+4</td><td>Path skill</td><td>52</td><td>13</td><td>5th</td></tr><tr><td>14th</td><td>+10/+5</td><td>+9</td><td>+4</td><td>+4</td><td>Bonus feat</td><td>60</td><td>14</td><td>5th</td></tr><tr><td>15th</td><td>+11/+6/+1</td><td>+9</td><td>+5</td><td>+5</td><td>Pathweaving (1/day)</td><td>68</td><td>15</td><td>5th</td></tr><tr><td>16th</td><td>+12/+7/+2</td><td>+10</td><td>+5</td><td>+5</td><td>Path skill</td><td>80</td><td>16</td><td>6th</td></tr><tr><td>17th</td><td>+12/+7/+2</td><td>+10</td><td>+5</td><td>+5</td><td>Bonus feat</td><td>92</td><td>17</td><td>6th</td></tr><tr><td>18th</td><td>+13/+8/+3</td><td>+11</td><td>+6</td><td>+6</td><td>Pathweaving (2/day)</td><td>104</td><td>18</td><td>6th</td></tr><tr><td>19th</td><td>+14/+9/+4</td><td>+11</td><td>+6</td><td>+6</td><td>Path skill</td><td>116</td><td>19</td><td>6th</td></tr><tr><td>20th</td><td>+15/+10/+5</td><td>+12</td><td>+6</td><td>+6</td><td>Bonus feat, eternal warrior</td><td>128</td><td>20</td><td>6th</td></tr></tbody></table><p>Class features: <a href=\"https://www.d20pfsrd.com/alternative-rule-systems/3rd-party-rules-systems/psionics-unleashed/classes/psychic-warrior/\">Psychic Warrior on d20pfsrd.com</a></p>",
+      "instructions": ""
+    },
+    "tags": [
+      "Psionic"
+    ],
+    "changes": [],
+    "contextNotes": [],
+    "links": {
+      "children": [],
+      "classAssociations": [
+        {
+          "level": 1,
+          "uuid": "Compendium.pf1-psionics.psionic-class-features.Item.fa945927656d3548"
+        },
+        {
+          "level": 1,
+          "uuid": "Compendium.pf1-psionics.psionic-class-features.Item.c317c9832d111d7c"
+        },
+        {
+          "level": 1,
+          "uuid": "Compendium.pf1-psionics.psionic-class-features.Item.42e3064a6a14ba2f"
+        },
+        {
+          "level": 3,
+          "uuid": "Compendium.pf1-psionics.psionic-class-features.Item.91c99f5fc8fb1625"
+        },
+        {
+          "level": 4,
+          "uuid": "Compendium.pf1-psionics.psionic-class-features.Item.5a96f46a96e23977"
+        },
+        {
+          "level": 6,
+          "uuid": "Compendium.pf1-psionics.psionic-class-features.Item.e18267725c6ab95a"
+        },
+        {
+          "level": 9,
+          "uuid": "Compendium.pf1-psionics.psionic-class-features.Item.cf46792265dcf964"
+        },
+        {
+          "level": 12,
+          "uuid": "Compendium.pf1-psionics.psionic-class-features.Item.f3fd2489160ff850"
+        },
+        {
+          "level": 15,
+          "uuid": "Compendium.pf1-psionics.psionic-class-features.Item.b4b06e1eb92f233b"
+        },
+        {
+          "level": 20,
+          "uuid": "Compendium.pf1-psionics.psionic-class-features.Item.f9ebae65c5325a24"
+        }
+      ],
+      "supplements": []
+    },
+    "tag": "psychicWarrior",
+    "armorProf": [],
+    "weaponProf": [],
+    "languages": [],
+    "subType": "base",
+    "level": 1,
+    "hd": 8,
+    "hp": 8,
+    "bab": "med",
+    "skillsPerLevel": 4,
+    "savingThrows": {
+      "fort": {
+        "value": "high"
+      },
+      "ref": {
+        "value": "low"
+      },
+      "will": {
+        "value": "low"
+      }
+    },
+    "wealth": "5d6 * 10",
+    "classSkills": {
+      "acr": true,
+      "clm": true,
+      "crf": true,
+      "per": true,
+      "pro": true,
+      "rid": true,
+      "spl": true,
+      "swm": true
+    }
+  },
+  "effects": [],
+  "flags": {
+    "pf1-psionics": {
+      "psionic": true,
+      "keyAbility": "wis",
+      "maxPowerLevel": 6,
+      "casterType": "med",
+      "ppTable": [
+        1,
+        2,
+        4,
+        6,
+        8,
+        12,
+        16,
+        20,
+        24,
+        28,
+        36,
+        44,
+        52,
+        60,
+        68,
+        80,
+        92,
+        104,
+        116,
+        128
+      ],
+      "powersKnown": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20
+      ],
+      "maxPowerLevelTable": [
+        1,
+        1,
+        1,
+        2,
+        2,
+        2,
+        3,
+        3,
+        3,
+        4,
+        4,
+        4,
+        5,
+        5,
+        5,
+        6,
+        6,
+        6,
+        6,
+        6
+      ],
+      "unmappedSkills": [
+        "Autohypnosis",
+        "Knowledge (Psionics)"
+      ],
+      "url": "https://www.d20pfsrd.com/alternative-rule-systems/3rd-party-rules-systems/psionics-unleashed/classes/psychic-warrior/"
+    }
+  }
+}

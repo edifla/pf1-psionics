@@ -1,0 +1,43 @@
+{
+  "_id": "076399663fa1fb77",
+  "_key": "!items!076399663fa1fb77",
+  "name": "Expose Weakness",
+  "type": "buff",
+  "img": "icons/magic/life/heart-area-circle-red-green.webp",
+  "folder": "c2d1bbdc0f0df058",
+  "sort": 0,
+  "system": {
+    "description": {
+      "value": "<p>The target is treated as flanked by all attackers, attacks against it gain +4 to confirm critical hits, and fortification is rolled twice using the worse result.</p><p>Power: @UUID[Compendium.pf1-psionics.psionic-powers.Item.2ba24fae1cd44fe2]{Expose Weakness} · <a href=\"https://www.d20pfsrd.com/alternative-rule-systems/3rd-party-rules-systems/psionics-unleashed /psionic-powers/e/expose-weakness\">full text</a></p>",
+      "instructions": ""
+    },
+    "tags": [
+      "Psionic"
+    ],
+    "changes": [],
+    "contextNotes": [
+      {
+        "target": "ac",
+        "text": "Expose Weakness: treated as flanked by all attackers; attackers get +4 to confirm criticals; fortification is rolled twice (worse result)."
+      }
+    ],
+    "subType": "spell",
+    "active": false,
+    "level": 3,
+    "duration": {
+      "value": "@item.level",
+      "units": "round",
+      "end": "turnStart"
+    },
+    "conditions": [],
+    "hideFromToken": false
+  },
+  "effects": [],
+  "flags": {
+    "pf1-psionics": {
+      "buff": true,
+      "power": "Expose Weakness",
+      "kind": "debuff"
+    }
+  }
+}

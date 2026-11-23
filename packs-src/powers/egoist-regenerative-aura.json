@@ -1,0 +1,102 @@
+{
+  "_id": "380b5cdaac4f2a32",
+  "_key": "!items!380b5cdaac4f2a32",
+  "name": "Regenerative Aura",
+  "type": "spell",
+  "img": "icons/magic/life/heart-area-circle-red-green.webp",
+  "folder": "2f99aa4b358c02dc",
+  "sort": 0,
+  "system": {
+    "description": {
+      "value": "<p><em>Heal all creatures within range for 25 hit points per round.</em></p><p><strong>Augment:</strong> this power can be augmented (see full text).</p><p>Full text: <a href=\"https://www.d20pfsrd.com/alternative-rule-systems/3rd-party-rules-systems/psionics-unleashed /psionic-powers/r/regenerative-aura\">Regenerative Aura on d20pfsrd.com</a></p><p><strong>Source:</strong> Psionics Expanded: Advanced Psionics Guide</p>",
+      "instructions": ""
+    },
+    "tags": [],
+    "actions": [
+      {
+        "_id": "980de7e34e533cee",
+        "name": "Manifest",
+        "actionType": "spellsave",
+        "activation": {
+          "type": "standard",
+          "cost": 1,
+          "unchained": {
+            "type": "action",
+            "cost": 2
+          }
+        },
+        "range": {
+          "units": "ft",
+          "value": "30"
+        },
+        "duration": {
+          "units": "spec",
+          "value": "1 round/lvl. (D)",
+          "dismiss": true,
+          "concentration": false
+        },
+        "area": "30 ft. radius sphere centered on you",
+        "save": {
+          "type": "fort",
+          "description": "Fort negates (harmless)"
+        }
+      }
+    ],
+    "learnedAt": {
+      "class": {
+        "vitalist": 9,
+        "psion": 9
+      },
+      "domain": {
+        "egoist": 9
+      },
+      "subDomain": {},
+      "elementalSchool": {},
+      "bloodline": {}
+    },
+    "level": 9,
+    "school": "psychometabolism",
+    "subschool": [],
+    "descriptors": [],
+    "components": {
+      "value": "Inline !Important",
+      "verbal": false,
+      "somatic": false,
+      "thought": false,
+      "emotion": false,
+      "material": false,
+      "focus": false,
+      "divineFocus": 0
+    },
+    "materials": {
+      "value": "",
+      "focus": "",
+      "gpValue": 0
+    },
+    "spellbook": "psionic",
+    "preparation": {
+      "value": 1,
+      "max": 1
+    },
+    "atWill": false,
+    "sr": true,
+    "domain": false,
+    "slotCost": 1,
+    "spellPoints": {
+      "cost": "17"
+    }
+  },
+  "effects": [],
+  "flags": {
+    "pf1-psionics": {
+      "power": true,
+      "discipline": "psychometabolism",
+      "specialization": "egoist",
+      "augment": true,
+      "display": "Inline !Important",
+      "powerPoints": 17,
+      "source": "Psionics Expanded: Advanced Psionics Guide",
+      "url": "https://www.d20pfsrd.com/alternative-rule-systems/3rd-party-rules-systems/psionics-unleashed /psionic-powers/r/regenerative-aura"
+    }
+  }
+}

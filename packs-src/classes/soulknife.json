@@ -1,0 +1,115 @@
+{
+  "_id": "69489c74ad49e4b1",
+  "_key": "!items!69489c74ad49e4b1",
+  "name": "Soulknife",
+  "type": "class",
+  "img": "icons/magic/light/beam-rays-blue.webp",
+  "folder": null,
+  "sort": 0,
+  "system": {
+    "description": {
+      "value": "<p><strong>Soulknife</strong> — psionic base class (Dreamscarred Press).</p><p><strong>Psionic skills not in PF1:</strong> Autohypnosis, Knowledge (Psionics).</p><table class=\"pf1-psionics-progression\"><thead><tr><th>Lvl</th><th>BAB</th><th>Fort</th><th>Ref</th><th>Will</th><th>Special</th></tr></thead><tbody><tr><td>1st</td><td>+1</td><td>+0</td><td>+2</td><td>+2</td><td>Bonus feat, form mind blade, shape mind blade, throw mind blade, wild talent</td></tr><tr><td>2nd</td><td>+2</td><td>+0</td><td>+3</td><td>+3</td><td>Blade skill</td></tr><tr><td>3rd</td><td>+3</td><td>+1</td><td>+3</td><td>+3</td><td>Enhanced mind blade +1, psychic strike +1d8</td></tr><tr><td>4th</td><td>+4</td><td>+1</td><td>+4</td><td>+4</td><td>Blade skill</td></tr><tr><td>5th</td><td>+5</td><td>+1</td><td>+4</td><td>+4</td><td>Enhanced mind blade +2, quick draw</td></tr><tr><td>6th</td><td>+6/+1</td><td>+2</td><td>+5</td><td>+5</td><td>Blade skill</td></tr><tr><td>7th</td><td>+7/+2</td><td>+2</td><td>+5</td><td>+5</td><td>Enhanced mind blade +3, psychic strike +2d8</td></tr><tr><td>8th</td><td>+8/+3</td><td>+2</td><td>+6</td><td>+6</td><td>Blade skill</td></tr><tr><td>9th</td><td>+9/+4</td><td>+3</td><td>+6</td><td>+6</td><td>Enhanced mind blade +4</td></tr><tr><td>10th</td><td>+10/+5</td><td>+3</td><td>+7</td><td>+7</td><td>Blade skill</td></tr><tr><td>11th</td><td>+11/+6/+1</td><td>+3</td><td>+7</td><td>+7</td><td>Enhanced mind blade +5, psychic strike +3d8</td></tr><tr><td>12th</td><td>+12/+7/+2</td><td>+4</td><td>+8</td><td>+8</td><td>Blade skill</td></tr><tr><td>13th</td><td>+13/+8/+3</td><td>+4</td><td>+8</td><td>+8</td><td>Enhanced mind blade +6</td></tr><tr><td>14th</td><td>+14/+9/+4</td><td>+4</td><td>+9</td><td>+9</td><td>Blade skill</td></tr><tr><td>15th</td><td>+15/+10/+5</td><td>+5</td><td>+9</td><td>+9</td><td>Enhanced mind blade +7, psychic strike +4d8</td></tr><tr><td>16th</td><td>+16/+11/+6/+1</td><td>+5</td><td>+10</td><td>+10</td><td>Blade skill</td></tr><tr><td>17th</td><td>+17/+12/+7/+2</td><td>+5</td><td>+10</td><td>+10</td><td>Enhanced mind blade +8</td></tr><tr><td>18th</td><td>+18/+13/+8/+3</td><td>+6</td><td>+11</td><td>+11</td><td>Blade skill</td></tr><tr><td>19th</td><td>+19/+14/+9/+4</td><td>+6</td><td>+11</td><td>+11</td><td>Enhanced mind blade +9, psychic strike +5d8</td></tr><tr><td>20th</td><td>+20/+15/+10/+5</td><td>+6</td><td>+12</td><td>+12</td><td>Blade skill, mind blade mastery</td></tr></tbody></table><p>Class features: <a href=\"https://www.d20pfsrd.com/alternative-rule-systems/3rd-party-rules-systems/psionics-unleashed/classes/soulknife/\">Soulknife on d20pfsrd.com</a></p>",
+      "instructions": ""
+    },
+    "tags": [
+      "Psionic"
+    ],
+    "changes": [],
+    "contextNotes": [],
+    "links": {
+      "children": [],
+      "classAssociations": [
+        {
+          "level": 1,
+          "uuid": "Compendium.pf1-psionics.psionic-class-features.Item.114cf068e9915617"
+        },
+        {
+          "level": 1,
+          "uuid": "Compendium.pf1-psionics.psionic-class-features.Item.ac3ff329d8c1b469"
+        },
+        {
+          "level": 1,
+          "uuid": "Compendium.pf1-psionics.psionic-class-features.Item.d5a4ed018def6bf2"
+        },
+        {
+          "level": 1,
+          "uuid": "Compendium.pf1-psionics.psionic-class-features.Item.04cffe84c4f3837e"
+        },
+        {
+          "level": 1,
+          "uuid": "Compendium.pf1-psionics.psionic-class-features.Item.43ef096f193a5243"
+        },
+        {
+          "level": 2,
+          "uuid": "Compendium.pf1-psionics.psionic-class-features.Item.964fb8927c64d4d6"
+        },
+        {
+          "level": 3,
+          "uuid": "Compendium.pf1-psionics.psionic-class-features.Item.df20459fc1c77f98"
+        },
+        {
+          "level": 3,
+          "uuid": "Compendium.pf1-psionics.psionic-class-features.Item.222680aaa3149bf9"
+        },
+        {
+          "level": 5,
+          "uuid": "Compendium.pf1-psionics.psionic-class-features.Item.d7e21635e25fff27"
+        },
+        {
+          "level": 20,
+          "uuid": "Compendium.pf1-psionics.psionic-class-features.Item.e192c07a3d80b383"
+        }
+      ],
+      "supplements": []
+    },
+    "tag": "soulknife",
+    "armorProf": [],
+    "weaponProf": [],
+    "languages": [],
+    "subType": "base",
+    "level": 1,
+    "hd": 10,
+    "hp": 10,
+    "bab": "high",
+    "skillsPerLevel": 4,
+    "savingThrows": {
+      "fort": {
+        "value": "low"
+      },
+      "ref": {
+        "value": "high"
+      },
+      "will": {
+        "value": "high"
+      }
+    },
+    "wealth": "5d6 * 10",
+    "classSkills": {
+      "acr": true,
+      "clm": true,
+      "crf": true,
+      "int": true,
+      "per": true,
+      "pro": true,
+      "ste": true,
+      "swm": true
+    }
+  },
+  "effects": [],
+  "flags": {
+    "pf1-psionics": {
+      "psionic": false,
+      "keyAbility": null,
+      "maxPowerLevel": 0,
+      "casterType": "low",
+      "ppTable": [],
+      "powersKnown": [],
+      "maxPowerLevelTable": [],
+      "unmappedSkills": [
+        "Autohypnosis",
+        "Knowledge (Psionics)"
+      ],
+      "url": "https://www.d20pfsrd.com/alternative-rule-systems/3rd-party-rules-systems/psionics-unleashed/classes/soulknife/"
+    }
+  }
+}

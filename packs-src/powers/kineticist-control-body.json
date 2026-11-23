@@ -1,0 +1,102 @@
+{
+  "_id": "5c7ebe89b922d41b",
+  "_key": "!items!5c7ebe89b922d41b",
+  "name": "Control Body",
+  "type": "spell",
+  "img": "icons/magic/fire/beam-jet-stream-blue.webp",
+  "folder": "c06fa52e4eb97703",
+  "sort": 0,
+  "system": {
+    "description": {
+      "value": "<p><em>Take rudimentary control of your foe’s limbs.</em></p><p><strong>Augment:</strong> this power can be augmented (see full text).</p><p>Full text: <a href=\"https://www.d20pfsrd.com/alternative-rule-systems/3rd-party-rules-systems/psionics-unleashed /psionic-powers/c/control-body\">Control Body on d20pfsrd.com</a></p><p><strong>Source:</strong> Psionics Unleashed</p>",
+      "instructions": ""
+    },
+    "tags": [],
+    "actions": [
+      {
+        "_id": "bda238e0de495ebf",
+        "name": "Manifest",
+        "actionType": "spellsave",
+        "activation": {
+          "type": "standard",
+          "cost": 1,
+          "unchained": {
+            "type": "action",
+            "cost": 2
+          }
+        },
+        "range": {
+          "units": "medium"
+        },
+        "duration": {
+          "units": "spec",
+          "value": "Concentration, up to 1 min./level",
+          "dismiss": false,
+          "concentration": true
+        },
+        "target": {
+          "value": "One Medium or smaller creature with humanoid physiology"
+        },
+        "save": {
+          "type": "fort",
+          "description": "Fortitude negates"
+        }
+      }
+    ],
+    "learnedAt": {
+      "class": {
+        "psion": 4
+      },
+      "domain": {
+        "kineticist": 4
+      },
+      "subDomain": {},
+      "elementalSchool": {},
+      "bloodline": {}
+    },
+    "level": 4,
+    "school": "psychokinesis",
+    "subschool": [],
+    "descriptors": [],
+    "components": {
+      "value": "Inline !Important",
+      "verbal": false,
+      "somatic": false,
+      "thought": false,
+      "emotion": false,
+      "material": false,
+      "focus": false,
+      "divineFocus": 0
+    },
+    "materials": {
+      "value": "",
+      "focus": "",
+      "gpValue": 0
+    },
+    "spellbook": "psionic",
+    "preparation": {
+      "value": 1,
+      "max": 1
+    },
+    "atWill": false,
+    "sr": true,
+    "domain": false,
+    "slotCost": 1,
+    "spellPoints": {
+      "cost": "7"
+    }
+  },
+  "effects": [],
+  "flags": {
+    "pf1-psionics": {
+      "power": true,
+      "discipline": "psychokinesis",
+      "specialization": "kineticist",
+      "augment": true,
+      "display": "Inline !Important",
+      "powerPoints": 7,
+      "source": "Psionics Unleashed",
+      "url": "https://www.d20pfsrd.com/alternative-rule-systems/3rd-party-rules-systems/psionics-unleashed /psionic-powers/c/control-body"
+    }
+  }
+}

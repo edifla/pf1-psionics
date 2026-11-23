@@ -1,0 +1,175 @@
+{
+  "_id": "09010ba2e734be9c",
+  "_key": "!items!09010ba2e734be9c",
+  "name": "Wilder",
+  "type": "class",
+  "img": "icons/magic/fire/beam-jet-stream-blue.webp",
+  "folder": null,
+  "sort": 0,
+  "system": {
+    "description": {
+      "value": "<p><strong>Wilder</strong> — psionic base class (Dreamscarred Press).</p><p><strong>Manifesting:</strong> key ability CHA, powers up to level 9. Adding this class to a character enables the Psionic powers book.</p><p><strong>Psionic skills not in PF1:</strong> Autohypnosis, Knowledge (Psionics).</p><table class=\"pf1-psionics-progression\"><thead><tr><th>Lvl</th><th>BAB</th><th>Fort</th><th>Ref</th><th>Will</th><th>Special</th><th>PP</th><th>Known</th><th>Max</th></tr></thead><tbody><tr><td>1st</td><td>+0</td><td>+0</td><td>+0</td><td>+2</td><td>Wild surge +1, psychic enervation, surge blast, surge bond</td><td>2</td><td>1</td><td>1st</td></tr><tr><td>2nd</td><td>+1</td><td>+0</td><td>+0</td><td>+3</td><td>Elude attack (+1)</td><td>6</td><td>2</td><td>1st</td></tr><tr><td>3rd</td><td>+2</td><td>+1</td><td>+1</td><td>+3</td><td>Wild surge +2</td><td>11</td><td>2</td><td>1st</td></tr><tr><td>4th</td><td>+3</td><td>+1</td><td>+1</td><td>+4</td><td>Surging euphoria +1</td><td>17</td><td>3</td><td>2nd</td></tr><tr><td>5th</td><td>+3</td><td>+1</td><td>+1</td><td>+4</td><td>Improved surge bond</td><td>25</td><td>3</td><td>2nd</td></tr><tr><td>6th</td><td>+4</td><td>+2</td><td>+2</td><td>+5</td><td>Elude attack (+2)</td><td>35</td><td>4</td><td>3rd</td></tr><tr><td>7th</td><td>+5</td><td>+2</td><td>+2</td><td>+5</td><td>Wild surge +3</td><td>46</td><td>4</td><td>3rd</td></tr><tr><td>8th</td><td>+6/+1</td><td>+2</td><td>+2</td><td>+6</td><td>—</td><td>58</td><td>5</td><td>4th</td></tr><tr><td>9th</td><td>+6/+1</td><td>+3</td><td>+3</td><td>+6</td><td>Improved surge bond</td><td>72</td><td>5</td><td>4th</td></tr><tr><td>10th</td><td>+7/+2</td><td>+3</td><td>+3</td><td>+7</td><td>Elude attack (+3)</td><td>88</td><td>6</td><td>5th</td></tr><tr><td>11th</td><td>+8/+3</td><td>+3</td><td>+3</td><td>+7</td><td>Wild surge +4</td><td>106</td><td>6</td><td>5th</td></tr><tr><td>12th</td><td>+9/+4</td><td>+4</td><td>+4</td><td>+8</td><td>Surging euphoria +2</td><td>126</td><td>7</td><td>6th</td></tr><tr><td>13th</td><td>+9/+4</td><td>+4</td><td>+4</td><td>+8</td><td>Improved surge bond</td><td>147</td><td>7</td><td>6th</td></tr><tr><td>14th</td><td>+10/+5</td><td>+4</td><td>+4</td><td>+9</td><td>Elude attack (+4)</td><td>170</td><td>8</td><td>7th</td></tr><tr><td>15th</td><td>+11/+6/+1</td><td>+5</td><td>+5</td><td>+9</td><td>Wild surge +5</td><td>195</td><td>8</td><td>7th</td></tr><tr><td>16th</td><td>+12/+7/+2</td><td>+5</td><td>+5</td><td>+10</td><td>—</td><td>221</td><td>9</td><td>8th</td></tr><tr><td>17th</td><td>+12/+7/+2</td><td>+5</td><td>+5</td><td>+10</td><td>Improved surge bond</td><td>250</td><td>9</td><td>8th</td></tr><tr><td>18th</td><td>+13/+8/+3</td><td>+6</td><td>+6</td><td>+11</td><td>Elude attack (+5)</td><td>280</td><td>10</td><td>9th</td></tr><tr><td>19th</td><td>+14/+9/+4</td><td>+6</td><td>+6</td><td>+11</td><td>Wild surge +6</td><td>311</td><td>10</td><td>9th</td></tr><tr><td>20th</td><td>+15/+10/+5</td><td>+6</td><td>+6</td><td>+12</td><td>Perfect surge, Surging euphoria +3</td><td>343</td><td>11</td><td>9th</td></tr></tbody></table><p>Class features: <a href=\"https://www.d20pfsrd.com/alternative-rule-systems/3rd-party-rules-systems/psionics-unleashed/classes/wilder/\">Wilder on d20pfsrd.com</a></p>",
+      "instructions": ""
+    },
+    "tags": [
+      "Psionic"
+    ],
+    "changes": [],
+    "contextNotes": [],
+    "links": {
+      "children": [],
+      "classAssociations": [
+        {
+          "level": 1,
+          "uuid": "Compendium.pf1-psionics.psionic-class-features.Item.b75854bfeea1ba6b"
+        },
+        {
+          "level": 1,
+          "uuid": "Compendium.pf1-psionics.psionic-class-features.Item.bd9061ec42ff6c26"
+        },
+        {
+          "level": 1,
+          "uuid": "Compendium.pf1-psionics.psionic-class-features.Item.4f42eb3c8b530f57"
+        },
+        {
+          "level": 1,
+          "uuid": "Compendium.pf1-psionics.psionic-class-features.Item.466bae62700b7c5f"
+        },
+        {
+          "level": 2,
+          "uuid": "Compendium.pf1-psionics.psionic-class-features.Item.381de9f75929572e"
+        },
+        {
+          "level": 4,
+          "uuid": "Compendium.pf1-psionics.psionic-class-features.Item.328666eeced2ceec"
+        },
+        {
+          "level": 5,
+          "uuid": "Compendium.pf1-psionics.psionic-class-features.Item.64104aad260bf1b3"
+        },
+        {
+          "level": 20,
+          "uuid": "Compendium.pf1-psionics.psionic-class-features.Item.0137d80ba83ce799"
+        }
+      ],
+      "supplements": []
+    },
+    "tag": "wilder",
+    "armorProf": [],
+    "weaponProf": [],
+    "languages": [],
+    "subType": "base",
+    "level": 1,
+    "hd": 8,
+    "hp": 8,
+    "bab": "med",
+    "skillsPerLevel": 4,
+    "savingThrows": {
+      "fort": {
+        "value": "low"
+      },
+      "ref": {
+        "value": "low"
+      },
+      "will": {
+        "value": "high"
+      }
+    },
+    "wealth": "4d4 * 10",
+    "classSkills": {
+      "acr": true,
+      "blf": true,
+      "clm": true,
+      "crf": true,
+      "dip": true,
+      "esc": true,
+      "int": true,
+      "per": true,
+      "pro": true,
+      "sen": true,
+      "spl": true,
+      "swm": true,
+      "umd": true
+    }
+  },
+  "effects": [],
+  "flags": {
+    "pf1-psionics": {
+      "psionic": true,
+      "keyAbility": "cha",
+      "maxPowerLevel": 9,
+      "casterType": "high",
+      "ppTable": [
+        2,
+        6,
+        11,
+        17,
+        25,
+        35,
+        46,
+        58,
+        72,
+        88,
+        106,
+        126,
+        147,
+        170,
+        195,
+        221,
+        250,
+        280,
+        311,
+        343
+      ],
+      "powersKnown": [
+        1,
+        2,
+        2,
+        3,
+        3,
+        4,
+        4,
+        5,
+        5,
+        6,
+        6,
+        7,
+        7,
+        8,
+        8,
+        9,
+        9,
+        10,
+        10,
+        11
+      ],
+      "maxPowerLevelTable": [
+        1,
+        1,
+        1,
+        2,
+        2,
+        3,
+        3,
+        4,
+        4,
+        5,
+        5,
+        6,
+        6,
+        7,
+        7,
+        8,
+        8,
+        9,
+        9,
+        9
+      ],
+      "unmappedSkills": [
+        "Autohypnosis",
+        "Knowledge (Psionics)"
+      ],
+      "url": "https://www.d20pfsrd.com/alternative-rule-systems/3rd-party-rules-systems/psionics-unleashed/classes/wilder/"
+    }
+  }
+}

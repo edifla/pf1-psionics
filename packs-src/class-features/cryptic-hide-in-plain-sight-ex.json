@@ -1,0 +1,33 @@
+{
+  "_id": "7a23d6f5198fe1d0",
+  "_key": "!items!7a23d6f5198fe1d0",
+  "name": "Hide in Plain Sight (Ex)",
+  "type": "feat",
+  "img": "icons/magic/symbols/circle-ouroboros.webp",
+  "sort": 10000,
+  "system": {
+    "description": {
+      "value": "<p>Cryptic class feature, gained at level 10.</p><p>Full text: <a href=\"https://www.d20pfsrd.com/alternative-rule-systems/3rd-party-rules-systems/psionics-unleashed/classes/cryptic/#TOC-Hidden-Pattern-Ex-\">Hide in Plain Sight (Ex) on d20pfsrd.com</a></p>",
+      "instructions": ""
+    },
+    "tags": [
+      "Psionic"
+    ],
+    "subType": "classFeat",
+    "abilityType": "ex",
+    "associations": {
+      "classes": [
+        "Cryptic"
+      ]
+    }
+  },
+  "effects": [],
+  "flags": {
+    "pf1-psionics": {
+      "classFeature": true,
+      "class": "Cryptic",
+      "level": 10
+    }
+  },
+  "folder": "53dd3a0f76729752"
+}

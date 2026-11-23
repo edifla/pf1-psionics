@@ -1,0 +1,45 @@
+{
+  "_id": "d71a85a16ef8b319",
+  "_key": "!items!d71a85a16ef8b319",
+  "name": "Animal Affinity (Intelligence)",
+  "type": "buff",
+  "img": "icons/magic/life/heart-area-circle-red-green.webp",
+  "folder": "0f66d49851bfb591",
+  "sort": 0,
+  "system": {
+    "description": {
+      "value": "<p>+4 enhancement bonus to Intelligence. Augment: +4 to another ability per 5 extra PP (apply another Animal Affinity buff).</p><p>Power: @UUID[Compendium.pf1-psionics.psionic-powers.Item.0121ddb7161dc8b8]{Animal Affinity} · <a href=\"https://www.d20pfsrd.com/alternative-rule-systems/3rd-party-rules-systems/psionics-unleashed /psionic-powers/a/animal-affinity\">full text</a></p>",
+      "instructions": ""
+    },
+    "tags": [
+      "Psionic"
+    ],
+    "changes": [
+      {
+        "_id": "49866e59",
+        "formula": "4",
+        "target": "int",
+        "type": "enh"
+      }
+    ],
+    "contextNotes": [],
+    "subType": "spell",
+    "active": false,
+    "level": 2,
+    "duration": {
+      "value": "@item.level",
+      "units": "minute",
+      "end": "turnStart"
+    },
+    "conditions": [],
+    "hideFromToken": false
+  },
+  "effects": [],
+  "flags": {
+    "pf1-psionics": {
+      "buff": true,
+      "power": "Animal Affinity",
+      "kind": "buff"
+    }
+  }
+}

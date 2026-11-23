@@ -1,0 +1,98 @@
+{
+  "_id": "392e322acbe404d0",
+  "_key": "!items!392e322acbe404d0",
+  "name": "Sensory Cascade",
+  "type": "spell",
+  "img": "icons/magic/perception/eye-tendrils-web-purple.webp",
+  "folder": "64f78502e77a4cad",
+  "sort": 0,
+  "system": {
+    "description": {
+      "value": "<p><em>Trigger a dazing cascade of the senses in the target.</em></p><p><strong>Augment:</strong> this power can be augmented (see full text).</p><p>Full text: <a href=\"https://www.d20pfsrd.com/alternative-rule-systems/3rd-party-rules-systems/psionics-unleashed /psionic-powers/s/sensory-cascade\">Sensory Cascade on d20pfsrd.com</a></p><p><strong>Source:</strong> Psionics Expanded: Advanced Psionics Guide</p>",
+      "instructions": ""
+    },
+    "tags": [],
+    "actions": [
+      {
+        "_id": "119470620a14e9e4",
+        "name": "Manifest",
+        "actionType": "spellsave",
+        "activation": {
+          "type": "special",
+          "cost": 1,
+          "unchained": {
+            "type": "action",
+            "cost": 2
+          }
+        },
+        "range": {
+          "units": "medium"
+        },
+        "duration": {
+          "units": ""
+        },
+        "save": {
+          "type": "will",
+          "description": "Will negates"
+        }
+      }
+    ],
+    "learnedAt": {
+      "class": {
+        "dread": 4,
+        "psion": 4,
+        "wilder": 4
+      },
+      "domain": {
+        "telepath": 4
+      },
+      "subDomain": {},
+      "elementalSchool": {},
+      "bloodline": {}
+    },
+    "level": 4,
+    "school": "telepathy",
+    "subschool": [],
+    "descriptors": [],
+    "components": {
+      "value": "Inline !Important",
+      "verbal": false,
+      "somatic": false,
+      "thought": false,
+      "emotion": false,
+      "material": false,
+      "focus": false,
+      "divineFocus": 0
+    },
+    "materials": {
+      "value": "",
+      "focus": "",
+      "gpValue": 0
+    },
+    "spellbook": "psionic",
+    "preparation": {
+      "value": 1,
+      "max": 1
+    },
+    "atWill": false,
+    "sr": true,
+    "domain": false,
+    "slotCost": 1,
+    "spellPoints": {
+      "cost": "7"
+    }
+  },
+  "effects": [],
+  "flags": {
+    "pf1-psionics": {
+      "power": true,
+      "discipline": "telepathy",
+      "specialization": "telepath",
+      "augment": true,
+      "display": "Inline !Important",
+      "powerPoints": 7,
+      "source": "Psionics Expanded: Advanced Psionics Guide",
+      "url": "https://www.d20pfsrd.com/alternative-rule-systems/3rd-party-rules-systems/psionics-unleashed /psionic-powers/s/sensory-cascade"
+    }
+  }
+}

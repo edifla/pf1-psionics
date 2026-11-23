@@ -1,0 +1,40 @@
+{
+  "_id": "1b40d1495c2d275e",
+  "_key": "!items!1b40d1495c2d275e",
+  "name": "Ectoplasmic Cocoon",
+  "type": "buff",
+  "img": "icons/magic/symbols/elements-air-earth-fire-water.webp",
+  "folder": "c2d1bbdc0f0df058",
+  "sort": 0,
+  "system": {
+    "description": {
+      "value": "<p>Wrapped in ectoplasm: helpless, can't see out, speak or take physical actions (mental actions allowed). The cocoon has hardness 8 and 20 hp.</p><p>Power: @UUID[Compendium.pf1-psionics.psionic-powers.Item.0105d13271834954]{Ectoplasmic Cocoon} · <a href=\"https://www.d20pfsrd.com/alternative-rule-systems/3rd-party-rules-systems/psionics-unleashed /psionic-powers/e/ectoplasmic-cocoon\">full text</a></p>",
+      "instructions": ""
+    },
+    "tags": [
+      "Psionic"
+    ],
+    "changes": [],
+    "contextNotes": [],
+    "subType": "spell",
+    "active": false,
+    "level": 3,
+    "duration": {
+      "value": "@item.level",
+      "units": "round",
+      "end": "turnStart"
+    },
+    "conditions": [
+      "helpless"
+    ],
+    "hideFromToken": false
+  },
+  "effects": [],
+  "flags": {
+    "pf1-psionics": {
+      "buff": true,
+      "power": "Ectoplasmic Cocoon",
+      "kind": "debuff"
+    }
+  }
+}

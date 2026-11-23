@@ -1,0 +1,33 @@
+{
+  "_id": "466bae62700b7c5f",
+  "_key": "!items!466bae62700b7c5f",
+  "name": "Surge Bond (Su)",
+  "type": "feat",
+  "img": "icons/magic/fire/beam-jet-stream-blue.webp",
+  "sort": 1000,
+  "system": {
+    "description": {
+      "value": "<p>Wilder class feature, gained at level 1.</p><p>Full text: <a href=\"https://www.d20pfsrd.com/alternative-rule-systems/3rd-party-rules-systems/psionics-unleashed/classes/wilder/#TOC-Surge-Bond-Su-\">Surge Bond (Su) on d20pfsrd.com</a></p>",
+      "instructions": ""
+    },
+    "tags": [
+      "Psionic"
+    ],
+    "subType": "classFeat",
+    "abilityType": "su",
+    "associations": {
+      "classes": [
+        "Wilder"
+      ]
+    }
+  },
+  "effects": [],
+  "flags": {
+    "pf1-psionics": {
+      "classFeature": true,
+      "class": "Wilder",
+      "level": 1
+    }
+  },
+  "folder": "a5ca442bb39c1991"
+}

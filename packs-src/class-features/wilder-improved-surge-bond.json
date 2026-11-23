@@ -1,0 +1,33 @@
+{
+  "_id": "64104aad260bf1b3",
+  "_key": "!items!64104aad260bf1b3",
+  "name": "Improved Surge Bond",
+  "type": "feat",
+  "img": "icons/magic/fire/beam-jet-stream-blue.webp",
+  "sort": 5000,
+  "system": {
+    "description": {
+      "value": "<p>Wilder class feature, gained at level 5.</p><p>Full text: <a href=\"https://www.d20pfsrd.com/alternative-rule-systems/3rd-party-rules-systems/psionics-unleashed/classes/wilder/#TOC-Improved-Surge-Bond\">Improved Surge Bond on d20pfsrd.com</a></p>",
+      "instructions": ""
+    },
+    "tags": [
+      "Psionic"
+    ],
+    "subType": "classFeat",
+    "abilityType": "na",
+    "associations": {
+      "classes": [
+        "Wilder"
+      ]
+    }
+  },
+  "effects": [],
+  "flags": {
+    "pf1-psionics": {
+      "classFeature": true,
+      "class": "Wilder",
+      "level": 5
+    }
+  },
+  "folder": "a5ca442bb39c1991"
+}

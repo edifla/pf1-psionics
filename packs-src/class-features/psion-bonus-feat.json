@@ -1,0 +1,33 @@
+{
+  "_id": "a64ebd52150f86d2",
+  "_key": "!items!a64ebd52150f86d2",
+  "name": "Bonus Feat",
+  "type": "feat",
+  "img": "icons/magic/perception/eye-winged-pink.webp",
+  "sort": 1000,
+  "system": {
+    "description": {
+      "value": "<p>Psion class feature, gained at level 1.</p><p>Full text: <a href=\"https://www.d20pfsrd.com/alternative-rule-systems/3rd-party-rules-systems/psionics-unleashed/classes/psion/#TOC-Bonus-Feats\">Bonus Feat on d20pfsrd.com</a></p>",
+      "instructions": ""
+    },
+    "tags": [
+      "Psionic"
+    ],
+    "subType": "classFeat",
+    "abilityType": "na",
+    "associations": {
+      "classes": [
+        "Psion"
+      ]
+    }
+  },
+  "effects": [],
+  "flags": {
+    "pf1-psionics": {
+      "classFeature": true,
+      "class": "Psion",
+      "level": 1
+    }
+  },
+  "folder": "9591c5f96fe9b7fe"
+}

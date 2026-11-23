@@ -1,0 +1,98 @@
+{
+  "_id": "e4a8a7f19f30196b",
+  "_key": "!items!e4a8a7f19f30196b",
+  "name": "Anchored Navigation",
+  "type": "spell",
+  "img": "icons/magic/perception/eye-ringed-green.webp",
+  "folder": "810fb97e054e8d24",
+  "sort": 0,
+  "system": {
+    "description": {
+      "value": "<p><em>Establish a mishap-free teleport beacon.</em></p><p><strong>Augment:</strong> this power can be augmented (see full text).</p><p>Full text: <a href=\"https://www.d20pfsrd.com/alternative-rule-systems/3rd-party-rules-systems/psionics-unleashed /psionic-powers/a/anchored-navigation\">Anchored Navigation on d20pfsrd.com</a></p><p><strong>Source:</strong> Psionics Unleashed</p>",
+      "instructions": ""
+    },
+    "tags": [],
+    "actions": [
+      {
+        "_id": "85c43c813bb39959",
+        "name": "Manifest",
+        "actionType": "other",
+        "activation": {
+          "type": "standard",
+          "cost": 1,
+          "unchained": {
+            "type": "action",
+            "cost": 2
+          }
+        },
+        "range": {
+          "units": "personal"
+        },
+        "duration": {
+          "units": "spec",
+          "value": "1 hour/level",
+          "dismiss": false,
+          "concentration": false
+        },
+        "target": {
+          "value": "You"
+        }
+      }
+    ],
+    "learnedAt": {
+      "class": {
+        "psion": 4
+      },
+      "domain": {
+        "seer": 4
+      },
+      "subDomain": {},
+      "elementalSchool": {},
+      "bloodline": {}
+    },
+    "level": 4,
+    "school": "clairsentience",
+    "subschool": [],
+    "descriptors": [],
+    "components": {
+      "value": "Inline !Important",
+      "verbal": false,
+      "somatic": false,
+      "thought": false,
+      "emotion": false,
+      "material": false,
+      "focus": false,
+      "divineFocus": 0
+    },
+    "materials": {
+      "value": "",
+      "focus": "",
+      "gpValue": 0
+    },
+    "spellbook": "psionic",
+    "preparation": {
+      "value": 1,
+      "max": 1
+    },
+    "atWill": false,
+    "sr": false,
+    "domain": false,
+    "slotCost": 1,
+    "spellPoints": {
+      "cost": "7"
+    }
+  },
+  "effects": [],
+  "flags": {
+    "pf1-psionics": {
+      "power": true,
+      "discipline": "clairsentience",
+      "specialization": "seer",
+      "augment": true,
+      "display": "Inline !Important",
+      "powerPoints": 7,
+      "source": "Psionics Unleashed",
+      "url": "https://www.d20pfsrd.com/alternative-rule-systems/3rd-party-rules-systems/psionics-unleashed /psionic-powers/a/anchored-navigation"
+    }
+  }
+}

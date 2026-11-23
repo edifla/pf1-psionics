@@ -1,0 +1,190 @@
+{
+  "_id": "e15d3c323d4c1b79",
+  "_key": "!items!e15d3c323d4c1b79",
+  "name": "Tactician",
+  "type": "class",
+  "img": "icons/magic/symbols/cog-shield-white-blue.webp",
+  "folder": null,
+  "sort": 0,
+  "system": {
+    "description": {
+      "value": "<p><strong>Tactician</strong> — psionic base class (Dreamscarred Press).</p><p><strong>Manifesting:</strong> key ability INT, powers up to level 9. Adding this class to a character enables the Psionic powers book.</p><p><strong>Psionic skills not in PF1:</strong> Autohypnosis, Knowledge (Psionics).</p><table class=\"pf1-psionics-progression\"><thead><tr><th>Lvl</th><th>BAB</th><th>Fort</th><th>Ref</th><th>Will</th><th>Special</th><th>PP</th><th>Known</th><th>Max</th></tr></thead><tbody><tr><td>1st</td><td>+0</td><td>+0</td><td>+0</td><td>+2</td><td>Collective, coordinated strike +1, lesser strategies</td><td>2</td><td>1</td><td>1st</td></tr><tr><td>2nd</td><td>+1</td><td>+0</td><td>+0</td><td>+3</td><td>Spirit of many</td><td>6</td><td>2</td><td>1st</td></tr><tr><td>3rd</td><td>+2</td><td>+1</td><td>+1</td><td>+3</td><td>Telepathy</td><td>11</td><td>3</td><td>2nd</td></tr><tr><td>4th</td><td>+3</td><td>+1</td><td>+1</td><td>+4</td><td>Strategy</td><td>17</td><td>4</td><td>2nd</td></tr><tr><td>5th</td><td>+3</td><td>+1</td><td>+1</td><td>+4</td><td>Coordinated strike +2, improved share 1</td><td>25</td><td>5</td><td>3rd</td></tr><tr><td>6th</td><td>+4</td><td>+2</td><td>+2</td><td>+5</td><td>Coordinate, Teamwork feat</td><td>35</td><td>6</td><td>3rd</td></tr><tr><td>7th</td><td>+5</td><td>+2</td><td>+2</td><td>+5</td><td>Strategy</td><td>46</td><td>7</td><td>4th</td></tr><tr><td>8th</td><td>+6/+1</td><td>+2</td><td>+2</td><td>+6</td><td>Echo effect</td><td>58</td><td>8</td><td>4th</td></tr><tr><td>9th</td><td>+6/+1</td><td>+3</td><td>+3</td><td>+6</td><td>Coordinated strike +3</td><td>72</td><td>9</td><td>5th</td></tr><tr><td>10th</td><td>+7/+2</td><td>+3</td><td>+3</td><td>+7</td><td>Strategy</td><td>88</td><td>10</td><td>5th</td></tr><tr><td>11th</td><td>+8/+3</td><td>+3</td><td>+3</td><td>+7</td><td>Improved share 2</td><td>106</td><td>11</td><td>6th</td></tr><tr><td>12th</td><td>+9/+4</td><td>+4</td><td>+4</td><td>+8</td><td>Teamwork feat</td><td>126</td><td>12</td><td>6th</td></tr><tr><td>13th</td><td>+9/+4</td><td>+4</td><td>+4</td><td>+8</td><td>Coordinated strike +4, strategy</td><td>147</td><td>13</td><td>7th</td></tr><tr><td>14th</td><td>+10/+5</td><td>+4</td><td>+4</td><td>+9</td><td>Pooled knowledge</td><td>170</td><td>14</td><td>7th</td></tr><tr><td>15th</td><td>+11/+6/+1</td><td>+5</td><td>+5</td><td>+9</td><td>Collective range (unlimited)</td><td>195</td><td>15</td><td>8th</td></tr><tr><td>16th</td><td>+12/+7/+2</td><td>+5</td><td>+5</td><td>+10</td><td>Strategy</td><td>221</td><td>16</td><td>8th</td></tr><tr><td>17th</td><td>+12/+7/+2</td><td>+5</td><td>+5</td><td>+10</td><td>Coordinated strike +5, improved share 3</td><td>250</td><td>17</td><td>9th</td></tr><tr><td>18th</td><td>+13/+8/+3</td><td>+6</td><td>+6</td><td>+11</td><td>Teamwork feat</td><td>280</td><td>18</td><td>9th</td></tr><tr><td>19th</td><td>+14/+9/+4</td><td>+6</td><td>+6</td><td>+11</td><td>Collective range (planar), strategy</td><td>311</td><td>19</td><td>9th</td></tr><tr><td>20th</td><td>+15/+10/+5</td><td>+6</td><td>+6</td><td>+12</td><td>Master strategist</td><td>343</td><td>20</td><td>9th</td></tr></tbody></table><p>Class features: <a href=\"https://www.d20pfsrd.com/alternative-rule-systems/3rd-party-rules-systems/psionics-unleashed/classes/tactician/\">Tactician on d20pfsrd.com</a></p>",
+      "instructions": ""
+    },
+    "tags": [
+      "Psionic"
+    ],
+    "changes": [],
+    "contextNotes": [],
+    "links": {
+      "children": [],
+      "classAssociations": [
+        {
+          "level": 1,
+          "uuid": "Compendium.pf1-psionics.psionic-class-features.Item.867abe3138aa37ab"
+        },
+        {
+          "level": 1,
+          "uuid": "Compendium.pf1-psionics.psionic-class-features.Item.5d841c53ca670bf0"
+        },
+        {
+          "level": 1,
+          "uuid": "Compendium.pf1-psionics.psionic-class-features.Item.30e88258598ceb50"
+        },
+        {
+          "level": 2,
+          "uuid": "Compendium.pf1-psionics.psionic-class-features.Item.0d6d3ec7b2716473"
+        },
+        {
+          "level": 3,
+          "uuid": "Compendium.pf1-psionics.psionic-class-features.Item.e6c3aafb0461027a"
+        },
+        {
+          "level": 4,
+          "uuid": "Compendium.pf1-psionics.psionic-class-features.Item.18699591ce1f65dc"
+        },
+        {
+          "level": 6,
+          "uuid": "Compendium.pf1-psionics.psionic-class-features.Item.38f023e1475c1487"
+        },
+        {
+          "level": 6,
+          "uuid": "Compendium.pf1-psionics.psionic-class-features.Item.a87d1a5e070ec5a1"
+        },
+        {
+          "level": 8,
+          "uuid": "Compendium.pf1-psionics.psionic-class-features.Item.1689befc57f67bac"
+        },
+        {
+          "level": 14,
+          "uuid": "Compendium.pf1-psionics.psionic-class-features.Item.d8f447ef05b2f87e"
+        },
+        {
+          "level": 20,
+          "uuid": "Compendium.pf1-psionics.psionic-class-features.Item.5fa3588830da949d"
+        }
+      ],
+      "supplements": []
+    },
+    "tag": "tactician",
+    "armorProf": [],
+    "weaponProf": [],
+    "languages": [],
+    "subType": "base",
+    "level": 1,
+    "hd": 8,
+    "hp": 8,
+    "bab": "med",
+    "skillsPerLevel": 4,
+    "savingThrows": {
+      "fort": {
+        "value": "low"
+      },
+      "ref": {
+        "value": "low"
+      },
+      "will": {
+        "value": "high"
+      }
+    },
+    "wealth": "4d6 * 10",
+    "classSkills": {
+      "blf": true,
+      "clm": true,
+      "crf": true,
+      "dip": true,
+      "int": true,
+      "ken": true,
+      "khi": true,
+      "lin": true,
+      "per": true,
+      "prf": true,
+      "pro": true,
+      "rid": true,
+      "sen": true,
+      "spl": true,
+      "swm": true,
+      "umd": true
+    }
+  },
+  "effects": [],
+  "flags": {
+    "pf1-psionics": {
+      "psionic": true,
+      "keyAbility": "int",
+      "maxPowerLevel": 9,
+      "casterType": "high",
+      "ppTable": [
+        2,
+        6,
+        11,
+        17,
+        25,
+        35,
+        46,
+        58,
+        72,
+        88,
+        106,
+        126,
+        147,
+        170,
+        195,
+        221,
+        250,
+        280,
+        311,
+        343
+      ],
+      "powersKnown": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20
+      ],
+      "maxPowerLevelTable": [
+        1,
+        1,
+        2,
+        2,
+        3,
+        3,
+        4,
+        4,
+        5,
+        5,
+        6,
+        6,
+        7,
+        7,
+        8,
+        8,
+        9,
+        9,
+        9,
+        9
+      ],
+      "unmappedSkills": [
+        "Autohypnosis",
+        "Knowledge (Psionics)"
+      ],
+      "url": "https://www.d20pfsrd.com/alternative-rule-systems/3rd-party-rules-systems/psionics-unleashed/classes/tactician/"
+    }
+  }
+}

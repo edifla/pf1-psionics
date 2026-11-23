@@ -1,0 +1,101 @@
+{
+  "_id": "e2e4d53424107a59",
+  "_key": "!items!e2e4d53424107a59",
+  "name": "Detect Teleportation",
+  "type": "spell",
+  "img": "icons/magic/movement/portal-vortex-orange.webp",
+  "folder": "22ff58b8afb71d3d",
+  "sort": 0,
+  "system": {
+    "description": {
+      "value": "<p><em>Know when teleportation powers are used in close range.</em></p><p><strong>Augment:</strong> this power can be augmented (see full text).</p><p>Full text: <a href=\"https://www.d20pfsrd.com/alternative-rule-systems/3rd-party-rules-systems/psionics-unleashed /psionic-powers/d/detect-teleportation\">Detect Teleportation on d20pfsrd.com</a></p><p><strong>Source:</strong> Psionics Unleashed</p>",
+      "instructions": ""
+    },
+    "tags": [],
+    "actions": [
+      {
+        "_id": "e36bfd5375858b1a",
+        "name": "Manifest",
+        "actionType": "spellsave",
+        "activation": {
+          "type": "standard",
+          "cost": 1,
+          "unchained": {
+            "type": "action",
+            "cost": 2
+          }
+        },
+        "range": {
+          "units": "ft",
+          "value": "40"
+        },
+        "duration": {
+          "units": "spec",
+          "value": "Concentration, up to 1 minute (D)",
+          "dismiss": true,
+          "concentration": true
+        },
+        "area": "40-ft.-radius emanation centered on you",
+        "save": {
+          "type": "",
+          "description": "No"
+        }
+      }
+    ],
+    "learnedAt": {
+      "class": {
+        "psion": 1
+      },
+      "domain": {
+        "nomad": 1
+      },
+      "subDomain": {},
+      "elementalSchool": {},
+      "bloodline": {}
+    },
+    "level": 1,
+    "school": "psychoportation",
+    "subschool": [],
+    "descriptors": [],
+    "components": {
+      "value": "Inline !Important",
+      "verbal": false,
+      "somatic": false,
+      "thought": false,
+      "emotion": false,
+      "material": false,
+      "focus": false,
+      "divineFocus": 0
+    },
+    "materials": {
+      "value": "",
+      "focus": "",
+      "gpValue": 0
+    },
+    "spellbook": "psionic",
+    "preparation": {
+      "value": 1,
+      "max": 1
+    },
+    "atWill": false,
+    "sr": false,
+    "domain": false,
+    "slotCost": 1,
+    "spellPoints": {
+      "cost": "1"
+    }
+  },
+  "effects": [],
+  "flags": {
+    "pf1-psionics": {
+      "power": true,
+      "discipline": "psychoportation",
+      "specialization": "nomad",
+      "augment": true,
+      "display": "Inline !Important",
+      "powerPoints": 1,
+      "source": "Psionics Unleashed",
+      "url": "https://www.d20pfsrd.com/alternative-rule-systems/3rd-party-rules-systems/psionics-unleashed /psionic-powers/d/detect-teleportation"
+    }
+  }
+}

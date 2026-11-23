@@ -1,0 +1,50 @@
+# Publica uma release instalável pelo Foundry (local, Forge, Molten, etc.).
+# Uso: crie e envie uma tag "vX.Y.Z" (git tag v0.4.0 && git push origin v0.4.0).
+# A action compila os compêndios, carimba versão e URLs no module.json e anexa module.json + module.zip.
+name: Release
+
+on:
+  push:
+    tags: ["v*"]
+
+permissions:
+  contents: write
+
+jobs:
+  release:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Build compendium packs
+        run: npm run build:packs
+
+      - name: Stamp version and URLs in module.json
+        run: |
+          VERSION="${GITHUB_REF_NAME#v}"
+          REPO_URL="https://github.com/${GITHUB_REPOSITORY}"
+          jq --arg version "$VERSION" \
+             --arg url "$REPO_URL" \
+             --arg manifest "$REPO_URL/releases/latest/download/module.json" \
+             --arg download "$REPO_URL/releases/download/$GITHUB_REF_NAME/module.zip" \
+             '.version = $version | .url = $url | .manifest = $manifest | .download = $download' \
+             module.json > module.tmp.json
+          mv module.tmp.json module.json
+
+      - name: Create module.zip
+        run: zip -r module.zip module.json README.md LICENSE scripts styles lang packs
+
+      - name: Publish release
+        uses: softprops/action-gh-release@v2
+        with:
+          files: |
+            module.json
+            module.zip
+          generate_release_notes: true

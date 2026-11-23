@@ -1,0 +1,40 @@
+{
+  "_id": "3b1e2f433a7c2628",
+  "_key": "!items!3b1e2f433a7c2628",
+  "name": "Sensory Cascade",
+  "type": "buff",
+  "img": "icons/magic/perception/eye-tendrils-web-purple.webp",
+  "folder": "c2d1bbdc0f0df058",
+  "sort": 0,
+  "system": {
+    "description": {
+      "value": "<p>A cascade of the senses leaves the target dazed. Check the full text for the duration.</p><p>Power: @UUID[Compendium.pf1-psionics.psionic-powers.Item.392e322acbe404d0]{Sensory Cascade} · <a href=\"https://www.d20pfsrd.com/alternative-rule-systems/3rd-party-rules-systems/psionics-unleashed /psionic-powers/s/sensory-cascade\">full text</a></p>",
+      "instructions": ""
+    },
+    "tags": [
+      "Psionic"
+    ],
+    "changes": [],
+    "contextNotes": [],
+    "subType": "spell",
+    "active": false,
+    "level": 4,
+    "duration": {
+      "value": "",
+      "units": "",
+      "end": "turnStart"
+    },
+    "conditions": [
+      "dazed"
+    ],
+    "hideFromToken": false
+  },
+  "effects": [],
+  "flags": {
+    "pf1-psionics": {
+      "buff": true,
+      "power": "Sensory Cascade",
+      "kind": "debuff"
+    }
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "_id": "db7f239217d52504",
+  "_key": "!items!db7f239217d52504",
+  "name": "Fear Incarnate",
+  "type": "feat",
+  "img": "icons/magic/unholy/energy-smoke-pink.webp",
+  "sort": 20000,
+  "system": {
+    "description": {
+      "value": "<p>Dread class feature, gained at level 20.</p><p>Full text: <a href=\"https://www.d20pfsrd.com/alternative-rule-systems/3rd-party-rules-systems/psionics-unleashed/classes/dread/#TOC-Fear-Incarnate\">Fear Incarnate on d20pfsrd.com</a></p>",
+      "instructions": ""
+    },
+    "tags": [
+      "Psionic"
+    ],
+    "subType": "classFeat",
+    "abilityType": "na",
+    "associations": {
+      "classes": [
+        "Dread"
+      ]
+    }
+  },
+  "effects": [],
+  "flags": {
+    "pf1-psionics": {
+      "classFeature": true,
+      "class": "Dread",
+      "level": 20
+    }
+  },
+  "folder": "8950a1a3f5344759"
+}

@@ -1,0 +1,33 @@
+{
+  "_id": "b1a8e25ff7a92f33",
+  "_key": "!items!b1a8e25ff7a92f33",
+  "name": "Time Saver",
+  "type": "feat",
+  "img": "icons/magic/movement/trail-streak-zigzag-teal.webp",
+  "sort": 7000,
+  "system": {
+    "description": {
+      "value": "<p>Voyager class feature, gained at level 7.</p><p>Full text: <a href=\"https://www.d20pfsrd.com/alternative-rule-systems/3rd-party-rules-systems/psionics-unleashed/classes/voyager/#\">Time Saver on d20pfsrd.com</a></p>",
+      "instructions": ""
+    },
+    "tags": [
+      "Psionic"
+    ],
+    "subType": "classFeat",
+    "abilityType": "na",
+    "associations": {
+      "classes": [
+        "Voyager"
+      ]
+    }
+  },
+  "effects": [],
+  "flags": {
+    "pf1-psionics": {
+      "classFeature": true,
+      "class": "Voyager",
+      "level": 7
+    }
+  },
+  "folder": "d63546275e5a4d4c"
+}

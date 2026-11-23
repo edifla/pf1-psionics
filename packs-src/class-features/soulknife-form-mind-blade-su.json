@@ -1,0 +1,33 @@
+{
+  "_id": "ac3ff329d8c1b469",
+  "_key": "!items!ac3ff329d8c1b469",
+  "name": "Form Mind Blade (Su)",
+  "type": "feat",
+  "img": "icons/magic/light/beam-rays-blue.webp",
+  "sort": 1000,
+  "system": {
+    "description": {
+      "value": "<p>Soulknife class feature, gained at level 1.</p><p>Full text: <a href=\"https://www.d20pfsrd.com/alternative-rule-systems/3rd-party-rules-systems/psionics-unleashed/classes/soulknife/#TOC-Form-Mind-Blade-Su-\">Form Mind Blade (Su) on d20pfsrd.com</a></p>",
+      "instructions": ""
+    },
+    "tags": [
+      "Psionic"
+    ],
+    "subType": "classFeat",
+    "abilityType": "su",
+    "associations": {
+      "classes": [
+        "Soulknife"
+      ]
+    }
+  },
+  "effects": [],
+  "flags": {
+    "pf1-psionics": {
+      "classFeature": true,
+      "class": "Soulknife",
+      "level": 1
+    }
+  },
+  "folder": "ea5720ee453a176a"
+}

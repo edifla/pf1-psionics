@@ -1,0 +1,33 @@
+{
+  "_id": "02e0f1aae7ee21b6",
+  "_key": "!items!02e0f1aae7ee21b6",
+  "name": "Ranged Specialist (Su)",
+  "type": "feat",
+  "img": "icons/magic/perception/eye-slit-orange.webp",
+  "sort": 19000,
+  "system": {
+    "description": {
+      "value": "<p>Marksman class feature, gained at level 19.</p><p>Full text: <a href=\"https://www.d20pfsrd.com/alternative-rule-systems/3rd-party-rules-systems/psionics-unleashed/classes/marksman/#TOC-Ranged-Specialist-Su-\">Ranged Specialist (Su) on d20pfsrd.com</a></p>",
+      "instructions": ""
+    },
+    "tags": [
+      "Psionic"
+    ],
+    "subType": "classFeat",
+    "abilityType": "su",
+    "associations": {
+      "classes": [
+        "Marksman"
+      ]
+    }
+  },
+  "effects": [],
+  "flags": {
+    "pf1-psionics": {
+      "classFeature": true,
+      "class": "Marksman",
+      "level": 19
+    }
+  },
+  "folder": "8b64e6d751692b49"
+}

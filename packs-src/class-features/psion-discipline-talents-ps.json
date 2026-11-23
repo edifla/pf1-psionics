@@ -1,0 +1,33 @@
+{
+  "_id": "58cda428f08bec2d",
+  "_key": "!items!58cda428f08bec2d",
+  "name": "Discipline Talents (Ps)",
+  "type": "feat",
+  "img": "icons/magic/perception/eye-winged-pink.webp",
+  "sort": 1000,
+  "system": {
+    "description": {
+      "value": "<p>Psion class feature, gained at level 1.</p><p>Full text: <a href=\"https://www.d20pfsrd.com/alternative-rule-systems/3rd-party-rules-systems/psionics-unleashed/classes/psion/#TOC-Discipline-Talents-Ps-\">Discipline Talents (Ps) on d20pfsrd.com</a></p>",
+      "instructions": ""
+    },
+    "tags": [
+      "Psionic"
+    ],
+    "subType": "classFeat",
+    "abilityType": "sp",
+    "associations": {
+      "classes": [
+        "Psion"
+      ]
+    }
+  },
+  "effects": [],
+  "flags": {
+    "pf1-psionics": {
+      "classFeature": true,
+      "class": "Psion",
+      "level": 1
+    }
+  },
+  "folder": "9591c5f96fe9b7fe"
+}

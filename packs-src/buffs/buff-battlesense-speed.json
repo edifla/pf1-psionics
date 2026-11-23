@@ -1,0 +1,45 @@
+{
+  "_id": "5c0a7d2abd27bd04",
+  "_key": "!items!5c0a7d2abd27bd04",
+  "name": "Battlesense (Speed)",
+  "type": "buff",
+  "img": "icons/magic/perception/eye-tendrils-web-purple.webp",
+  "folder": "0f66d49851bfb591",
+  "sort": 0,
+  "system": {
+    "description": {
+      "value": "<p>Collective members gain +5 ft. circumstance bonus to base speed. All targets can Aid Another as an immediate action.</p><p>Power: @UUID[Compendium.pf1-psionics.psionic-powers.Item.1e705c879ef30ba6]{Battlesense} · <a href=\"https://www.d20pfsrd.com/alternative-rule-systems/3rd-party-rules-systems/psionics-unleashed /psionic-powers/b/battlesense\">full text</a></p>",
+      "instructions": ""
+    },
+    "tags": [
+      "Psionic"
+    ],
+    "changes": [
+      {
+        "_id": "6d4ec707",
+        "formula": "5",
+        "target": "landSpeed",
+        "type": "circumstance"
+      }
+    ],
+    "contextNotes": [],
+    "subType": "spell",
+    "active": false,
+    "level": 3,
+    "duration": {
+      "value": "@item.level",
+      "units": "round",
+      "end": "turnStart"
+    },
+    "conditions": [],
+    "hideFromToken": false
+  },
+  "effects": [],
+  "flags": {
+    "pf1-psionics": {
+      "buff": true,
+      "power": "Battlesense",
+      "kind": "buff"
+    }
+  }
+}

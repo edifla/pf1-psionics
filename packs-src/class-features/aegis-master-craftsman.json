@@ -1,0 +1,33 @@
+{
+  "_id": "c0aa644117da1e33",
+  "_key": "!items!c0aa644117da1e33",
+  "name": "Master Craftsman",
+  "type": "feat",
+  "img": "icons/magic/defensive/shield-barrier-blue.webp",
+  "sort": 5000,
+  "system": {
+    "description": {
+      "value": "<p>Aegis class feature, gained at level 5.</p><p>Full text: <a href=\"https://www.d20pfsrd.com/alternative-rule-systems/3rd-party-rules-systems/psionics-unleashed/classes/aegis/#TOC-Master-Craftsman\">Master Craftsman on d20pfsrd.com</a></p>",
+      "instructions": ""
+    },
+    "tags": [
+      "Psionic"
+    ],
+    "subType": "classFeat",
+    "abilityType": "na",
+    "associations": {
+      "classes": [
+        "Aegis"
+      ]
+    }
+  },
+  "effects": [],
+  "flags": {
+    "pf1-psionics": {
+      "classFeature": true,
+      "class": "Aegis",
+      "level": 5
+    }
+  },
+  "folder": "003e6518ab233bfd"
+}

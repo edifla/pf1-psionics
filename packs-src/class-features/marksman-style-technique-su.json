@@ -1,0 +1,33 @@
+{
+  "_id": "cfba33c4d3ac00ae",
+  "_key": "!items!cfba33c4d3ac00ae",
+  "name": "Style Technique (Su)",
+  "type": "feat",
+  "img": "icons/magic/perception/eye-slit-orange.webp",
+  "sort": 2000,
+  "system": {
+    "description": {
+      "value": "<p>Marksman class feature, gained at level 2.</p><p>Full text: <a href=\"https://www.d20pfsrd.com/alternative-rule-systems/3rd-party-rules-systems/psionics-unleashed/classes/marksman/#TOC-Style-Technique-Su-\">Style Technique (Su) on d20pfsrd.com</a></p>",
+      "instructions": ""
+    },
+    "tags": [
+      "Psionic"
+    ],
+    "subType": "classFeat",
+    "abilityType": "su",
+    "associations": {
+      "classes": [
+        "Marksman"
+      ]
+    }
+  },
+  "effects": [],
+  "flags": {
+    "pf1-psionics": {
+      "classFeature": true,
+      "class": "Marksman",
+      "level": 2
+    }
+  },
+  "folder": "8b64e6d751692b49"
+}

@@ -1,0 +1,100 @@
+{
+  "_id": "885093e223e87786",
+  "_key": "!items!885093e223e87786",
+  "name": "Inertial Barrier",
+  "type": "spell",
+  "img": "icons/magic/fire/beam-jet-stream-blue.webp",
+  "folder": "c06fa52e4eb97703",
+  "sort": 0,
+  "system": {
+    "description": {
+      "value": "<p><em>Gain DR 5/–.</em></p><p>Full text: <a href=\"https://www.d20pfsrd.com/alternative-rule-systems/3rd-party-rules-systems/psionics-unleashed /psionic-powers/i/inertial-barrier\">Inertial Barrier on d20pfsrd.com</a></p><p><strong>Source:</strong> Psionics Unleashed</p>",
+      "instructions": ""
+    },
+    "tags": [],
+    "actions": [
+      {
+        "_id": "b37db215d067ffe4",
+        "name": "Manifest",
+        "actionType": "other",
+        "activation": {
+          "type": "standard",
+          "cost": 1,
+          "unchained": {
+            "type": "action",
+            "cost": 2
+          }
+        },
+        "range": {
+          "units": "personal"
+        },
+        "duration": {
+          "units": "spec",
+          "value": "10 min./level",
+          "dismiss": false,
+          "concentration": false
+        },
+        "target": {
+          "value": "You"
+        }
+      }
+    ],
+    "learnedAt": {
+      "class": {
+        "psion": 4,
+        "marksman": 4,
+        "psychicWarrior": 4
+      },
+      "domain": {
+        "kineticist": 4
+      },
+      "subDomain": {},
+      "elementalSchool": {},
+      "bloodline": {}
+    },
+    "level": 4,
+    "school": "psychokinesis",
+    "subschool": [],
+    "descriptors": [],
+    "components": {
+      "value": "Inline !Important",
+      "verbal": false,
+      "somatic": false,
+      "thought": false,
+      "emotion": false,
+      "material": false,
+      "focus": false,
+      "divineFocus": 0
+    },
+    "materials": {
+      "value": "",
+      "focus": "",
+      "gpValue": 0
+    },
+    "spellbook": "psionic",
+    "preparation": {
+      "value": 1,
+      "max": 1
+    },
+    "atWill": false,
+    "sr": false,
+    "domain": false,
+    "slotCost": 1,
+    "spellPoints": {
+      "cost": "7"
+    }
+  },
+  "effects": [],
+  "flags": {
+    "pf1-psionics": {
+      "power": true,
+      "discipline": "psychokinesis",
+      "specialization": "kineticist",
+      "augment": false,
+      "display": "Inline !Important",
+      "powerPoints": 7,
+      "source": "Psionics Unleashed",
+      "url": "https://www.d20pfsrd.com/alternative-rule-systems/3rd-party-rules-systems/psionics-unleashed /psionic-powers/i/inertial-barrier"
+    }
+  }
+}

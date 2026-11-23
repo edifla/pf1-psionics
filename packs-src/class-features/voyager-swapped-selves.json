@@ -1,0 +1,33 @@
+{
+  "_id": "2f0a07fa9ac723f3",
+  "_key": "!items!2f0a07fa9ac723f3",
+  "name": "Swapped Selves",
+  "type": "feat",
+  "img": "icons/magic/movement/trail-streak-zigzag-teal.webp",
+  "sort": 14000,
+  "system": {
+    "description": {
+      "value": "<p>Voyager class feature, gained at level 14.</p><p>Full text: <a href=\"https://www.d20pfsrd.com/alternative-rule-systems/3rd-party-rules-systems/psionics-unleashed/classes/voyager/#\">Swapped Selves on d20pfsrd.com</a></p>",
+      "instructions": ""
+    },
+    "tags": [
+      "Psionic"
+    ],
+    "subType": "classFeat",
+    "abilityType": "na",
+    "associations": {
+      "classes": [
+        "Voyager"
+      ]
+    }
+  },
+  "effects": [],
+  "flags": {
+    "pf1-psionics": {
+      "classFeature": true,
+      "class": "Voyager",
+      "level": 14
+    }
+  },
+  "folder": "d63546275e5a4d4c"
+}

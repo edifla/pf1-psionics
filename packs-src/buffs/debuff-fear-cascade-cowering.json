@@ -1,0 +1,40 @@
+{
+  "_id": "61e97932b6bf3829",
+  "_key": "!items!61e97932b6bf3829",
+  "name": "Fear Cascade (Cowering)",
+  "type": "buff",
+  "img": "icons/magic/perception/eye-tendrils-web-purple.webp",
+  "folder": "c2d1bbdc0f0df058",
+  "sort": 0,
+  "system": {
+    "description": {
+      "value": "<p>The target is cowering (Will negates).</p><p>Power: @UUID[Compendium.pf1-psionics.psionic-powers.Item.68ad3a0367ad7f73]{Fear Cascade} · <a href=\"https://www.d20pfsrd.com/alternative-rule-systems/3rd-party-rules-systems/psionics-unleashed /psionic-powers/f/fear-cascade\">full text</a></p>",
+      "instructions": ""
+    },
+    "tags": [
+      "Psionic"
+    ],
+    "changes": [],
+    "contextNotes": [],
+    "subType": "spell",
+    "active": false,
+    "level": 4,
+    "duration": {
+      "value": "@item.level",
+      "units": "round",
+      "end": "turnStart"
+    },
+    "conditions": [
+      "cowering"
+    ],
+    "hideFromToken": false
+  },
+  "effects": [],
+  "flags": {
+    "pf1-psionics": {
+      "buff": true,
+      "power": "Fear Cascade",
+      "kind": "debuff"
+    }
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "_id": "6eaf1f9c285c89a8",
+  "_key": "!items!6eaf1f9c285c89a8",
+  "name": "Destiny Dissonance",
+  "type": "buff",
+  "img": "icons/magic/perception/eye-ringed-green.webp",
+  "folder": "c2d1bbdc0f0df058",
+  "sort": 0,
+  "system": {
+    "description": {
+      "value": "<p>Sickened for 1 round per manifester level (melee touch attack).</p><p>Power: @UUID[Compendium.pf1-psionics.psionic-powers.Item.9648dc895e785636]{Destiny Dissonance} · <a href=\"https://www.d20pfsrd.com/alternative-rule-systems/3rd-party-rules-systems/psionics-unleashed /psionic-powers/d/destiny-dissonance\">full text</a></p>",
+      "instructions": ""
+    },
+    "tags": [
+      "Psionic"
+    ],
+    "changes": [],
+    "contextNotes": [],
+    "subType": "spell",
+    "active": false,
+    "level": 1,
+    "duration": {
+      "value": "@item.level",
+      "units": "round",
+      "end": "turnStart"
+    },
+    "conditions": [
+      "sickened"
+    ],
+    "hideFromToken": false
+  },
+  "effects": [],
+  "flags": {
+    "pf1-psionics": {
+      "buff": true,
+      "power": "Destiny Dissonance",
+      "kind": "debuff"
+    }
+  }
+}

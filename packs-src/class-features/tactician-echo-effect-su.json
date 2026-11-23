@@ -1,0 +1,33 @@
+{
+  "_id": "1689befc57f67bac",
+  "_key": "!items!1689befc57f67bac",
+  "name": "Echo Effect (Su)",
+  "type": "feat",
+  "img": "icons/magic/symbols/cog-shield-white-blue.webp",
+  "sort": 8000,
+  "system": {
+    "description": {
+      "value": "<p>Tactician class feature, gained at level 8.</p><p>Full text: <a href=\"https://www.d20pfsrd.com/alternative-rule-systems/3rd-party-rules-systems/psionics-unleashed/classes/tactician/#TOC-Echo-Effect-Su-\">Echo Effect (Su) on d20pfsrd.com</a></p>",
+      "instructions": ""
+    },
+    "tags": [
+      "Psionic"
+    ],
+    "subType": "classFeat",
+    "abilityType": "su",
+    "associations": {
+      "classes": [
+        "Tactician"
+      ]
+    }
+  },
+  "effects": [],
+  "flags": {
+    "pf1-psionics": {
+      "classFeature": true,
+      "class": "Tactician",
+      "level": 8
+    }
+  },
+  "folder": "b0a0f6adffdac163"
+}

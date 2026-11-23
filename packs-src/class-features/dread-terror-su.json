@@ -1,0 +1,33 @@
+{
+  "_id": "b198001c2a27c6a0",
+  "_key": "!items!b198001c2a27c6a0",
+  "name": "Terror (Su)",
+  "type": "feat",
+  "img": "icons/magic/unholy/energy-smoke-pink.webp",
+  "sort": 2000,
+  "system": {
+    "description": {
+      "value": "<p>Dread class feature, gained at level 2.</p><p>Full text: <a href=\"https://www.d20pfsrd.com/alternative-rule-systems/3rd-party-rules-systems/psionics-unleashed/classes/dread/#TOC-Terror-Su-\">Terror (Su) on d20pfsrd.com</a></p>",
+      "instructions": ""
+    },
+    "tags": [
+      "Psionic"
+    ],
+    "subType": "classFeat",
+    "abilityType": "su",
+    "associations": {
+      "classes": [
+        "Dread"
+      ]
+    }
+  },
+  "effects": [],
+  "flags": {
+    "pf1-psionics": {
+      "classFeature": true,
+      "class": "Dread",
+      "level": 2
+    }
+  },
+  "folder": "8950a1a3f5344759"
+}

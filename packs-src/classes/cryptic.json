@@ -1,0 +1,220 @@
+{
+  "_id": "e266b40241f50bb2",
+  "_key": "!items!e266b40241f50bb2",
+  "name": "Cryptic",
+  "type": "class",
+  "img": "icons/magic/symbols/circle-ouroboros.webp",
+  "folder": null,
+  "sort": 0,
+  "system": {
+    "description": {
+      "value": "<p><strong>Cryptic</strong> — psionic base class (Dreamscarred Press).</p><p><strong>Manifesting:</strong> key ability INT, powers up to level 6. Adding this class to a character enables the Psionic powers book.</p><p><strong>Psionic skills not in PF1:</strong> Autohypnosis.</p><table class=\"pf1-psionics-progression\"><thead><tr><th>Lvl</th><th>BAB</th><th>Fort</th><th>Ref</th><th>Will</th><th>Special</th><th>PP</th><th>Known</th><th>Max</th></tr></thead><tbody><tr><td>1st</td><td>+0</td><td>+0</td><td>+2</td><td>+2</td><td>Altered defense 1, disrupt pattern 1d6, pattern designs, scribe tattoo, trapfinding, trapmaker</td><td>1</td><td>1</td><td>1st</td></tr><tr><td>2nd</td><td>+1</td><td>+0</td><td>+3</td><td>+3</td><td>Hidden pattern +2, insight</td><td>2</td><td>2</td><td>1st</td></tr><tr><td>3rd</td><td>+2</td><td>+1</td><td>+3</td><td>+3</td><td>Enhanced disruption +1d6, evasion</td><td>4</td><td>3</td><td>1st</td></tr><tr><td>4th</td><td>+3</td><td>+1</td><td>+4</td><td>+4</td><td>Insight, rapid defense</td><td>6</td><td>4</td><td>2nd</td></tr><tr><td>5th</td><td>+3</td><td>+1</td><td>+4</td><td>+4</td><td>Altered defense 2, enhanced disruption +2d6, hidden pattern +4</td><td>8</td><td>5</td><td>2nd</td></tr><tr><td>6th</td><td>+4</td><td>+2</td><td>+5</td><td>+5</td><td>Insight, swift trapper</td><td>12</td><td>6</td><td>2nd</td></tr><tr><td>7th</td><td>+5</td><td>+2</td><td>+5</td><td>+5</td><td>Enhanced disruption +3d6</td><td>16</td><td>7</td><td>3rd</td></tr><tr><td>8th</td><td>+6/+1</td><td>+2</td><td>+6</td><td>+6</td><td>Hidden pattern +6, insight</td><td>20</td><td>8</td><td>3rd</td></tr><tr><td>9th</td><td>+6/+1</td><td>+3</td><td>+6</td><td>+6</td><td>Altered defense 3, enhanced disruption +4d6</td><td>24</td><td>9</td><td>3rd</td></tr><tr><td>10th</td><td>+7/+2</td><td>+3</td><td>+7</td><td>+7</td><td>Hide in plain sight, insight</td><td>28</td><td>10</td><td>4th</td></tr><tr><td>11th</td><td>+8/+3</td><td>+3</td><td>+7</td><td>+7</td><td>Enhanced disruption +5d6</td><td>36</td><td>11</td><td>4th</td></tr><tr><td>12th</td><td>+9/+4</td><td>+4</td><td>+8</td><td>+8</td><td>Insight</td><td>44</td><td>12</td><td>4th</td></tr><tr><td>13th</td><td>+9/+4</td><td>+4</td><td>+8</td><td>+8</td><td>Altered defense 4, enhanced disruption +6d6</td><td>52</td><td>13</td><td>5th</td></tr><tr><td>14th</td><td>+10/+5</td><td>+4</td><td>+9</td><td>+9</td><td>Enduring defense, insight</td><td>60</td><td>14</td><td>5th</td></tr><tr><td>15th</td><td>+11/+6/+1</td><td>+5</td><td>+9</td><td>+9</td><td>Enhanced disruption +7d6</td><td>68</td><td>15</td><td>5th</td></tr><tr><td>16th</td><td>+12/+7/+2</td><td>+5</td><td>+10</td><td>+10</td><td>Insight</td><td>80</td><td>16</td><td>6th</td></tr><tr><td>17th</td><td>+12/+7/+2</td><td>+5</td><td>+10</td><td>+10</td><td>Altered defense 5, enhanced disruption +8d6</td><td>92</td><td>17</td><td>6th</td></tr><tr><td>18th</td><td>+13/+8/+3</td><td>+6</td><td>+11</td><td>+11</td><td>Insight, unchanging pattern</td><td>104</td><td>18</td><td>6th</td></tr><tr><td>19th</td><td>+14/+9/+4</td><td>+6</td><td>+11</td><td>+11</td><td>Enhanced disruption +9d6</td><td>116</td><td>19</td><td>6th</td></tr><tr><td>20th</td><td>+15/+10/+5</td><td>+6</td><td>+12</td><td>+12</td><td>Supreme insight</td><td>128</td><td>20</td><td>6th</td></tr></tbody></table><p>Class features: <a href=\"https://www.d20pfsrd.com/alternative-rule-systems/3rd-party-rules-systems/psionics-unleashed/classes/cryptic/\">Cryptic on d20pfsrd.com</a></p>",
+      "instructions": ""
+    },
+    "tags": [
+      "Psionic"
+    ],
+    "changes": [],
+    "contextNotes": [],
+    "links": {
+      "children": [],
+      "classAssociations": [
+        {
+          "level": 1,
+          "uuid": "Compendium.pf1-psionics.psionic-class-features.Item.4c0fd6b0631c535c"
+        },
+        {
+          "level": 1,
+          "uuid": "Compendium.pf1-psionics.psionic-class-features.Item.bb5d1b5f68cd533f"
+        },
+        {
+          "level": 1,
+          "uuid": "Compendium.pf1-psionics.psionic-class-features.Item.c2951b5c92f9e6b8"
+        },
+        {
+          "level": 1,
+          "uuid": "Compendium.pf1-psionics.psionic-class-features.Item.89643d6f62dc9921"
+        },
+        {
+          "level": 1,
+          "uuid": "Compendium.pf1-psionics.psionic-class-features.Item.9f177dd3a363b27c"
+        },
+        {
+          "level": 1,
+          "uuid": "Compendium.pf1-psionics.psionic-class-features.Item.a0f24687b733589d"
+        },
+        {
+          "level": 2,
+          "uuid": "Compendium.pf1-psionics.psionic-class-features.Item.619520d99f091230"
+        },
+        {
+          "level": 2,
+          "uuid": "Compendium.pf1-psionics.psionic-class-features.Item.770fdf156cda1200"
+        },
+        {
+          "level": 3,
+          "uuid": "Compendium.pf1-psionics.psionic-class-features.Item.8775440ca73b607d"
+        },
+        {
+          "level": 3,
+          "uuid": "Compendium.pf1-psionics.psionic-class-features.Item.8212202886aac02c"
+        },
+        {
+          "level": 4,
+          "uuid": "Compendium.pf1-psionics.psionic-class-features.Item.12be72ee5b7f57c9"
+        },
+        {
+          "level": 6,
+          "uuid": "Compendium.pf1-psionics.psionic-class-features.Item.e103cda7157ac466"
+        },
+        {
+          "level": 10,
+          "uuid": "Compendium.pf1-psionics.psionic-class-features.Item.7a23d6f5198fe1d0"
+        },
+        {
+          "level": 14,
+          "uuid": "Compendium.pf1-psionics.psionic-class-features.Item.42dd1f1b87046135"
+        },
+        {
+          "level": 18,
+          "uuid": "Compendium.pf1-psionics.psionic-class-features.Item.81d8346e70ed623e"
+        },
+        {
+          "level": 20,
+          "uuid": "Compendium.pf1-psionics.psionic-class-features.Item.cc93a3c3ebcd6aa0"
+        }
+      ],
+      "supplements": []
+    },
+    "tag": "cryptic",
+    "armorProf": [],
+    "weaponProf": [],
+    "languages": [],
+    "subType": "base",
+    "level": 1,
+    "hd": 8,
+    "hp": 8,
+    "bab": "med",
+    "skillsPerLevel": 4,
+    "savingThrows": {
+      "fort": {
+        "value": "low"
+      },
+      "ref": {
+        "value": "high"
+      },
+      "will": {
+        "value": "high"
+      }
+    },
+    "wealth": "3d6 * 10",
+    "classSkills": {
+      "acr": true,
+      "apr": true,
+      "clm": true,
+      "crf": true,
+      "dev": true,
+      "dis": true,
+      "esc": true,
+      "kar": true,
+      "kdu": true,
+      "ken": true,
+      "kge": true,
+      "khi": true,
+      "klo": true,
+      "kna": true,
+      "kno": true,
+      "kpl": true,
+      "kre": true,
+      "lin": true,
+      "per": true,
+      "prf": true,
+      "pro": true,
+      "sen": true,
+      "slt": true,
+      "spl": true,
+      "ste": true,
+      "swm": true,
+      "umd": true
+    }
+  },
+  "effects": [],
+  "flags": {
+    "pf1-psionics": {
+      "psionic": true,
+      "keyAbility": "int",
+      "maxPowerLevel": 6,
+      "casterType": "med",
+      "ppTable": [
+        1,
+        2,
+        4,
+        6,
+        8,
+        12,
+        16,
+        20,
+        24,
+        28,
+        36,
+        44,
+        52,
+        60,
+        68,
+        80,
+        92,
+        104,
+        116,
+        128
+      ],
+      "powersKnown": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20
+      ],
+      "maxPowerLevelTable": [
+        1,
+        1,
+        1,
+        2,
+        2,
+        2,
+        3,
+        3,
+        3,
+        4,
+        4,
+        4,
+        5,
+        5,
+        5,
+        6,
+        6,
+        6,
+        6,
+        6
+      ],
+      "unmappedSkills": [
+        "Autohypnosis"
+      ],
+      "url": "https://www.d20pfsrd.com/alternative-rule-systems/3rd-party-rules-systems/psionics-unleashed/classes/cryptic/"
+    }
+  }
+}

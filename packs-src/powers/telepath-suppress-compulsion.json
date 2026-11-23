@@ -1,0 +1,101 @@
+{
+  "_id": "def52500b623e6f1",
+  "_key": "!items!def52500b623e6f1",
+  "name": "Suppress Compulsion",
+  "type": "spell",
+  "img": "icons/magic/perception/eye-tendrils-web-purple.webp",
+  "folder": "64f78502e77a4cad",
+  "sort": 0,
+  "system": {
+    "description": {
+      "value": "<p><em>You attempt to free a target temporarily from another’s control using conflicting signals.</em></p><p><strong>Augment:</strong> this power can be augmented (see full text).</p><p>Full text: <a href=\"https://www.d20pfsrd.com/alternative-rule-systems/3rd-party-rules-systems/psionics-unleashed /psionic-powers/s/suppress-compulsion\">Suppress Compulsion on d20pfsrd.com</a></p><p><strong>Source:</strong> Psionics Expanded: Advanced Psionics Guide</p>",
+      "instructions": ""
+    },
+    "tags": [],
+    "actions": [
+      {
+        "_id": "7308830129cc500b",
+        "name": "Manifest",
+        "actionType": "other",
+        "activation": {
+          "type": "special",
+          "cost": 1,
+          "unchained": {
+            "type": "action",
+            "cost": 2
+          }
+        },
+        "range": {
+          "units": "close"
+        },
+        "duration": {
+          "units": "spec",
+          "value": "1 round",
+          "dismiss": false,
+          "concentration": false
+        },
+        "target": {
+          "value": "or Area: One dominated or controlled creature"
+        }
+      }
+    ],
+    "learnedAt": {
+      "class": {
+        "vitalist": 1,
+        "psion": 1
+      },
+      "domain": {
+        "telepath": 1
+      },
+      "subDomain": {},
+      "elementalSchool": {},
+      "bloodline": {}
+    },
+    "level": 1,
+    "school": "telepathy",
+    "subschool": [],
+    "descriptors": [
+      "mindAffecting"
+    ],
+    "components": {
+      "value": "Inline !Important",
+      "verbal": false,
+      "somatic": false,
+      "thought": false,
+      "emotion": false,
+      "material": false,
+      "focus": false,
+      "divineFocus": 0
+    },
+    "materials": {
+      "value": "",
+      "focus": "",
+      "gpValue": 0
+    },
+    "spellbook": "psionic",
+    "preparation": {
+      "value": 1,
+      "max": 1
+    },
+    "atWill": false,
+    "sr": true,
+    "domain": false,
+    "slotCost": 1,
+    "spellPoints": {
+      "cost": "1"
+    }
+  },
+  "effects": [],
+  "flags": {
+    "pf1-psionics": {
+      "power": true,
+      "discipline": "telepathy",
+      "specialization": "telepath",
+      "augment": true,
+      "display": "Inline !Important",
+      "powerPoints": 1,
+      "source": "Psionics Expanded: Advanced Psionics Guide",
+      "url": "https://www.d20pfsrd.com/alternative-rule-systems/3rd-party-rules-systems/psionics-unleashed /psionic-powers/s/suppress-compulsion"
+    }
+  }
+}

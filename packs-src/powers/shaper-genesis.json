@@ -1,0 +1,97 @@
+{
+  "_id": "101bf6020de17e57",
+  "_key": "!items!101bf6020de17e57",
+  "name": "Genesis",
+  "type": "spell",
+  "img": "icons/magic/symbols/elements-air-earth-fire-water.webp",
+  "folder": "efbc030581b5f311",
+  "sort": 0,
+  "system": {
+    "description": {
+      "value": "<p><em>You instigate a new demiplane on the Astral Plane.</em></p><p><strong>Augment:</strong> this power can be augmented (see full text).</p><p>Full text: <a href=\"https://www.d20pfsrd.com/alternative-rule-systems/3rd-party-rules-systems/psionics-unleashed /psionic-powers/g/genesis\">Genesis on d20pfsrd.com</a></p><p><strong>Source:</strong> Ultimate Psionics</p>",
+      "instructions": ""
+    },
+    "tags": [],
+    "actions": [
+      {
+        "_id": "aa0516d75da4e3f5",
+        "name": "Manifest",
+        "actionType": "other",
+        "activation": {
+          "type": "hour",
+          "cost": 2,
+          "unchained": {
+            "type": "action",
+            "cost": 2
+          }
+        },
+        "range": {
+          "units": "ft",
+          "value": "0"
+        },
+        "duration": {
+          "units": "spec",
+          "value": "1 day/level",
+          "dismiss": false,
+          "concentration": false
+        },
+        "effect": "Extradimensional demiplane, up to three 10-ft. cubes/level (S)"
+      }
+    ],
+    "learnedAt": {
+      "class": {
+        "psion": 6
+      },
+      "domain": {
+        "shaper": 6
+      },
+      "subDomain": {},
+      "elementalSchool": {},
+      "bloodline": {}
+    },
+    "level": 6,
+    "school": "metacreativity",
+    "subschool": [],
+    "descriptors": [],
+    "components": {
+      "value": "Inline !Important",
+      "verbal": false,
+      "somatic": false,
+      "thought": false,
+      "emotion": false,
+      "material": false,
+      "focus": false,
+      "divineFocus": 0
+    },
+    "materials": {
+      "value": "",
+      "focus": "",
+      "gpValue": 0
+    },
+    "spellbook": "psionic",
+    "preparation": {
+      "value": 1,
+      "max": 1
+    },
+    "atWill": false,
+    "sr": false,
+    "domain": false,
+    "slotCost": 1,
+    "spellPoints": {
+      "cost": "11"
+    }
+  },
+  "effects": [],
+  "flags": {
+    "pf1-psionics": {
+      "power": true,
+      "discipline": "metacreativity",
+      "specialization": "shaper",
+      "augment": true,
+      "display": "Inline !Important",
+      "powerPoints": 11,
+      "source": "Ultimate Psionics",
+      "url": "https://www.d20pfsrd.com/alternative-rule-systems/3rd-party-rules-systems/psionics-unleashed /psionic-powers/g/genesis"
+    }
+  }
+}

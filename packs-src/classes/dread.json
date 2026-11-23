@@ -1,0 +1,186 @@
+{
+  "_id": "6301f2a67de26131",
+  "_key": "!items!6301f2a67de26131",
+  "name": "Dread",
+  "type": "class",
+  "img": "icons/magic/unholy/energy-smoke-pink.webp",
+  "folder": null,
+  "sort": 0,
+  "system": {
+    "description": {
+      "value": "<p><strong>Dread</strong> — psionic base class (Dreamscarred Press).</p><p><strong>Manifesting:</strong> key ability CHA, powers up to level 6. Adding this class to a character enables the Psionic powers book.</p><p><strong>Psionic skills not in PF1:</strong> Autohypnosis, Knowledge (Psionics).</p><table class=\"pf1-psionics-progression\"><thead><tr><th>Lvl</th><th>BAB</th><th>Fort</th><th>Ref</th><th>Will</th><th>Special</th><th>PP</th><th>Known</th><th>Max</th></tr></thead><tbody><tr><td>1st</td><td>+0</td><td>+0</td><td>+2</td><td>+2</td><td>Fearsome insight, devastating touch, talents</td><td>1</td><td>1</td><td>1st</td></tr><tr><td>2nd</td><td>+1</td><td>+0</td><td>+3</td><td>+3</td><td>Terror</td><td>2</td><td>2</td><td>1st</td></tr><tr><td>3rd</td><td>+2</td><td>+1</td><td>+3</td><td>+3</td><td>Aura of fear, channel terror</td><td>4</td><td>3</td><td>1st</td></tr><tr><td>4th</td><td>+3</td><td>+1</td><td>+4</td><td>+4</td><td>Terror</td><td>6</td><td>4</td><td>2nd</td></tr><tr><td>5th</td><td>+3</td><td>+1</td><td>+4</td><td>+4</td><td>Bonus feat</td><td>8</td><td>5</td><td>2nd</td></tr><tr><td>6th</td><td>+4</td><td>+2</td><td>+5</td><td>+5</td><td>Terror</td><td>12</td><td>6</td><td>2nd</td></tr><tr><td>7th</td><td>+5</td><td>+2</td><td>+5</td><td>+5</td><td>Immersed in fear</td><td>16</td><td>7</td><td>3rd</td></tr><tr><td>8th</td><td>+6/+1</td><td>+2</td><td>+6</td><td>+6</td><td>Terror</td><td>20</td><td>8</td><td>3rd</td></tr><tr><td>9th</td><td>+6/+1</td><td>+3</td><td>+6</td><td>+6</td><td>Bonus feat</td><td>24</td><td>9</td><td>3rd</td></tr><tr><td>10th</td><td>+7/+2</td><td>+3</td><td>+7</td><td>+7</td><td>Terror</td><td>28</td><td>10</td><td>4th</td></tr><tr><td>11th</td><td>+8/+3</td><td>+3</td><td>+7</td><td>+7</td><td>Shadow twin, twin fear</td><td>36</td><td>11</td><td>4th</td></tr><tr><td>12th</td><td>+9/+4</td><td>+4</td><td>+8</td><td>+8</td><td>Terror</td><td>44</td><td>12</td><td>4th</td></tr><tr><td>13th</td><td>+9/+4</td><td>+4</td><td>+8</td><td>+8</td><td>Bonus feat</td><td>52</td><td>13</td><td>5th</td></tr><tr><td>14th</td><td>+10/+5</td><td>+4</td><td>+9</td><td>+9</td><td>Terror</td><td>60</td><td>14</td><td>5th</td></tr><tr><td>15th</td><td>+11/+6/+1</td><td>+5</td><td>+9</td><td>+9</td><td>Shadow twin (100 ft.), twin fear (form of doom)</td><td>68</td><td>15</td><td>5th</td></tr><tr><td>16th</td><td>+12/+7/+2</td><td>+5</td><td>+10</td><td>+10</td><td>Terror</td><td>80</td><td>16</td><td>6th</td></tr><tr><td>17th</td><td>+12/+7/+2</td><td>+5</td><td>+10</td><td>+10</td><td>Bonus feat</td><td>92</td><td>17</td><td>6th</td></tr><tr><td>18th</td><td>+13/+8/+3</td><td>+6</td><td>+11</td><td>+11</td><td>Terror</td><td>104</td><td>18</td><td>6th</td></tr><tr><td>19th</td><td>+14/+9/+4</td><td>+6</td><td>+11</td><td>+11</td><td>Shadow twin (400 ft.)</td><td>116</td><td>19</td><td>6th</td></tr><tr><td>20th</td><td>+15/+10/+5</td><td>+6</td><td>+12</td><td>+12</td><td>Fear incarnate, terror</td><td>128</td><td>20</td><td>6th</td></tr></tbody></table><p>Class features: <a href=\"https://www.d20pfsrd.com/alternative-rule-systems/3rd-party-rules-systems/psionics-unleashed/classes/dread/\">Dread on d20pfsrd.com</a></p>",
+      "instructions": ""
+    },
+    "tags": [
+      "Psionic"
+    ],
+    "changes": [],
+    "contextNotes": [],
+    "links": {
+      "children": [],
+      "classAssociations": [
+        {
+          "level": 1,
+          "uuid": "Compendium.pf1-psionics.psionic-class-features.Item.83524c3324f2a8cd"
+        },
+        {
+          "level": 1,
+          "uuid": "Compendium.pf1-psionics.psionic-class-features.Item.eac792a31d9d4f28"
+        },
+        {
+          "level": 1,
+          "uuid": "Compendium.pf1-psionics.psionic-class-features.Item.9a2239fdeff947ce"
+        },
+        {
+          "level": 2,
+          "uuid": "Compendium.pf1-psionics.psionic-class-features.Item.b198001c2a27c6a0"
+        },
+        {
+          "level": 3,
+          "uuid": "Compendium.pf1-psionics.psionic-class-features.Item.692c8f917718bbcc"
+        },
+        {
+          "level": 3,
+          "uuid": "Compendium.pf1-psionics.psionic-class-features.Item.0abd150f76815e79"
+        },
+        {
+          "level": 5,
+          "uuid": "Compendium.pf1-psionics.psionic-class-features.Item.2d9298fce6276ef1"
+        },
+        {
+          "level": 7,
+          "uuid": "Compendium.pf1-psionics.psionic-class-features.Item.56eac36820b27ed7"
+        },
+        {
+          "level": 11,
+          "uuid": "Compendium.pf1-psionics.psionic-class-features.Item.ab3cfac65d1a897d"
+        },
+        {
+          "level": 11,
+          "uuid": "Compendium.pf1-psionics.psionic-class-features.Item.d8ba6580a0043e02"
+        },
+        {
+          "level": 20,
+          "uuid": "Compendium.pf1-psionics.psionic-class-features.Item.db7f239217d52504"
+        }
+      ],
+      "supplements": []
+    },
+    "tag": "dread",
+    "armorProf": [],
+    "weaponProf": [],
+    "languages": [],
+    "subType": "base",
+    "level": 1,
+    "hd": 8,
+    "hp": 8,
+    "bab": "med",
+    "skillsPerLevel": 6,
+    "savingThrows": {
+      "fort": {
+        "value": "low"
+      },
+      "ref": {
+        "value": "high"
+      },
+      "will": {
+        "value": "high"
+      }
+    },
+    "wealth": "3d6 * 10",
+    "classSkills": {
+      "acr": true,
+      "blf": true,
+      "clm": true,
+      "crf": true,
+      "esc": true,
+      "int": true,
+      "per": true,
+      "ste": true,
+      "pro": true,
+      "spl": true,
+      "sen": true,
+      "swm": true
+    }
+  },
+  "effects": [],
+  "flags": {
+    "pf1-psionics": {
+      "psionic": true,
+      "keyAbility": "cha",
+      "maxPowerLevel": 6,
+      "casterType": "med",
+      "ppTable": [
+        1,
+        2,
+        4,
+        6,
+        8,
+        12,
+        16,
+        20,
+        24,
+        28,
+        36,
+        44,
+        52,
+        60,
+        68,
+        80,
+        92,
+        104,
+        116,
+        128
+      ],
+      "powersKnown": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20
+      ],
+      "maxPowerLevelTable": [
+        1,
+        1,
+        1,
+        2,
+        2,
+        2,
+        3,
+        3,
+        3,
+        4,
+        4,
+        4,
+        5,
+        5,
+        5,
+        6,
+        6,
+        6,
+        6,
+        6
+      ],
+      "unmappedSkills": [
+        "Autohypnosis",
+        "Knowledge (Psionics)"
+      ],
+      "url": "https://www.d20pfsrd.com/alternative-rule-systems/3rd-party-rules-systems/psionics-unleashed/classes/dread/"
+    }
+  }
+}

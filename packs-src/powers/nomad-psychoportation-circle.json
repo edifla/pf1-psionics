@@ -1,0 +1,97 @@
+{
+  "_id": "d25956c4876267b2",
+  "_key": "!items!d25956c4876267b2",
+  "name": "Psychoportation Circle",
+  "type": "spell",
+  "img": "icons/magic/movement/portal-vortex-orange.webp",
+  "folder": "22ff58b8afb71d3d",
+  "sort": 0,
+  "system": {
+    "description": {
+      "value": "<p><em>Circle teleports any creatures inside to designated spot.</em></p><p>Full text: <a href=\"https://www.d20pfsrd.com/alternative-rule-systems/3rd-party-rules-systems/psionics-unleashed /psionic-powers/p/psychoportation-circle\">Psychoportation Circle on d20pfsrd.com</a></p><p><strong>Source:</strong> Psionics Unleashed</p>",
+      "instructions": ""
+    },
+    "tags": [],
+    "actions": [
+      {
+        "_id": "b219041065c7e0e2",
+        "name": "Manifest",
+        "actionType": "other",
+        "activation": {
+          "type": "minute",
+          "cost": 10,
+          "unchained": {
+            "type": "action",
+            "cost": 2
+          }
+        },
+        "range": {
+          "units": "ft",
+          "value": "0"
+        },
+        "duration": {
+          "units": "spec",
+          "value": "10 min./level (D)",
+          "dismiss": true,
+          "concentration": false
+        },
+        "effect": "5-ft.-radius circle that teleports those who activate it"
+      }
+    ],
+    "learnedAt": {
+      "class": {
+        "psion": 9
+      },
+      "domain": {
+        "nomad": 9
+      },
+      "subDomain": {},
+      "elementalSchool": {},
+      "bloodline": {}
+    },
+    "level": 9,
+    "school": "psychoportation",
+    "subschool": [],
+    "descriptors": [],
+    "components": {
+      "value": "Inline !Important",
+      "verbal": false,
+      "somatic": false,
+      "thought": false,
+      "emotion": false,
+      "material": false,
+      "focus": false,
+      "divineFocus": 0
+    },
+    "materials": {
+      "value": "",
+      "focus": "",
+      "gpValue": 0
+    },
+    "spellbook": "psionic",
+    "preparation": {
+      "value": 1,
+      "max": 1
+    },
+    "atWill": false,
+    "sr": true,
+    "domain": false,
+    "slotCost": 1,
+    "spellPoints": {
+      "cost": "17"
+    }
+  },
+  "effects": [],
+  "flags": {
+    "pf1-psionics": {
+      "power": true,
+      "discipline": "psychoportation",
+      "specialization": "nomad",
+      "augment": false,
+      "display": "Inline !Important",
+      "powerPoints": 17,
+      "source": "Psionics Unleashed",
+      "url": "https://www.d20pfsrd.com/alternative-rule-systems/3rd-party-rules-systems/psionics-unleashed /psionic-powers/p/psychoportation-circle"
+    }
+  }
+}

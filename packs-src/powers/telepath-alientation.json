@@ -1,0 +1,105 @@
+{
+  "_id": "c0e2a2952c431a18",
+  "_key": "!items!c0e2a2952c431a18",
+  "name": "Alientation",
+  "type": "spell",
+  "img": "icons/magic/perception/eye-tendrils-web-purple.webp",
+  "folder": "64f78502e77a4cad",
+  "sort": 0,
+  "system": {
+    "description": {
+      "value": "<p><em>Subject loses ability to communicate with or understand others.</em></p><p><strong>Augment:</strong> this power can be augmented (see full text).</p><p>Full text: <a href=\"https://www.d20pfsrd.com/alternative-rule-systems/3rd-party-rules-systems/psionics-unleashed /psionic-powers/a/alienation\">Alientation on d20pfsrd.com</a></p><p><strong>Source:</strong> Psionics Expanded: Advanced Psionics Guide</p>",
+      "instructions": ""
+    },
+    "tags": [],
+    "actions": [
+      {
+        "_id": "29fa6fe686b7f716",
+        "name": "Manifest",
+        "actionType": "spellsave",
+        "activation": {
+          "type": "standard",
+          "cost": 1,
+          "unchained": {
+            "type": "action",
+            "cost": 2
+          }
+        },
+        "range": {
+          "units": "medium"
+        },
+        "duration": {
+          "units": "spec",
+          "value": "1 rnd./lvl.",
+          "dismiss": false,
+          "concentration": false
+        },
+        "target": {
+          "value": "1 living creature"
+        },
+        "save": {
+          "type": "will",
+          "description": "Will negates"
+        }
+      }
+    ],
+    "learnedAt": {
+      "class": {
+        "tactician": 4,
+        "psion": 4
+      },
+      "domain": {
+        "telepath": 4
+      },
+      "subDomain": {},
+      "elementalSchool": {},
+      "bloodline": {}
+    },
+    "level": 4,
+    "school": "telepathy",
+    "subschool": [],
+    "descriptors": [
+      "mindAffecting"
+    ],
+    "components": {
+      "value": "Inline !Important",
+      "verbal": false,
+      "somatic": false,
+      "thought": false,
+      "emotion": false,
+      "material": false,
+      "focus": false,
+      "divineFocus": 0
+    },
+    "materials": {
+      "value": "",
+      "focus": "",
+      "gpValue": 0
+    },
+    "spellbook": "psionic",
+    "preparation": {
+      "value": 1,
+      "max": 1
+    },
+    "atWill": false,
+    "sr": true,
+    "domain": false,
+    "slotCost": 1,
+    "spellPoints": {
+      "cost": "7"
+    }
+  },
+  "effects": [],
+  "flags": {
+    "pf1-psionics": {
+      "power": true,
+      "discipline": "telepathy",
+      "specialization": "telepath",
+      "augment": true,
+      "display": "Inline !Important",
+      "powerPoints": 7,
+      "source": "Psionics Expanded: Advanced Psionics Guide",
+      "url": "https://www.d20pfsrd.com/alternative-rule-systems/3rd-party-rules-systems/psionics-unleashed /psionic-powers/a/alienation"
+    }
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "_id": "28f2e35a0b71a960",
+  "_key": "!items!28f2e35a0b71a960",
+  "name": "Psychofeedback",
+  "type": "spell",
+  "img": "icons/magic/life/heart-area-circle-red-green.webp",
+  "folder": "2f99aa4b358c02dc",
+  "sort": 0,
+  "system": {
+    "description": {
+      "value": "<p><em>Boost Strength, Dexterity, or Constitution at the expense of one or more other scores.</em></p><p><strong>Augment:</strong> this power can be augmented (see full text).</p><p>Full text: <a href=\"https://www.d20pfsrd.com/alternative-rule-systems/3rd-party-rules-systems/psionics-unleashed /psionic-powers/p/psychofeedback\">Psychofeedback on d20pfsrd.com</a></p><p><strong>Source:</strong> Psionics Unleashed</p>",
+      "instructions": ""
+    },
+    "tags": [],
+    "actions": [
+      {
+        "_id": "9b692ed285213e2c",
+        "name": "Manifest",
+        "actionType": "other",
+        "activation": {
+          "type": "standard",
+          "cost": 1,
+          "unchained": {
+            "type": "action",
+            "cost": 2
+          }
+        },
+        "range": {
+          "units": "personal"
+        },
+        "duration": {
+          "units": "spec",
+          "value": "1 round/level (D)",
+          "dismiss": true,
+          "concentration": false
+        },
+        "target": {
+          "value": "You"
+        }
+      }
+    ],
+    "learnedAt": {
+      "class": {
+        "psion": 5,
+        "psychicWarrior": 5
+      },
+      "domain": {
+        "egoist": 5
+      },
+      "subDomain": {},
+      "elementalSchool": {},
+      "bloodline": {}
+    },
+    "level": 5,
+    "school": "psychometabolism",
+    "subschool": [],
+    "descriptors": [],
+    "components": {
+      "value": "Inline !Important",
+      "verbal": false,
+      "somatic": false,
+      "thought": false,
+      "emotion": false,
+      "material": false,
+      "focus": false,
+      "divineFocus": 0
+    },
+    "materials": {
+      "value": "",
+      "focus": "",
+      "gpValue": 0
+    },
+    "spellbook": "psionic",
+    "preparation": {
+      "value": 1,
+      "max": 1
+    },
+    "atWill": false,
+    "sr": false,
+    "domain": false,
+    "slotCost": 1,
+    "spellPoints": {
+      "cost": "9"
+    }
+  },
+  "effects": [],
+  "flags": {
+    "pf1-psionics": {
+      "power": true,
+      "discipline": "psychometabolism",
+      "specialization": "egoist",
+      "augment": true,
+      "display": "Inline !Important",
+      "powerPoints": 9,
+      "source": "Psionics Unleashed",
+      "url": "https://www.d20pfsrd.com/alternative-rule-systems/3rd-party-rules-systems/psionics-unleashed /psionic-powers/p/psychofeedback"
+    }
+  }
+}

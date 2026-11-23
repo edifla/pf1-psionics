@@ -1,0 +1,99 @@
+{
+  "_id": "5293ccd34d19a29b",
+  "_key": "!items!5293ccd34d19a29b",
+  "name": "Fusion",
+  "type": "spell",
+  "img": "icons/magic/life/heart-area-circle-red-green.webp",
+  "folder": "2f99aa4b358c02dc",
+  "sort": 0,
+  "system": {
+    "description": {
+      "value": "<p><em>You combine your abilities and form with another.</em></p><p>Full text: <a href=\"https://www.d20pfsrd.com/alternative-rule-systems/3rd-party-rules-systems/psionics-unleashed /psionic-powers/f/fusion\">Fusion on d20pfsrd.com</a></p><p><strong>Source:</strong> Psionics Unleashed</p>",
+      "instructions": ""
+    },
+    "tags": [],
+    "actions": [
+      {
+        "_id": "ec9e79097acf771e",
+        "name": "Manifest",
+        "actionType": "other",
+        "activation": {
+          "type": "round",
+          "cost": 1,
+          "unchained": {
+            "type": "action",
+            "cost": 2
+          }
+        },
+        "range": {
+          "units": "touch"
+        },
+        "duration": {
+          "units": "spec",
+          "value": "1 min./level (D)",
+          "dismiss": true,
+          "concentration": false
+        },
+        "target": {
+          "value": "You and one touched willing creature of your type and your size or smaller"
+        }
+      }
+    ],
+    "learnedAt": {
+      "class": {
+        "psion": 8,
+        "tactician": 9
+      },
+      "domain": {
+        "egoist": 8
+      },
+      "subDomain": {},
+      "elementalSchool": {},
+      "bloodline": {}
+    },
+    "level": 8,
+    "school": "psychometabolism",
+    "subschool": [],
+    "descriptors": [],
+    "components": {
+      "value": "Inline !Important",
+      "verbal": false,
+      "somatic": false,
+      "thought": false,
+      "emotion": false,
+      "material": false,
+      "focus": false,
+      "divineFocus": 0
+    },
+    "materials": {
+      "value": "",
+      "focus": "",
+      "gpValue": 0
+    },
+    "spellbook": "psionic",
+    "preparation": {
+      "value": 1,
+      "max": 1
+    },
+    "atWill": false,
+    "sr": false,
+    "domain": false,
+    "slotCost": 1,
+    "spellPoints": {
+      "cost": "15"
+    }
+  },
+  "effects": [],
+  "flags": {
+    "pf1-psionics": {
+      "power": true,
+      "discipline": "psychometabolism",
+      "specialization": "egoist",
+      "augment": false,
+      "display": "Inline !Important",
+      "powerPoints": 15,
+      "source": "Psionics Unleashed",
+      "url": "https://www.d20pfsrd.com/alternative-rule-systems/3rd-party-rules-systems/psionics-unleashed /psionic-powers/f/fusion"
+    }
+  }
+}

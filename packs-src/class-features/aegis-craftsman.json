@@ -1,0 +1,33 @@
+{
+  "_id": "bf0ae0ac261b4e5b",
+  "_key": "!items!bf0ae0ac261b4e5b",
+  "name": "Craftsman",
+  "type": "feat",
+  "img": "icons/magic/defensive/shield-barrier-blue.webp",
+  "sort": 2000,
+  "system": {
+    "description": {
+      "value": "<p>Aegis class feature, gained at level 2.</p><p>Full text: <a href=\"https://www.d20pfsrd.com/alternative-rule-systems/3rd-party-rules-systems/psionics-unleashed/classes/aegis/#TOC-Craftsman\">Craftsman on d20pfsrd.com</a></p>",
+      "instructions": ""
+    },
+    "tags": [
+      "Psionic"
+    ],
+    "subType": "classFeat",
+    "abilityType": "na",
+    "associations": {
+      "classes": [
+        "Aegis"
+      ]
+    }
+  },
+  "effects": [],
+  "flags": {
+    "pf1-psionics": {
+      "classFeature": true,
+      "class": "Aegis",
+      "level": 2
+    }
+  },
+  "folder": "003e6518ab233bfd"
+}

@@ -1,0 +1,33 @@
+{
+  "_id": "1d3ada15f7ae6c4a",
+  "_key": "!items!1d3ada15f7ae6c4a",
+  "name": "Style Ability",
+  "type": "feat",
+  "img": "icons/magic/perception/eye-slit-orange.webp",
+  "sort": 4000,
+  "system": {
+    "description": {
+      "value": "<p>Marksman class feature, gained at level 4.</p><p>Full text: <a href=\"https://www.d20pfsrd.com/alternative-rule-systems/3rd-party-rules-systems/psionics-unleashed/classes/marksman/#TOC-Style-Ability\">Style Ability on d20pfsrd.com</a></p>",
+      "instructions": ""
+    },
+    "tags": [
+      "Psionic"
+    ],
+    "subType": "classFeat",
+    "abilityType": "na",
+    "associations": {
+      "classes": [
+        "Marksman"
+      ]
+    }
+  },
+  "effects": [],
+  "flags": {
+    "pf1-psionics": {
+      "classFeature": true,
+      "class": "Marksman",
+      "level": 4
+    }
+  },
+  "folder": "8b64e6d751692b49"
+}

@@ -1,0 +1,45 @@
+{
+  "_id": "c4bd437d8bff97aa",
+  "_key": "!items!c4bd437d8bff97aa",
+  "name": "Gravitational Well",
+  "type": "buff",
+  "img": "icons/magic/movement/portal-vortex-orange.webp",
+  "folder": "c2d1bbdc0f0df058",
+  "sort": 0,
+  "system": {
+    "description": {
+      "value": "<p>Attacks against the target gain +2 (modeled as −2 AC). Attacks against other creatures within 10 ft. take −2, and moving away from the target is difficult terrain.</p><p>Power: @UUID[Compendium.pf1-psionics.psionic-powers.Item.7560a0e4b9504a37]{Gravitational Well} · <a href=\"https://www.d20pfsrd.com/alternative-rule-systems/3rd-party-rules-systems/psionics-unleashed /psionic-powers/g/gravitational-well\">full text</a></p>",
+      "instructions": ""
+    },
+    "tags": [
+      "Psionic"
+    ],
+    "changes": [
+      {
+        "_id": "710cdee0",
+        "formula": "-2",
+        "target": "ac",
+        "type": "untyped"
+      }
+    ],
+    "contextNotes": [],
+    "subType": "spell",
+    "active": false,
+    "level": 2,
+    "duration": {
+      "value": "@item.level",
+      "units": "round",
+      "end": "turnStart"
+    },
+    "conditions": [],
+    "hideFromToken": false
+  },
+  "effects": [],
+  "flags": {
+    "pf1-psionics": {
+      "buff": true,
+      "power": "Gravitational Well",
+      "kind": "debuff"
+    }
+  }
+}

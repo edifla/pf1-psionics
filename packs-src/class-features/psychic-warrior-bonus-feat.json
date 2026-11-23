@@ -1,0 +1,33 @@
+{
+  "_id": "fa945927656d3548",
+  "_key": "!items!fa945927656d3548",
+  "name": "Bonus Feat",
+  "type": "feat",
+  "img": "icons/magic/control/buff-flight-wings-runes-purple.webp",
+  "sort": 1000,
+  "system": {
+    "description": {
+      "value": "<p>Psychic Warrior class feature, gained at level 1.</p><p>Full text: <a href=\"https://www.d20pfsrd.com/alternative-rule-systems/3rd-party-rules-systems/psionics-unleashed/classes/psychic-warrior/#TOC-Bonus-Feats\">Bonus Feat on d20pfsrd.com</a></p>",
+      "instructions": ""
+    },
+    "tags": [
+      "Psionic"
+    ],
+    "subType": "classFeat",
+    "abilityType": "na",
+    "associations": {
+      "classes": [
+        "Psychic Warrior"
+      ]
+    }
+  },
+  "effects": [],
+  "flags": {
+    "pf1-psionics": {
+      "classFeature": true,
+      "class": "Psychic Warrior",
+      "level": 1
+    }
+  },
+  "folder": "e46e253b5d80da78"
+}

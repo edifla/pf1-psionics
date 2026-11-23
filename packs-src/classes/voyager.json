@@ -1,0 +1,243 @@
+{
+  "_id": "378633f242554a27",
+  "_key": "!items!378633f242554a27",
+  "name": "Voyager",
+  "type": "class",
+  "img": "icons/magic/movement/trail-streak-zigzag-teal.webp",
+  "folder": null,
+  "sort": 0,
+  "system": {
+    "description": {
+      "value": "<p><strong>Voyager</strong> — psionic base class (Dreamscarred Press).</p><p><strong>Manifesting:</strong> key ability INT, powers up to level 6. Adding this class to a character enables the Psionic powers book.</p><p><strong>Psionic skills not in PF1:</strong> Autohypnosis, Knowledge (Psionics).</p><table class=\"pf1-psionics-progression\"><thead><tr><th>Lvl</th><th>BAB</th><th>Fort</th><th>Ref</th><th>Will</th><th>Special</th><th>PP</th><th>Known</th><th>Max</th></tr></thead><tbody><tr><td>1st</td><td>+0</td><td>+0</td><td>+2</td><td>+2</td><td>Accelerate, momentum, parallel action, parallel initiative (–8), trap foresight</td><td>1</td><td>1</td><td>1st</td></tr><tr><td>2nd</td><td>+1</td><td>+0</td><td>+3</td><td>+3</td><td>Evasion, manifestation of speed</td><td>2</td><td>2</td><td>1st</td></tr><tr><td>3rd</td><td>+2</td><td>+1</td><td>+3</td><td>+3</td><td>Accelerate (+10 ft), afterimage, parallel action (–4)</td><td>4</td><td>3</td><td>1st</td></tr><tr><td>4th</td><td>+3</td><td>+1</td><td>+4</td><td>+4</td><td>Stored power, voyager knowledge</td><td>6</td><td>4</td><td>2nd</td></tr><tr><td>5th</td><td>+3</td><td>+1</td><td>+4</td><td>+4</td><td>Astral voyager, manifestation of speed, momentous maneuvers</td><td>8</td><td>5</td><td>2nd</td></tr><tr><td>6th</td><td>+4</td><td>+2</td><td>+5</td><td>+5</td><td>Information exchange, uncanny dodge</td><td>12</td><td>6</td><td>2nd</td></tr><tr><td>7th</td><td>+5</td><td>+2</td><td>+5</td><td>+5</td><td>Parallel action (+0), time saver</td><td>16</td><td>7</td><td>3rd</td></tr><tr><td>8th</td><td>+6/+1</td><td>+2</td><td>+6</td><td>+6</td><td>Accelerate (+20 ft), temporal duelist</td><td>20</td><td>8</td><td>3rd</td></tr><tr><td>9th</td><td>+6/+1</td><td>+3</td><td>+6</td><td>+6</td><td>Improved uncanny dodge, multitask</td><td>24</td><td>9</td><td>3rd</td></tr><tr><td>10th</td><td>+7/+2</td><td>+3</td><td>+7</td><td>+7</td><td>Astral voyager, borrowed time</td><td>28</td><td>10</td><td>4th</td></tr><tr><td>11th</td><td>+8/+3</td><td>+3</td><td>+7</td><td>+7</td><td>Endless, parallel action (+4)</td><td>36</td><td>11</td><td>4th</td></tr><tr><td>12th</td><td>+9/+4</td><td>+4</td><td>+8</td><td>+8</td><td>Improved evasion</td><td>44</td><td>12</td><td>4th</td></tr><tr><td>13th</td><td>+9/+4</td><td>+4</td><td>+8</td><td>+8</td><td>Accelerate (+30 ft), speeding strike</td><td>52</td><td>13</td><td>5th</td></tr><tr><td>14th</td><td>+10/+5</td><td>+4</td><td>+9</td><td>+9</td><td>Swapped selves</td><td>60</td><td>14</td><td>5th</td></tr><tr><td>15th</td><td>+11/+6/+1</td><td>+5</td><td>+9</td><td>+9</td><td>Astral voyager, parallel action (+8)</td><td>68</td><td>15</td><td>5th</td></tr><tr><td>16th</td><td>+12/+7/+2</td><td>+5</td><td>+10</td><td>+10</td><td>Fate in flux</td><td>80</td><td>16</td><td>6th</td></tr><tr><td>17th</td><td>+12/+7/+2</td><td>+5</td><td>+10</td><td>+10</td><td>Greater multitask</td><td>92</td><td>17</td><td>6th</td></tr><tr><td>18th</td><td>+13/+8/+3</td><td>+6</td><td>+11</td><td>+11</td><td>Accelerate (+40 ft)</td><td>104</td><td>18</td><td>6th</td></tr><tr><td>19th</td><td>+14/+9/+4</td><td>+6</td><td>+11</td><td>+11</td><td>Parallel action (+12)</td><td>116</td><td>19</td><td>6th</td></tr><tr><td>20th</td><td>+15/+10/+5</td><td>+6</td><td>+12</td><td>+12</td><td>Eternity awaits</td><td>128</td><td>20</td><td>6th</td></tr></tbody></table><p>Class features: <a href=\"https://www.d20pfsrd.com/alternative-rule-systems/3rd-party-rules-systems/psionics-unleashed/classes/voyager/\">Voyager on d20pfsrd.com</a></p>",
+      "instructions": ""
+    },
+    "tags": [
+      "Psionic"
+    ],
+    "changes": [],
+    "contextNotes": [],
+    "links": {
+      "children": [],
+      "classAssociations": [
+        {
+          "level": 1,
+          "uuid": "Compendium.pf1-psionics.psionic-class-features.Item.8cf8a6ebd484a654"
+        },
+        {
+          "level": 1,
+          "uuid": "Compendium.pf1-psionics.psionic-class-features.Item.1de1ab6f1fd804ad"
+        },
+        {
+          "level": 1,
+          "uuid": "Compendium.pf1-psionics.psionic-class-features.Item.24e8a192f3d9f9e6"
+        },
+        {
+          "level": 1,
+          "uuid": "Compendium.pf1-psionics.psionic-class-features.Item.99ab01b56362cd40"
+        },
+        {
+          "level": 1,
+          "uuid": "Compendium.pf1-psionics.psionic-class-features.Item.07b744789b1b1a6b"
+        },
+        {
+          "level": 2,
+          "uuid": "Compendium.pf1-psionics.psionic-class-features.Item.4c88d1a393a8718c"
+        },
+        {
+          "level": 2,
+          "uuid": "Compendium.pf1-psionics.psionic-class-features.Item.903f7ad71002b3d4"
+        },
+        {
+          "level": 3,
+          "uuid": "Compendium.pf1-psionics.psionic-class-features.Item.0bc779a45219c535"
+        },
+        {
+          "level": 4,
+          "uuid": "Compendium.pf1-psionics.psionic-class-features.Item.e906cf21e0829da6"
+        },
+        {
+          "level": 4,
+          "uuid": "Compendium.pf1-psionics.psionic-class-features.Item.cb2e3e96e7068f96"
+        },
+        {
+          "level": 5,
+          "uuid": "Compendium.pf1-psionics.psionic-class-features.Item.774d326ada2d332e"
+        },
+        {
+          "level": 5,
+          "uuid": "Compendium.pf1-psionics.psionic-class-features.Item.bd8bb9b6b2d7144c"
+        },
+        {
+          "level": 6,
+          "uuid": "Compendium.pf1-psionics.psionic-class-features.Item.d426028d0aec463e"
+        },
+        {
+          "level": 6,
+          "uuid": "Compendium.pf1-psionics.psionic-class-features.Item.fdb7a7ceb7107f9f"
+        },
+        {
+          "level": 7,
+          "uuid": "Compendium.pf1-psionics.psionic-class-features.Item.b1a8e25ff7a92f33"
+        },
+        {
+          "level": 8,
+          "uuid": "Compendium.pf1-psionics.psionic-class-features.Item.0c6176ed4a59cc43"
+        },
+        {
+          "level": 10,
+          "uuid": "Compendium.pf1-psionics.psionic-class-features.Item.ab6e157a65bd2669"
+        },
+        {
+          "level": 11,
+          "uuid": "Compendium.pf1-psionics.psionic-class-features.Item.23d2d8673cee3b88"
+        },
+        {
+          "level": 12,
+          "uuid": "Compendium.pf1-psionics.psionic-class-features.Item.c0c7f61bf0b8e5ab"
+        },
+        {
+          "level": 13,
+          "uuid": "Compendium.pf1-psionics.psionic-class-features.Item.bd48c2e91a83130a"
+        },
+        {
+          "level": 14,
+          "uuid": "Compendium.pf1-psionics.psionic-class-features.Item.2f0a07fa9ac723f3"
+        },
+        {
+          "level": 16,
+          "uuid": "Compendium.pf1-psionics.psionic-class-features.Item.71ac6e7129242f5b"
+        },
+        {
+          "level": 17,
+          "uuid": "Compendium.pf1-psionics.psionic-class-features.Item.136559af2cde396c"
+        },
+        {
+          "level": 20,
+          "uuid": "Compendium.pf1-psionics.psionic-class-features.Item.915e3d45e91b450b"
+        }
+      ],
+      "supplements": []
+    },
+    "tag": "voyager",
+    "armorProf": [],
+    "weaponProf": [],
+    "languages": [],
+    "subType": "base",
+    "level": 1,
+    "hd": 6,
+    "hp": 6,
+    "bab": "med",
+    "skillsPerLevel": 6,
+    "savingThrows": {
+      "fort": {
+        "value": "low"
+      },
+      "ref": {
+        "value": "high"
+      },
+      "will": {
+        "value": "high"
+      }
+    },
+    "wealth": "4d6 * 10",
+    "classSkills": {
+      "acr": true,
+      "blf": true,
+      "clm": true,
+      "crf": true,
+      "dev": true,
+      "esc": true,
+      "kge": true,
+      "khi": true,
+      "kpl": true,
+      "per": true,
+      "pro": true,
+      "sen": true,
+      "slt": true,
+      "spl": true,
+      "ste": true,
+      "sur": true,
+      "umd": true
+    }
+  },
+  "effects": [],
+  "flags": {
+    "pf1-psionics": {
+      "psionic": true,
+      "keyAbility": "int",
+      "maxPowerLevel": 6,
+      "casterType": "med",
+      "ppTable": [
+        1,
+        2,
+        4,
+        6,
+        8,
+        12,
+        16,
+        20,
+        24,
+        28,
+        36,
+        44,
+        52,
+        60,
+        68,
+        80,
+        92,
+        104,
+        116,
+        128
+      ],
+      "powersKnown": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20
+      ],
+      "maxPowerLevelTable": [
+        1,
+        1,
+        1,
+        2,
+        2,
+        2,
+        3,
+        3,
+        3,
+        4,
+        4,
+        4,
+        5,
+        5,
+        5,
+        6,
+        6,
+        6,
+        6,
+        6
+      ],
+      "unmappedSkills": [
+        "Autohypnosis",
+        "Knowledge (Psionics)"
+      ],
+      "url": "https://www.d20pfsrd.com/alternative-rule-systems/3rd-party-rules-systems/psionics-unleashed/classes/voyager/"
+    }
+  }
+}

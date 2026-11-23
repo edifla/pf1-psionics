@@ -1,0 +1,97 @@
+{
+  "_id": "b5144a46f469792d",
+  "_key": "!items!b5144a46f469792d",
+  "name": "Metafaculty",
+  "type": "spell",
+  "img": "icons/magic/perception/eye-ringed-green.webp",
+  "folder": "810fb97e054e8d24",
+  "sort": 0,
+  "system": {
+    "description": {
+      "value": "<p><em>You learn details about any one creature.</em></p><p>Full text: <a href=\"https://www.d20pfsrd.com/alternative-rule-systems/3rd-party-rules-systems/psionics-unleashed /psionic-powers/m/metafaculty\">Metafaculty on d20pfsrd.com</a></p><p><strong>Source:</strong> Psionics Unleashed</p>",
+      "instructions": ""
+    },
+    "tags": [],
+    "actions": [
+      {
+        "_id": "7c527b633228623f",
+        "name": "Manifest",
+        "actionType": "other",
+        "activation": {
+          "type": "hour",
+          "cost": 1,
+          "unchained": {
+            "type": "action",
+            "cost": 2
+          }
+        },
+        "range": {
+          "units": "personal"
+        },
+        "duration": {
+          "units": "inst",
+          "dismiss": true,
+          "concentration": false
+        },
+        "target": {
+          "value": "You"
+        }
+      }
+    ],
+    "learnedAt": {
+      "class": {
+        "psion": 9
+      },
+      "domain": {
+        "seer": 9
+      },
+      "subDomain": {},
+      "elementalSchool": {},
+      "bloodline": {}
+    },
+    "level": 9,
+    "school": "clairsentience",
+    "subschool": [],
+    "descriptors": [],
+    "components": {
+      "value": "Inline !Important",
+      "verbal": false,
+      "somatic": false,
+      "thought": false,
+      "emotion": false,
+      "material": false,
+      "focus": false,
+      "divineFocus": 0
+    },
+    "materials": {
+      "value": "",
+      "focus": "",
+      "gpValue": 0
+    },
+    "spellbook": "psionic",
+    "preparation": {
+      "value": 1,
+      "max": 1
+    },
+    "atWill": false,
+    "sr": false,
+    "domain": false,
+    "slotCost": 1,
+    "spellPoints": {
+      "cost": "17"
+    }
+  },
+  "effects": [],
+  "flags": {
+    "pf1-psionics": {
+      "power": true,
+      "discipline": "clairsentience",
+      "specialization": "seer",
+      "augment": false,
+      "display": "Inline !Important",
+      "powerPoints": 17,
+      "source": "Psionics Unleashed",
+      "url": "https://www.d20pfsrd.com/alternative-rule-systems/3rd-party-rules-systems/psionics-unleashed /psionic-powers/m/metafaculty"
+    }
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "_id": "e350f34cc1e538ed",
+  "_key": "!items!e350f34cc1e538ed",
+  "name": "Discipline Ability",
+  "type": "feat",
+  "img": "icons/magic/perception/eye-winged-pink.webp",
+  "sort": 2000,
+  "system": {
+    "description": {
+      "value": "<p>Psion class feature, gained at level 2.</p><p>Full text: <a href=\"https://www.d20pfsrd.com/alternative-rule-systems/3rd-party-rules-systems/psionics-unleashed/classes/psion/#TOC-Discipline-Abilities\">Discipline Ability on d20pfsrd.com</a></p>",
+      "instructions": ""
+    },
+    "tags": [
+      "Psionic"
+    ],
+    "subType": "classFeat",
+    "abilityType": "na",
+    "associations": {
+      "classes": [
+        "Psion"
+      ]
+    }
+  },
+  "effects": [],
+  "flags": {
+    "pf1-psionics": {
+      "classFeature": true,
+      "class": "Psion",
+      "level": 2
+    }
+  },
+  "folder": "9591c5f96fe9b7fe"
+}

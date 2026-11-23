@@ -1,0 +1,33 @@
+{
+  "_id": "56eac36820b27ed7",
+  "_key": "!items!56eac36820b27ed7",
+  "name": "Immersed in Fear (Su)",
+  "type": "feat",
+  "img": "icons/magic/unholy/energy-smoke-pink.webp",
+  "sort": 7000,
+  "system": {
+    "description": {
+      "value": "<p>Dread class feature, gained at level 7.</p><p>Full text: <a href=\"https://www.d20pfsrd.com/alternative-rule-systems/3rd-party-rules-systems/psionics-unleashed/classes/dread/#TOC-Immersed-in-Fear-Su-\">Immersed in Fear (Su) on d20pfsrd.com</a></p>",
+      "instructions": ""
+    },
+    "tags": [
+      "Psionic"
+    ],
+    "subType": "classFeat",
+    "abilityType": "su",
+    "associations": {
+      "classes": [
+        "Dread"
+      ]
+    }
+  },
+  "effects": [],
+  "flags": {
+    "pf1-psionics": {
+      "classFeature": true,
+      "class": "Dread",
+      "level": 7
+    }
+  },
+  "folder": "8950a1a3f5344759"
+}

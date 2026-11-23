@@ -1,0 +1,40 @@
+{
+  "_id": "6d3ca338dff903fd",
+  "_key": "!items!6d3ca338dff903fd",
+  "name": "Brain Lock",
+  "type": "buff",
+  "img": "icons/magic/perception/eye-tendrils-web-purple.webp",
+  "folder": "c2d1bbdc0f0df058",
+  "sort": 0,
+  "system": {
+    "description": {
+      "value": "<p>Dazed while the manifester concentrates, +1 round. The subject can spend a full-round action each turn to attempt a new save.</p><p>Power: @UUID[Compendium.pf1-psionics.psionic-powers.Item.894528d208501ef2]{Brain Lock} · <a href=\"https://www.d20pfsrd.com/alternative-rule-systems/3rd-party-rules-systems/psionics-unleashed /psionic-powers/b/brain-lock\">full text</a></p>",
+      "instructions": ""
+    },
+    "tags": [
+      "Psionic"
+    ],
+    "changes": [],
+    "contextNotes": [],
+    "subType": "spell",
+    "active": false,
+    "level": 2,
+    "duration": {
+      "value": "",
+      "units": "",
+      "end": "turnStart"
+    },
+    "conditions": [
+      "dazed"
+    ],
+    "hideFromToken": false
+  },
+  "effects": [],
+  "flags": {
+    "pf1-psionics": {
+      "buff": true,
+      "power": "Brain Lock",
+      "kind": "debuff"
+    }
+  }
+}

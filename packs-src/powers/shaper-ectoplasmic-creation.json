@@ -1,0 +1,97 @@
+{
+  "_id": "69a8246d8169f9c0",
+  "_key": "!items!69a8246d8169f9c0",
+  "name": "Ectoplasmic Creation",
+  "type": "spell",
+  "img": "icons/magic/symbols/elements-air-earth-fire-water.webp",
+  "folder": "efbc030581b5f311",
+  "sort": 0,
+  "system": {
+    "description": {
+      "value": "<p><em>Creates one cloth or wood object.</em></p><p>Full text: <a href=\"https://www.d20pfsrd.com/alternative-rule-systems/3rd-party-rules-systems/psionics-unleashed /psionic-powers/e/ectoplasmic-creation\">Ectoplasmic Creation on d20pfsrd.com</a></p><p><strong>Source:</strong> Psionics Unleashed</p>",
+      "instructions": ""
+    },
+    "tags": [],
+    "actions": [
+      {
+        "_id": "4408181af6dd659c",
+        "name": "Manifest",
+        "actionType": "other",
+        "activation": {
+          "type": "minute",
+          "cost": 1,
+          "unchained": {
+            "type": "action",
+            "cost": 2
+          }
+        },
+        "range": {
+          "units": "ft",
+          "value": "0"
+        },
+        "duration": {
+          "units": "spec",
+          "value": "1 hour/level (D)",
+          "dismiss": true,
+          "concentration": false
+        },
+        "effect": "Unattended, non-psionic, non-magical object of nonliving matter, up to 1 cu. ft./level"
+      }
+    ],
+    "learnedAt": {
+      "class": {
+        "psion": 1
+      },
+      "domain": {
+        "shaper": 1
+      },
+      "subDomain": {},
+      "elementalSchool": {},
+      "bloodline": {}
+    },
+    "level": 1,
+    "school": "metacreativity",
+    "subschool": [],
+    "descriptors": [],
+    "components": {
+      "value": "Inline !Important",
+      "verbal": false,
+      "somatic": false,
+      "thought": false,
+      "emotion": false,
+      "material": false,
+      "focus": false,
+      "divineFocus": 0
+    },
+    "materials": {
+      "value": "",
+      "focus": "",
+      "gpValue": 0
+    },
+    "spellbook": "psionic",
+    "preparation": {
+      "value": 1,
+      "max": 1
+    },
+    "atWill": false,
+    "sr": false,
+    "domain": false,
+    "slotCost": 1,
+    "spellPoints": {
+      "cost": "1"
+    }
+  },
+  "effects": [],
+  "flags": {
+    "pf1-psionics": {
+      "power": true,
+      "discipline": "metacreativity",
+      "specialization": "shaper",
+      "augment": false,
+      "display": "Inline !Important",
+      "powerPoints": 1,
+      "source": "Psionics Unleashed",
+      "url": "https://www.d20pfsrd.com/alternative-rule-systems/3rd-party-rules-systems/psionics-unleashed /psionic-powers/e/ectoplasmic-creation"
+    }
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "_id": "ba537c602a15ca0b",
+  "_key": "!items!ba537c602a15ca0b",
+  "name": "Fear Cascade (Shaken)",
+  "type": "buff",
+  "img": "icons/magic/perception/eye-tendrils-web-purple.webp",
+  "folder": "c2d1bbdc0f0df058",
+  "sort": 0,
+  "system": {
+    "description": {
+      "value": "<p>The target and all enemies within 20 ft. are shaken for 1 round. Augment: +1 round per 2 extra PP.</p><p>Power: @UUID[Compendium.pf1-psionics.psionic-powers.Item.68ad3a0367ad7f73]{Fear Cascade} · <a href=\"https://www.d20pfsrd.com/alternative-rule-systems/3rd-party-rules-systems/psionics-unleashed /psionic-powers/f/fear-cascade\">full text</a></p>",
+      "instructions": ""
+    },
+    "tags": [
+      "Psionic"
+    ],
+    "changes": [],
+    "contextNotes": [],
+    "subType": "spell",
+    "active": false,
+    "level": 4,
+    "duration": {
+      "value": "1",
+      "units": "round",
+      "end": "turnStart"
+    },
+    "conditions": [
+      "shaken"
+    ],
+    "hideFromToken": false
+  },
+  "effects": [],
+  "flags": {
+    "pf1-psionics": {
+      "buff": true,
+      "power": "Fear Cascade",
+      "kind": "debuff"
+    }
+  }
+}

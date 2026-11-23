@@ -1,0 +1,33 @@
+{
+  "_id": "fdb7a7ceb7107f9f",
+  "_key": "!items!fdb7a7ceb7107f9f",
+  "name": "Uncanny Dodge",
+  "type": "feat",
+  "img": "icons/magic/movement/trail-streak-zigzag-teal.webp",
+  "sort": 6000,
+  "system": {
+    "description": {
+      "value": "<p>Voyager class feature, gained at level 6.</p><p>Full text: <a href=\"https://www.d20pfsrd.com/alternative-rule-systems/3rd-party-rules-systems/psionics-unleashed/classes/voyager/#\">Uncanny Dodge on d20pfsrd.com</a></p>",
+      "instructions": ""
+    },
+    "tags": [
+      "Psionic"
+    ],
+    "subType": "classFeat",
+    "abilityType": "na",
+    "associations": {
+      "classes": [
+        "Voyager"
+      ]
+    }
+  },
+  "effects": [],
+  "flags": {
+    "pf1-psionics": {
+      "classFeature": true,
+      "class": "Voyager",
+      "level": 6
+    }
+  },
+  "folder": "d63546275e5a4d4c"
+}

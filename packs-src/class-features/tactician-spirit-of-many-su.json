@@ -1,0 +1,33 @@
+{
+  "_id": "0d6d3ec7b2716473",
+  "_key": "!items!0d6d3ec7b2716473",
+  "name": "Spirit of Many (Su)",
+  "type": "feat",
+  "img": "icons/magic/symbols/cog-shield-white-blue.webp",
+  "sort": 2000,
+  "system": {
+    "description": {
+      "value": "<p>Tactician class feature, gained at level 2.</p><p>Full text: <a href=\"https://www.d20pfsrd.com/alternative-rule-systems/3rd-party-rules-systems/psionics-unleashed/classes/tactician/#TOC-Spirit-of-Many-Su-\">Spirit of Many (Su) on d20pfsrd.com</a></p>",
+      "instructions": ""
+    },
+    "tags": [
+      "Psionic"
+    ],
+    "subType": "classFeat",
+    "abilityType": "su",
+    "associations": {
+      "classes": [
+        "Tactician"
+      ]
+    }
+  },
+  "effects": [],
+  "flags": {
+    "pf1-psionics": {
+      "classFeature": true,
+      "class": "Tactician",
+      "level": 2
+    }
+  },
+  "folder": "b0a0f6adffdac163"
+}

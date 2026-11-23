@@ -1,0 +1,104 @@
+{
+  "_id": "aab78e08d075f612",
+  "_key": "!items!aab78e08d075f612",
+  "name": "Gravitational Anchor",
+  "type": "spell",
+  "img": "icons/magic/movement/portal-vortex-orange.webp",
+  "folder": "22ff58b8afb71d3d",
+  "sort": 0,
+  "system": {
+    "description": {
+      "value": "<p><em>Alter gravity to direct toward the creature or object you touch.</em></p><p>Full text: <a href=\"https://www.d20pfsrd.com/alternative-rule-systems/3rd-party-rules-systems/psionics-unleashed /psionic-powers/g/gravitational-anchor\">Gravitational Anchor on d20pfsrd.com</a></p><p><strong>Source:</strong> Psionics Expanded: Advanced Psionics Guide</p>",
+      "instructions": ""
+    },
+    "tags": [],
+    "actions": [
+      {
+        "_id": "05ae0f8aa622e076",
+        "name": "Manifest",
+        "actionType": "spellsave",
+        "activation": {
+          "type": "standard",
+          "cost": 1,
+          "unchained": {
+            "type": "action",
+            "cost": 2
+          }
+        },
+        "range": {
+          "units": "medium"
+        },
+        "duration": {
+          "units": "spec",
+          "value": "One round/level",
+          "dismiss": false,
+          "concentration": false
+        },
+        "target": {
+          "value": "One creature, object, or location"
+        },
+        "area": "10 ft. radius burst",
+        "save": {
+          "type": "ref",
+          "description": "Reflex negates"
+        }
+      }
+    ],
+    "learnedAt": {
+      "class": {
+        "marksman": 3,
+        "psion": 3
+      },
+      "domain": {
+        "nomad": 3
+      },
+      "subDomain": {},
+      "elementalSchool": {},
+      "bloodline": {}
+    },
+    "level": 3,
+    "school": "psychoportation",
+    "subschool": [],
+    "descriptors": [],
+    "components": {
+      "value": "Inline !Important",
+      "verbal": false,
+      "somatic": false,
+      "thought": false,
+      "emotion": false,
+      "material": false,
+      "focus": false,
+      "divineFocus": 0
+    },
+    "materials": {
+      "value": "",
+      "focus": "",
+      "gpValue": 0
+    },
+    "spellbook": "psionic",
+    "preparation": {
+      "value": 1,
+      "max": 1
+    },
+    "atWill": false,
+    "sr": true,
+    "domain": false,
+    "slotCost": 1,
+    "spellPoints": {
+      "cost": "5"
+    }
+  },
+  "effects": [],
+  "flags": {
+    "pf1-psionics": {
+      "power": true,
+      "discipline": "psychoportation",
+      "specialization": "nomad",
+      "augment": false,
+      "display": "Inline !Important",
+      "powerPoints": 5,
+      "source": "Psionics Expanded: Advanced Psionics Guide",
+      "url": "https://www.d20pfsrd.com/alternative-rule-systems/3rd-party-rules-systems/psionics-unleashed /psionic-powers/g/gravitational-anchor"
+    }
+  }
+}

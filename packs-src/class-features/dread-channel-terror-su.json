@@ -1,0 +1,33 @@
+{
+  "_id": "0abd150f76815e79",
+  "_key": "!items!0abd150f76815e79",
+  "name": "Channel Terror (Su)",
+  "type": "feat",
+  "img": "icons/magic/unholy/energy-smoke-pink.webp",
+  "sort": 3000,
+  "system": {
+    "description": {
+      "value": "<p>Dread class feature, gained at level 3.</p><p>Full text: <a href=\"https://www.d20pfsrd.com/alternative-rule-systems/3rd-party-rules-systems/psionics-unleashed/classes/dread/#TOC-Channel-Terror-Su-\">Channel Terror (Su) on d20pfsrd.com</a></p>",
+      "instructions": ""
+    },
+    "tags": [
+      "Psionic"
+    ],
+    "subType": "classFeat",
+    "abilityType": "su",
+    "associations": {
+      "classes": [
+        "Dread"
+      ]
+    }
+  },
+  "effects": [],
+  "flags": {
+    "pf1-psionics": {
+      "classFeature": true,
+      "class": "Dread",
+      "level": 3
+    }
+  },
+  "folder": "8950a1a3f5344759"
+}

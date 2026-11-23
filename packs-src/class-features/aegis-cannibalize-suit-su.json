@@ -1,0 +1,33 @@
+{
+  "_id": "0b322aca90e481b7",
+  "_key": "!items!0b322aca90e481b7",
+  "name": "Cannibalize Suit (Su)",
+  "type": "feat",
+  "img": "icons/magic/defensive/shield-barrier-blue.webp",
+  "sort": 12000,
+  "system": {
+    "description": {
+      "value": "<p>Aegis class feature, gained at level 12.</p><p>Full text: <a href=\"https://www.d20pfsrd.com/alternative-rule-systems/3rd-party-rules-systems/psionics-unleashed/classes/aegis/#TOC-Cannibalize-Suit-Su-\">Cannibalize Suit (Su) on d20pfsrd.com</a></p>",
+      "instructions": ""
+    },
+    "tags": [
+      "Psionic"
+    ],
+    "subType": "classFeat",
+    "abilityType": "su",
+    "associations": {
+      "classes": [
+        "Aegis"
+      ]
+    }
+  },
+  "effects": [],
+  "flags": {
+    "pf1-psionics": {
+      "classFeature": true,
+      "class": "Aegis",
+      "level": 12
+    }
+  },
+  "folder": "003e6518ab233bfd"
+}

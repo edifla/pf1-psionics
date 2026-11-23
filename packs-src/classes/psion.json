@@ -1,0 +1,162 @@
+{
+  "_id": "9f4c7db32669aa4f",
+  "_key": "!items!9f4c7db32669aa4f",
+  "name": "Psion",
+  "type": "class",
+  "img": "icons/magic/perception/eye-winged-pink.webp",
+  "folder": null,
+  "sort": 0,
+  "system": {
+    "description": {
+      "value": "<p><strong>Psion</strong> — psionic base class (Dreamscarred Press).</p><p><strong>Manifesting:</strong> key ability INT, powers up to level 9. Adding this class to a character enables the Psionic powers book.</p><p><strong>Psionic skills not in PF1:</strong> Autohypnosis.</p><table class=\"pf1-psionics-progression\"><thead><tr><th>Lvl</th><th>BAB</th><th>Fort</th><th>Ref</th><th>Will</th><th>Special</th><th>PP</th><th>Known</th><th>Max</th></tr></thead><tbody><tr><td>1st</td><td>+0</td><td>+0</td><td>+0</td><td>+2</td><td>Bonus feat, detect psionics, discipline, discipline talents</td><td>2</td><td>3</td><td>1st</td></tr><tr><td>2nd</td><td>+1</td><td>+0</td><td>+0</td><td>+3</td><td>Discipline ability</td><td>6</td><td>5</td><td>1st</td></tr><tr><td>3rd</td><td>+1</td><td>+1</td><td>+1</td><td>+3</td><td>—</td><td>11</td><td>7</td><td>2nd</td></tr><tr><td>4th</td><td>+2</td><td>+1</td><td>+1</td><td>+4</td><td>—</td><td>17</td><td>9</td><td>2nd</td></tr><tr><td>5th</td><td>+2</td><td>+1</td><td>+1</td><td>+4</td><td>Bonus feat</td><td>25</td><td>11</td><td>3rd</td></tr><tr><td>6th</td><td>+3</td><td>+2</td><td>+2</td><td>+5</td><td>—</td><td>35</td><td>13</td><td>3rd</td></tr><tr><td>7th</td><td>+3</td><td>+2</td><td>+2</td><td>+5</td><td>—</td><td>46</td><td>15</td><td>4th</td></tr><tr><td>8th</td><td>+4</td><td>+2</td><td>+2</td><td>+6</td><td>Discipline ability</td><td>58</td><td>17</td><td>4th</td></tr><tr><td>9th</td><td>+4</td><td>+3</td><td>+3</td><td>+6</td><td>—</td><td>72</td><td>19</td><td>5th</td></tr><tr><td>10th</td><td>+5</td><td>+3</td><td>+3</td><td>+7</td><td>Bonus feat</td><td>88</td><td>21</td><td>5th</td></tr><tr><td>11th</td><td>+5</td><td>+3</td><td>+3</td><td>+7</td><td>—</td><td>106</td><td>22</td><td>6th</td></tr><tr><td>12th</td><td>+6/+1</td><td>+4</td><td>+4</td><td>+8</td><td>—</td><td>126</td><td>24</td><td>6th</td></tr><tr><td>13th</td><td>+6/+1</td><td>+4</td><td>+4</td><td>+8</td><td>—</td><td>147</td><td>25</td><td>7th</td></tr><tr><td>14th</td><td>+7/+2</td><td>+4</td><td>+4</td><td>+9</td><td>Discipline ability</td><td>170</td><td>27</td><td>7th</td></tr><tr><td>15th</td><td>+7/+2</td><td>+5</td><td>+5</td><td>+9</td><td>Bonus feat</td><td>195</td><td>28</td><td>8th</td></tr><tr><td>16th</td><td>+8/+3</td><td>+5</td><td>+5</td><td>+10</td><td>—</td><td>221</td><td>30</td><td>8th</td></tr><tr><td>17th</td><td>+8/+3</td><td>+5</td><td>+5</td><td>+10</td><td>—</td><td>250</td><td>31</td><td>9th</td></tr><tr><td>18th</td><td>+9/+4</td><td>+6</td><td>+6</td><td>+11</td><td>—</td><td>280</td><td>33</td><td>9th</td></tr><tr><td>19th</td><td>+9/+4</td><td>+6</td><td>+6</td><td>+11</td><td>—</td><td>311</td><td>34</td><td>9th</td></tr><tr><td>20th</td><td>+10/+5</td><td>+6</td><td>+6</td><td>+12</td><td>Bonus feat, discipline ability</td><td>343</td><td>36</td><td>9th</td></tr></tbody></table><p>Class features: <a href=\"https://www.d20pfsrd.com/alternative-rule-systems/3rd-party-rules-systems/psionics-unleashed/classes/psion/\">Psion on d20pfsrd.com</a></p>",
+      "instructions": ""
+    },
+    "tags": [
+      "Psionic"
+    ],
+    "changes": [],
+    "contextNotes": [],
+    "links": {
+      "children": [],
+      "classAssociations": [
+        {
+          "level": 1,
+          "uuid": "Compendium.pf1-psionics.psionic-class-features.Item.a64ebd52150f86d2"
+        },
+        {
+          "level": 1,
+          "uuid": "Compendium.pf1-psionics.psionic-class-features.Item.2984bd0846d4f44f"
+        },
+        {
+          "level": 1,
+          "uuid": "Compendium.pf1-psionics.psionic-class-features.Item.b13c7e8de37f128f"
+        },
+        {
+          "level": 1,
+          "uuid": "Compendium.pf1-psionics.psionic-class-features.Item.58cda428f08bec2d"
+        },
+        {
+          "level": 2,
+          "uuid": "Compendium.pf1-psionics.psionic-class-features.Item.e350f34cc1e538ed"
+        }
+      ],
+      "supplements": []
+    },
+    "tag": "psion",
+    "armorProf": [],
+    "weaponProf": [],
+    "languages": [],
+    "subType": "base",
+    "level": 1,
+    "hd": 6,
+    "hp": 6,
+    "bab": "low",
+    "skillsPerLevel": 2,
+    "savingThrows": {
+      "fort": {
+        "value": "low"
+      },
+      "ref": {
+        "value": "low"
+      },
+      "will": {
+        "value": "high"
+      }
+    },
+    "wealth": "3d6 * 10",
+    "classSkills": {
+      "crf": true,
+      "kar": true,
+      "kdu": true,
+      "ken": true,
+      "kge": true,
+      "khi": true,
+      "klo": true,
+      "kna": true,
+      "kno": true,
+      "kpl": true,
+      "kre": true,
+      "pro": true,
+      "spl": true
+    }
+  },
+  "effects": [],
+  "flags": {
+    "pf1-psionics": {
+      "psionic": true,
+      "keyAbility": "int",
+      "maxPowerLevel": 9,
+      "casterType": "high",
+      "ppTable": [
+        2,
+        6,
+        11,
+        17,
+        25,
+        35,
+        46,
+        58,
+        72,
+        88,
+        106,
+        126,
+        147,
+        170,
+        195,
+        221,
+        250,
+        280,
+        311,
+        343
+      ],
+      "powersKnown": [
+        3,
+        5,
+        7,
+        9,
+        11,
+        13,
+        15,
+        17,
+        19,
+        21,
+        22,
+        24,
+        25,
+        27,
+        28,
+        30,
+        31,
+        33,
+        34,
+        36
+      ],
+      "maxPowerLevelTable": [
+        1,
+        1,
+        2,
+        2,
+        3,
+        3,
+        4,
+        4,
+        5,
+        5,
+        6,
+        6,
+        7,
+        7,
+        8,
+        8,
+        9,
+        9,
+        9,
+        9
+      ],
+      "unmappedSkills": [
+        "Autohypnosis"
+      ],
+      "url": "https://www.d20pfsrd.com/alternative-rule-systems/3rd-party-rules-systems/psionics-unleashed/classes/psion/"
+    }
+  }
+}

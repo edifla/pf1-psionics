@@ -1,0 +1,43 @@
+{
+  "_id": "cad204bf85e43b16",
+  "_key": "!items!cad204bf85e43b16",
+  "name": "Crystalline Bonds",
+  "type": "buff",
+  "img": "icons/magic/symbols/elements-air-earth-fire-water.webp",
+  "folder": "c2d1bbdc0f0df058",
+  "sort": 0,
+  "system": {
+    "description": {
+      "value": "<p>Bound and gagged by crystal: 3d6 damage, then 1d6 per round. Only mental actions; manifesting needs a concentration check (DC 20 + half the continuous damage). Break free with DC 20 Strength or Escape Artist (1 round). The crystal has AC 5, hardness 12, 30 hp.</p><p>Power: @UUID[Compendium.pf1-psionics.psionic-powers.Item.60fed78fd47b767d]{Crystalline Bonds} · <a href=\"https://www.d20pfsrd.com/alternative-rule-systems/3rd-party-rules-systems/psionics-unleashed /psionic-powers/c/crystalline-bonds\">full text</a></p>",
+      "instructions": ""
+    },
+    "tags": [
+      "Psionic"
+    ],
+    "changes": [],
+    "contextNotes": [
+      {
+        "target": "skills",
+        "text": "Crystalline Bonds: break free with a DC 20 Strength or Escape Artist check (1 round)."
+      }
+    ],
+    "subType": "spell",
+    "active": false,
+    "level": 4,
+    "duration": {
+      "value": "@item.level",
+      "units": "round",
+      "end": "turnStart"
+    },
+    "conditions": [],
+    "hideFromToken": false
+  },
+  "effects": [],
+  "flags": {
+    "pf1-psionics": {
+      "buff": true,
+      "power": "Crystalline Bonds",
+      "kind": "debuff"
+    }
+  }
+}

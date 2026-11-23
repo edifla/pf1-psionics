@@ -1,0 +1,33 @@
+{
+  "_id": "0137d80ba83ce799",
+  "_key": "!items!0137d80ba83ce799",
+  "name": "Perfect Surge (Su)",
+  "type": "feat",
+  "img": "icons/magic/fire/beam-jet-stream-blue.webp",
+  "sort": 20000,
+  "system": {
+    "description": {
+      "value": "<p>Wilder class feature, gained at level 20.</p><p>Full text: <a href=\"https://www.d20pfsrd.com/alternative-rule-systems/3rd-party-rules-systems/psionics-unleashed/classes/wilder/#TOC-Perfect-Surge-Su-\">Perfect Surge (Su) on d20pfsrd.com</a></p>",
+      "instructions": ""
+    },
+    "tags": [
+      "Psionic"
+    ],
+    "subType": "classFeat",
+    "abilityType": "su",
+    "associations": {
+      "classes": [
+        "Wilder"
+      ]
+    }
+  },
+  "effects": [],
+  "flags": {
+    "pf1-psionics": {
+      "classFeature": true,
+      "class": "Wilder",
+      "level": 20
+    }
+  },
+  "folder": "a5ca442bb39c1991"
+}

@@ -1,0 +1,33 @@
+{
+  "_id": "d9a3e872b0c56bd7",
+  "_key": "!items!d9a3e872b0c56bd7",
+  "name": "Steal Life (Su)",
+  "type": "feat",
+  "img": "icons/magic/life/cross-beam-green.webp",
+  "sort": 14000,
+  "system": {
+    "description": {
+      "value": "<p>Vitalist class feature, gained at level 14.</p><p>Full text: <a href=\"https://www.d20pfsrd.com/alternative-rule-systems/3rd-party-rules-systems/psionics-unleashed/classes/vitalist/#TOC-Steal-Life-Su-\">Steal Life (Su) on d20pfsrd.com</a></p>",
+      "instructions": ""
+    },
+    "tags": [
+      "Psionic"
+    ],
+    "subType": "classFeat",
+    "abilityType": "su",
+    "associations": {
+      "classes": [
+        "Vitalist"
+      ]
+    }
+  },
+  "effects": [],
+  "flags": {
+    "pf1-psionics": {
+      "classFeature": true,
+      "class": "Vitalist",
+      "level": 14
+    }
+  },
+  "folder": "629ec26d2deca54d"
+}

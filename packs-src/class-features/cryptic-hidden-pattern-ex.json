@@ -1,0 +1,33 @@
+{
+  "_id": "619520d99f091230",
+  "_key": "!items!619520d99f091230",
+  "name": "Hidden Pattern (Ex)",
+  "type": "feat",
+  "img": "icons/magic/symbols/circle-ouroboros.webp",
+  "sort": 2000,
+  "system": {
+    "description": {
+      "value": "<p>Cryptic class feature, gained at level 2.</p><p>Full text: <a href=\"https://www.d20pfsrd.com/alternative-rule-systems/3rd-party-rules-systems/psionics-unleashed/classes/cryptic/#TOC-Hidden-Pattern-Ex-\">Hidden Pattern (Ex) on d20pfsrd.com</a></p>",
+      "instructions": ""
+    },
+    "tags": [
+      "Psionic"
+    ],
+    "subType": "classFeat",
+    "abilityType": "ex",
+    "associations": {
+      "classes": [
+        "Cryptic"
+      ]
+    }
+  },
+  "effects": [],
+  "flags": {
+    "pf1-psionics": {
+      "classFeature": true,
+      "class": "Cryptic",
+      "level": 2
+    }
+  },
+  "folder": "53dd3a0f76729752"
+}

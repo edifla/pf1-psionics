@@ -1,0 +1,33 @@
+{
+  "_id": "381de9f75929572e",
+  "_key": "!items!381de9f75929572e",
+  "name": "Elude Attack (Ex)",
+  "type": "feat",
+  "img": "icons/magic/fire/beam-jet-stream-blue.webp",
+  "sort": 2000,
+  "system": {
+    "description": {
+      "value": "<p>Wilder class feature, gained at level 2.</p><p>Full text: <a href=\"https://www.d20pfsrd.com/alternative-rule-systems/3rd-party-rules-systems/psionics-unleashed/classes/wilder/#TOC-Elude-Attack-Ex-\">Elude Attack (Ex) on d20pfsrd.com</a></p>",
+      "instructions": ""
+    },
+    "tags": [
+      "Psionic"
+    ],
+    "subType": "classFeat",
+    "abilityType": "ex",
+    "associations": {
+      "classes": [
+        "Wilder"
+      ]
+    }
+  },
+  "effects": [],
+  "flags": {
+    "pf1-psionics": {
+      "classFeature": true,
+      "class": "Wilder",
+      "level": 2
+    }
+  },
+  "folder": "a5ca442bb39c1991"
+}

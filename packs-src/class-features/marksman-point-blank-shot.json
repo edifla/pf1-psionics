@@ -1,0 +1,33 @@
+{
+  "_id": "645beed3fda70bb4",
+  "_key": "!items!645beed3fda70bb4",
+  "name": "Point-blank Shot",
+  "type": "feat",
+  "img": "icons/magic/perception/eye-slit-orange.webp",
+  "sort": 1000,
+  "system": {
+    "description": {
+      "value": "<p>Marksman class feature, gained at level 1.</p><p>Full text: <a href=\"https://www.d20pfsrd.com/alternative-rule-systems/3rd-party-rules-systems/psionics-unleashed/classes/marksman/#TOC-Point-Blank-Shot\">Point-blank Shot on d20pfsrd.com</a></p>",
+      "instructions": ""
+    },
+    "tags": [
+      "Psionic"
+    ],
+    "subType": "classFeat",
+    "abilityType": "na",
+    "associations": {
+      "classes": [
+        "Marksman"
+      ]
+    }
+  },
+  "effects": [],
+  "flags": {
+    "pf1-psionics": {
+      "classFeature": true,
+      "class": "Marksman",
+      "level": 1
+    }
+  },
+  "folder": "8b64e6d751692b49"
+}

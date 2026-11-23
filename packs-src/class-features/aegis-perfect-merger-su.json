@@ -1,0 +1,33 @@
+{
+  "_id": "636a6905bd8d0d2d",
+  "_key": "!items!636a6905bd8d0d2d",
+  "name": "Perfect Merger (Su)",
+  "type": "feat",
+  "img": "icons/magic/defensive/shield-barrier-blue.webp",
+  "sort": 20000,
+  "system": {
+    "description": {
+      "value": "<p>Aegis class feature, gained at level 20.</p><p>Full text: <a href=\"https://www.d20pfsrd.com/alternative-rule-systems/3rd-party-rules-systems/psionics-unleashed/classes/aegis/#TOC-Perfect-Merger-Su-\">Perfect Merger (Su) on d20pfsrd.com</a></p>",
+      "instructions": ""
+    },
+    "tags": [
+      "Psionic"
+    ],
+    "subType": "classFeat",
+    "abilityType": "su",
+    "associations": {
+      "classes": [
+        "Aegis"
+      ]
+    }
+  },
+  "effects": [],
+  "flags": {
+    "pf1-psionics": {
+      "classFeature": true,
+      "class": "Aegis",
+      "level": 20
+    }
+  },
+  "folder": "003e6518ab233bfd"
+}

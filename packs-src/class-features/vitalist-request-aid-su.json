@@ -1,0 +1,33 @@
+{
+  "_id": "1b6b4d0edec7e5f8",
+  "_key": "!items!1b6b4d0edec7e5f8",
+  "name": "Request Aid (Su)",
+  "type": "feat",
+  "img": "icons/magic/life/cross-beam-green.webp",
+  "sort": 5000,
+  "system": {
+    "description": {
+      "value": "<p>Vitalist class feature, gained at level 5.</p><p>Full text: <a href=\"https://www.d20pfsrd.com/alternative-rule-systems/3rd-party-rules-systems/psionics-unleashed/classes/vitalist/#TOC-Request-Aid-Su-\">Request Aid (Su) on d20pfsrd.com</a></p>",
+      "instructions": ""
+    },
+    "tags": [
+      "Psionic"
+    ],
+    "subType": "classFeat",
+    "abilityType": "su",
+    "associations": {
+      "classes": [
+        "Vitalist"
+      ]
+    }
+  },
+  "effects": [],
+  "flags": {
+    "pf1-psionics": {
+      "classFeature": true,
+      "class": "Vitalist",
+      "level": 5
+    }
+  },
+  "folder": "629ec26d2deca54d"
+}

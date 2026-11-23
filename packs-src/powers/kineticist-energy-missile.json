@@ -1,0 +1,101 @@
+{
+  "_id": "791d4f942d61c451",
+  "_key": "!items!791d4f942d61c451",
+  "name": "Energy Missile",
+  "type": "spell",
+  "img": "icons/magic/fire/beam-jet-stream-blue.webp",
+  "folder": "c06fa52e4eb97703",
+  "sort": 0,
+  "system": {
+    "description": {
+      "value": "<p><em>Deal 3d6 energy damage to up to five subjects.</em></p><p><strong>Augment:</strong> this power can be augmented (see full text).</p><p>Full text: <a href=\"https://www.d20pfsrd.com/alternative-rule-systems/3rd-party-rules-systems/psionics-unleashed /psionic-powers/e/energy-missile\">Energy Missile on d20pfsrd.com</a></p><p><strong>Source:</strong> Psionics Unleashed</p>",
+      "instructions": ""
+    },
+    "tags": [],
+    "actions": [
+      {
+        "_id": "d492034309c68091",
+        "name": "Manifest",
+        "actionType": "spellsave",
+        "activation": {
+          "type": "standard",
+          "cost": 1,
+          "unchained": {
+            "type": "action",
+            "cost": 2
+          }
+        },
+        "range": {
+          "units": "medium"
+        },
+        "duration": {
+          "units": "inst",
+          "dismiss": false,
+          "concentration": false
+        },
+        "target": {
+          "value": "Up to five creatures or unattended objects"
+        },
+        "save": {
+          "type": "ref",
+          "description": "Reflex half or Fortitude half"
+        }
+      }
+    ],
+    "learnedAt": {
+      "class": {
+        "psion": 2
+      },
+      "domain": {
+        "kineticist": 2
+      },
+      "subDomain": {},
+      "elementalSchool": {},
+      "bloodline": {}
+    },
+    "level": 2,
+    "school": "psychokinesis",
+    "subschool": [],
+    "descriptors": [],
+    "components": {
+      "value": "Inline !Important",
+      "verbal": false,
+      "somatic": false,
+      "thought": false,
+      "emotion": false,
+      "material": false,
+      "focus": false,
+      "divineFocus": 0
+    },
+    "materials": {
+      "value": "",
+      "focus": "",
+      "gpValue": 0
+    },
+    "spellbook": "psionic",
+    "preparation": {
+      "value": 1,
+      "max": 1
+    },
+    "atWill": false,
+    "sr": true,
+    "domain": false,
+    "slotCost": 1,
+    "spellPoints": {
+      "cost": "3"
+    }
+  },
+  "effects": [],
+  "flags": {
+    "pf1-psionics": {
+      "power": true,
+      "discipline": "psychokinesis",
+      "specialization": "kineticist",
+      "augment": true,
+      "display": "Inline !Important",
+      "powerPoints": 3,
+      "source": "Psionics Unleashed",
+      "url": "https://www.d20pfsrd.com/alternative-rule-systems/3rd-party-rules-systems/psionics-unleashed /psionic-powers/e/energy-missile"
+    }
+  }
+}

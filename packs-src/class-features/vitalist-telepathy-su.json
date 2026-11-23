@@ -1,0 +1,33 @@
+{
+  "_id": "442baabd3d0ef1f5",
+  "_key": "!items!442baabd3d0ef1f5",
+  "name": "Telepathy (Su)",
+  "type": "feat",
+  "img": "icons/magic/life/cross-beam-green.webp",
+  "sort": 3000,
+  "system": {
+    "description": {
+      "value": "<p>Vitalist class feature, gained at level 3.</p><p>Full text: <a href=\"https://www.d20pfsrd.com/alternative-rule-systems/3rd-party-rules-systems/psionics-unleashed/classes/vitalist/#TOC-Telepathy-Su-\">Telepathy (Su) on d20pfsrd.com</a></p>",
+      "instructions": ""
+    },
+    "tags": [
+      "Psionic"
+    ],
+    "subType": "classFeat",
+    "abilityType": "su",
+    "associations": {
+      "classes": [
+        "Vitalist"
+      ]
+    }
+  },
+  "effects": [],
+  "flags": {
+    "pf1-psionics": {
+      "classFeature": true,
+      "class": "Vitalist",
+      "level": 3
+    }
+  },
+  "folder": "629ec26d2deca54d"
+}

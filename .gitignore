@@ -1,0 +1,6 @@
+node_modules/
+# Compêndios LevelDB: gerados a partir de packs-src (localmente e na release).
+packs/
+*.zip
+.DS_Store
+Thumbs.db

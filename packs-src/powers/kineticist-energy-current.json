@@ -1,0 +1,102 @@
+{
+  "_id": "37cba51fc675f87e",
+  "_key": "!items!37cba51fc675f87e",
+  "name": "Energy Current",
+  "type": "spell",
+  "img": "icons/magic/fire/beam-jet-stream-blue.webp",
+  "folder": "c06fa52e4eb97703",
+  "sort": 0,
+  "system": {
+    "description": {
+      "value": "<p><em>Deal 9d6 damage to up to two foes as long as you concentrate.</em></p><p><strong>Augment:</strong> this power can be augmented (see full text).</p><p>Full text: <a href=\"https://www.d20pfsrd.com/alternative-rule-systems/3rd-party-rules-systems/psionics-unleashed /psionic-powers/e/energy-current\">Energy Current on d20pfsrd.com</a></p><p><strong>Source:</strong> Psionics Unleashed</p>",
+      "instructions": ""
+    },
+    "tags": [],
+    "actions": [
+      {
+        "_id": "2ada67af415d4e1d",
+        "name": "Manifest",
+        "actionType": "spellsave",
+        "activation": {
+          "type": "standard",
+          "cost": 1,
+          "unchained": {
+            "type": "action",
+            "cost": 2
+          }
+        },
+        "range": {
+          "units": "close"
+        },
+        "duration": {
+          "units": "spec",
+          "value": "Concentration, up to 1 round/level",
+          "dismiss": false,
+          "concentration": true
+        },
+        "target": {
+          "value": "Any two creatures no more than 15 ft. apart"
+        },
+        "save": {
+          "type": "ref",
+          "description": "Reflex half or Fortitude half"
+        }
+      }
+    ],
+    "learnedAt": {
+      "class": {
+        "psion": 5
+      },
+      "domain": {
+        "kineticist": 5
+      },
+      "subDomain": {},
+      "elementalSchool": {},
+      "bloodline": {}
+    },
+    "level": 5,
+    "school": "psychokinesis",
+    "subschool": [],
+    "descriptors": [],
+    "components": {
+      "value": "Inline !Important",
+      "verbal": false,
+      "somatic": false,
+      "thought": false,
+      "emotion": false,
+      "material": false,
+      "focus": false,
+      "divineFocus": 0
+    },
+    "materials": {
+      "value": "",
+      "focus": "",
+      "gpValue": 0
+    },
+    "spellbook": "psionic",
+    "preparation": {
+      "value": 1,
+      "max": 1
+    },
+    "atWill": false,
+    "sr": true,
+    "domain": false,
+    "slotCost": 1,
+    "spellPoints": {
+      "cost": "9"
+    }
+  },
+  "effects": [],
+  "flags": {
+    "pf1-psionics": {
+      "power": true,
+      "discipline": "psychokinesis",
+      "specialization": "kineticist",
+      "augment": true,
+      "display": "Inline !Important",
+      "powerPoints": 9,
+      "source": "Psionics Unleashed",
+      "url": "https://www.d20pfsrd.com/alternative-rule-systems/3rd-party-rules-systems/psionics-unleashed /psionic-powers/e/energy-current"
+    }
+  }
+}

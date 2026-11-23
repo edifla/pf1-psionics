@@ -1,0 +1,33 @@
+{
+  "_id": "4c0fd6b0631c535c",
+  "_key": "!items!4c0fd6b0631c535c",
+  "name": "Altered Defense (Su)",
+  "type": "feat",
+  "img": "icons/magic/symbols/circle-ouroboros.webp",
+  "sort": 1000,
+  "system": {
+    "description": {
+      "value": "<p>Cryptic class feature, gained at level 1.</p><p>Full text: <a href=\"https://www.d20pfsrd.com/alternative-rule-systems/3rd-party-rules-systems/psionics-unleashed/classes/cryptic/#TOC-Altered-Defense-Su-\">Altered Defense (Su) on d20pfsrd.com</a></p>",
+      "instructions": ""
+    },
+    "tags": [
+      "Psionic"
+    ],
+    "subType": "classFeat",
+    "abilityType": "su",
+    "associations": {
+      "classes": [
+        "Cryptic"
+      ]
+    }
+  },
+  "effects": [],
+  "flags": {
+    "pf1-psionics": {
+      "classFeature": true,
+      "class": "Cryptic",
+      "level": 1
+    }
+  },
+  "folder": "53dd3a0f76729752"
+}

@@ -1,0 +1,45 @@
+{
+  "_id": "f1fb168a932e3f8d",
+  "_key": "!items!f1fb168a932e3f8d",
+  "name": "Expose Weakness (Augmented)",
+  "type": "buff",
+  "img": "icons/magic/life/heart-area-circle-red-green.webp",
+  "folder": "c2d1bbdc0f0df058",
+  "sort": 0,
+  "system": {
+    "description": {
+      "value": "<p>Augmented (+6 PP): the target is flat-footed instead of flanked, plus the other effects of Expose Weakness.</p><p>Power: @UUID[Compendium.pf1-psionics.psionic-powers.Item.2ba24fae1cd44fe2]{Expose Weakness} · <a href=\"https://www.d20pfsrd.com/alternative-rule-systems/3rd-party-rules-systems/psionics-unleashed /psionic-powers/e/expose-weakness\">full text</a></p>",
+      "instructions": ""
+    },
+    "tags": [
+      "Psionic"
+    ],
+    "changes": [],
+    "contextNotes": [
+      {
+        "target": "ac",
+        "text": "Expose Weakness: attackers get +4 to confirm criticals; fortification is rolled twice (worse result)."
+      }
+    ],
+    "subType": "spell",
+    "active": false,
+    "level": 3,
+    "duration": {
+      "value": "@item.level",
+      "units": "round",
+      "end": "turnStart"
+    },
+    "conditions": [
+      "flatFooted"
+    ],
+    "hideFromToken": false
+  },
+  "effects": [],
+  "flags": {
+    "pf1-psionics": {
+      "buff": true,
+      "power": "Expose Weakness",
+      "kind": "debuff"
+    }
+  }
+}

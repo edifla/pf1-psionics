@@ -1,0 +1,33 @@
+{
+  "_id": "99ada18400283a44",
+  "_key": "!items!99ada18400283a44",
+  "name": "Damage Reduction",
+  "type": "feat",
+  "img": "icons/magic/defensive/shield-barrier-blue.webp",
+  "sort": 2000,
+  "system": {
+    "description": {
+      "value": "<p>Aegis class feature, gained at level 2.</p><p>Full text: <a href=\"https://www.d20pfsrd.com/alternative-rule-systems/3rd-party-rules-systems/psionics-unleashed/classes/aegis/#TOC-Damage-Reduction\">Damage Reduction on d20pfsrd.com</a></p>",
+      "instructions": ""
+    },
+    "tags": [
+      "Psionic"
+    ],
+    "subType": "classFeat",
+    "abilityType": "na",
+    "associations": {
+      "classes": [
+        "Aegis"
+      ]
+    }
+  },
+  "effects": [],
+  "flags": {
+    "pf1-psionics": {
+      "classFeature": true,
+      "class": "Aegis",
+      "level": 2
+    }
+  },
+  "folder": "003e6518ab233bfd"
+}

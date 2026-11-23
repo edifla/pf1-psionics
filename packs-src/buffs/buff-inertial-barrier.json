@@ -1,0 +1,43 @@
+{
+  "_id": "974f360f4001e938",
+  "_key": "!items!974f360f4001e938",
+  "name": "Inertial Barrier",
+  "type": "buff",
+  "img": "icons/magic/fire/beam-jet-stream-blue.webp",
+  "folder": "0f66d49851bfb591",
+  "sort": 0,
+  "system": {
+    "description": {
+      "value": "<p>Damage reduction 5/– and half damage from falling. Add the DR in the actor's defenses while active.</p><p>Power: @UUID[Compendium.pf1-psionics.psionic-powers.Item.885093e223e87786]{Inertial Barrier} · <a href=\"https://www.d20pfsrd.com/alternative-rule-systems/3rd-party-rules-systems/psionics-unleashed /psionic-powers/i/inertial-barrier\">full text</a></p>",
+      "instructions": ""
+    },
+    "tags": [
+      "Psionic"
+    ],
+    "changes": [],
+    "contextNotes": [
+      {
+        "target": "ac",
+        "text": "Inertial Barrier: DR 5/–; half damage from falls."
+      }
+    ],
+    "subType": "spell",
+    "active": false,
+    "level": 4,
+    "duration": {
+      "value": "@item.level * 10",
+      "units": "minute",
+      "end": "turnStart"
+    },
+    "conditions": [],
+    "hideFromToken": false
+  },
+  "effects": [],
+  "flags": {
+    "pf1-psionics": {
+      "buff": true,
+      "power": "Inertial Barrier",
+      "kind": "buff"
+    }
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "_id": "333a150c28ec1e1a",
+  "_key": "!items!333a150c28ec1e1a",
+  "name": "Hustle",
+  "type": "spell",
+  "img": "icons/magic/life/heart-area-circle-red-green.webp",
+  "folder": "2f99aa4b358c02dc",
+  "sort": 0,
+  "system": {
+    "description": {
+      "value": "<p><em>Instantly gain a move action.</em></p><p>Full text: <a href=\"https://www.d20pfsrd.com/alternative-rule-systems/3rd-party-rules-systems/psionics-unleashed /psionic-powers/h/hustle\">Hustle on d20pfsrd.com</a></p><p><strong>Source:</strong> Psionics Unleashed</p>",
+      "instructions": ""
+    },
+    "tags": [],
+    "actions": [
+      {
+        "_id": "765032d2daffd0c3",
+        "name": "Manifest",
+        "actionType": "other",
+        "activation": {
+          "type": "swift",
+          "cost": 1,
+          "unchained": {
+            "type": "action",
+            "cost": 1
+          }
+        },
+        "range": {
+          "units": "personal"
+        },
+        "duration": {
+          "units": "inst",
+          "dismiss": false,
+          "concentration": false
+        },
+        "target": {
+          "value": "You"
+        },
+        "effect": "1 extra move action"
+      }
+    ],
+    "learnedAt": {
+      "class": {
+        "psion": 3,
+        "marksman": 3,
+        "psychicWarrior": 2
+      },
+      "domain": {
+        "egoist": 3
+      },
+      "subDomain": {},
+      "elementalSchool": {},
+      "bloodline": {}
+    },
+    "level": 3,
+    "school": "psychometabolism",
+    "subschool": [],
+    "descriptors": [],
+    "components": {
+      "value": "Inline !Important",
+      "verbal": false,
+      "somatic": false,
+      "thought": false,
+      "emotion": false,
+      "material": false,
+      "focus": false,
+      "divineFocus": 0
+    },
+    "materials": {
+      "value": "",
+      "focus": "",
+      "gpValue": 0
+    },
+    "spellbook": "psionic",
+    "preparation": {
+      "value": 1,
+      "max": 1
+    },
+    "atWill": false,
+    "sr": false,
+    "domain": false,
+    "slotCost": 1,
+    "spellPoints": {
+      "cost": "5"
+    }
+  },
+  "effects": [],
+  "flags": {
+    "pf1-psionics": {
+      "power": true,
+      "discipline": "psychometabolism",
+      "specialization": "egoist",
+      "augment": false,
+      "display": "Inline !Important",
+      "powerPoints": 5,
+      "source": "Psionics Unleashed",
+      "url": "https://www.d20pfsrd.com/alternative-rule-systems/3rd-party-rules-systems/psionics-unleashed /psionic-powers/h/hustle"
+    }
+  }
+}

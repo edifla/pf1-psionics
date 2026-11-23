@@ -1,0 +1,50 @@
+{
+  "_id": "5f937d521bde37d6",
+  "_key": "!items!5f937d521bde37d6",
+  "name": "Ectoplasmic Form",
+  "type": "buff",
+  "img": "icons/magic/life/heart-area-circle-red-green.webp",
+  "folder": "0f66d49851bfb591",
+  "sort": 0,
+  "system": {
+    "description": {
+      "value": "<p>DR 10/psionics, immunity to poison and critical hits, fly 20 ft. (perfect). Material armor stops counting; you can't attack physically or speak, and manifesting needs a concentration check (DC 20 + power level).</p><p>Power: @UUID[Compendium.pf1-psionics.psionic-powers.Item.017526d1c4ceeb57]{Ectoplasmic Form} · <a href=\"https://www.d20pfsrd.com/alternative-rule-systems/3rd-party-rules-systems/psionics-unleashed /psionic-powers/e/ectoplasmic-form\">full text</a></p>",
+      "instructions": ""
+    },
+    "tags": [
+      "Psionic"
+    ],
+    "changes": [
+      {
+        "_id": "eb962e31",
+        "formula": "20",
+        "target": "flySpeed",
+        "type": "untyped"
+      }
+    ],
+    "contextNotes": [
+      {
+        "target": "ac",
+        "text": "Ectoplasmic Form: DR 10/psionics; immune to poison and critical hits; material armor doesn't apply."
+      }
+    ],
+    "subType": "spell",
+    "active": false,
+    "level": 3,
+    "duration": {
+      "value": "@item.level",
+      "units": "minute",
+      "end": "turnStart"
+    },
+    "conditions": [],
+    "hideFromToken": false
+  },
+  "effects": [],
+  "flags": {
+    "pf1-psionics": {
+      "buff": true,
+      "power": "Ectoplasmic Form",
+      "kind": "buff"
+    }
+  }
+}

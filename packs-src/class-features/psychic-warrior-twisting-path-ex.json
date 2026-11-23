@@ -1,0 +1,33 @@
+{
+  "_id": "f3fd2489160ff850",
+  "_key": "!items!f3fd2489160ff850",
+  "name": "Twisting Path (Ex)",
+  "type": "feat",
+  "img": "icons/magic/control/buff-flight-wings-runes-purple.webp",
+  "sort": 12000,
+  "system": {
+    "description": {
+      "value": "<p>Psychic Warrior class feature, gained at level 12.</p><p>Full text: <a href=\"https://www.d20pfsrd.com/alternative-rule-systems/3rd-party-rules-systems/psionics-unleashed/classes/psychic-warrior/#TOC-Twisting-Path-Ex-\">Twisting Path (Ex) on d20pfsrd.com</a></p>",
+      "instructions": ""
+    },
+    "tags": [
+      "Psionic"
+    ],
+    "subType": "classFeat",
+    "abilityType": "ex",
+    "associations": {
+      "classes": [
+        "Psychic Warrior"
+      ]
+    }
+  },
+  "effects": [],
+  "flags": {
+    "pf1-psionics": {
+      "classFeature": true,
+      "class": "Psychic Warrior",
+      "level": 12
+    }
+  },
+  "folder": "e46e253b5d80da78"
+}

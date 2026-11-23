@@ -1,0 +1,40 @@
+/* A aba Poderes reaproveita a marcação e o CSS do grimório do PF1 (.tab.spellbook .spellbook-group).
+   Aqui só garantimos que o grimório movido ocupe a aba inteira com rolagem. */
+.pf1.sheet.actor .tab.psionics-tab .spellbooks-body {
+  display: flex;
+  flex-direction: column;
+  flex: 1;
+  min-height: 0;
+}
+
+.pf1.sheet.actor .tab.psionics-tab .spellbook-group {
+  display: flex;
+  flex-direction: column;
+  flex: 1;
+  min-height: 0;
+  overflow-y: auto;
+}
+
+/* Tabela de progressão nas descrições das classes psiônicas. */
+table.pf1-psionics-progression {
+  width: 100%;
+  table-layout: auto;
+  border-collapse: collapse;
+  font-size: var(--font-size-12, 12px);
+  text-align: center;
+}
+
+/* Números e cabeçalhos numa linha só; só a coluna "Special" quebra. */
+table.pf1-psionics-progression th,
+table.pf1-psionics-progression td {
+  padding: 2px 6px;
+  white-space: nowrap;
+  word-break: normal;
+}
+
+table.pf1-psionics-progression th:nth-child(6),
+table.pf1-psionics-progression td:nth-child(6) {
+  width: 100%;
+  white-space: normal;
+  text-align: start;
+}

@@ -1,0 +1,100 @@
+{
+  "_id": "be547019eaf19a2e",
+  "_key": "!items!be547019eaf19a2e",
+  "name": "Dispelling Buffer",
+  "type": "spell",
+  "img": "icons/magic/fire/beam-jet-stream-blue.webp",
+  "folder": "c06fa52e4eb97703",
+  "sort": 0,
+  "system": {
+    "description": {
+      "value": "<p><em>Subject is buffered from one dispel psionics effect.</em></p><p>Full text: <a href=\"https://www.d20pfsrd.com/alternative-rule-systems/3rd-party-rules-systems/psionics-unleashed /psionic-powers/d/dispelling-buffer\">Dispelling Buffer on d20pfsrd.com</a></p><p><strong>Source:</strong> Psionics Unleashed</p>",
+      "instructions": ""
+    },
+    "tags": [],
+    "actions": [
+      {
+        "_id": "e433b05643da4c5f",
+        "name": "Manifest",
+        "actionType": "other",
+        "activation": {
+          "type": "standard",
+          "cost": 1,
+          "unchained": {
+            "type": "action",
+            "cost": 2
+          }
+        },
+        "range": {
+          "units": "personal"
+        },
+        "duration": {
+          "units": "spec",
+          "value": "1 hour/level (D)",
+          "dismiss": true,
+          "concentration": false
+        },
+        "target": {
+          "value": "You or one willing creature or one object (object weighing up to 100 lb./level)"
+        }
+      }
+    ],
+    "learnedAt": {
+      "class": {
+        "psion": 6,
+        "psychicWarrior": 6,
+        "tactician": 6
+      },
+      "domain": {
+        "kineticist": 6
+      },
+      "subDomain": {},
+      "elementalSchool": {},
+      "bloodline": {}
+    },
+    "level": 6,
+    "school": "psychokinesis",
+    "subschool": [],
+    "descriptors": [],
+    "components": {
+      "value": "Inline !Important",
+      "verbal": false,
+      "somatic": false,
+      "thought": false,
+      "emotion": false,
+      "material": false,
+      "focus": false,
+      "divineFocus": 0
+    },
+    "materials": {
+      "value": "",
+      "focus": "",
+      "gpValue": 0
+    },
+    "spellbook": "psionic",
+    "preparation": {
+      "value": 1,
+      "max": 1
+    },
+    "atWill": false,
+    "sr": true,
+    "domain": false,
+    "slotCost": 1,
+    "spellPoints": {
+      "cost": "11"
+    }
+  },
+  "effects": [],
+  "flags": {
+    "pf1-psionics": {
+      "power": true,
+      "discipline": "psychokinesis",
+      "specialization": "kineticist",
+      "augment": false,
+      "display": "Inline !Important",
+      "powerPoints": 11,
+      "source": "Psionics Unleashed",
+      "url": "https://www.d20pfsrd.com/alternative-rule-systems/3rd-party-rules-systems/psionics-unleashed /psionic-powers/d/dispelling-buffer"
+    }
+  }
+}
